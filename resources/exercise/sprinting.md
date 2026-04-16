@@ -1,12 +1,10 @@
 ---
 title: Sprinting
 category: cardio
-description: Maximal-effort anaerobic bursts that drive hormonal adaptation, fast-twitch
-  recruitment, and metabolic benefits in minimal time
+description: Maximal-effort anaerobic bursts that drive hormonal adaptation, fast-twitch recruitment, and metabolic benefits in minimal time
 benefits:
 - id: aerobic-capacity
-  label: Sprint interval training produces VO2 max gains comparable to hours of endurance
-    work
+  label: Sprint interval training produces VO2 max gains comparable to hours of endurance work
 - id: metabolic-adaptation
   label: Improves insulin sensitivity and skeletal muscle mitochondrial content
 - id: hormonal-response
@@ -16,11 +14,15 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/24129784/
+  title: 'Sprint interval training effects on aerobic capacity: a systematic review and meta-analysis.'
+  date: '2014-02-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1995688/
+  title: 'Short-term sprint interval versus traditional endurance training: similar initial adaptations in human skeletal muscle and exercise performance'
+  date: '2006-01-01'
 ---
 
 

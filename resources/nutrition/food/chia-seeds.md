@@ -15,11 +15,15 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-04-08
+lastResearched: '2026-04-08'
 readiness: ready
 references:
 - url: https://nutritionsource.hsph.harvard.edu/food-features/chia-seeds/
+  title: Chia Seeds • The Nutrition Source
+  date: '2018-03-19'
 - url: https://pubmed.ncbi.nlm.nih.gov/25143474/
+  title: 'Dietary fiber intake and total mortality: a meta-analysis of prospective cohort studies.'
+  date: '2014-09-15'
 ---
 
 Chia seeds are among the most fiber-dense foods by weight, providing roughly 10 grams of fiber per ounce, much of it soluble and gel-forming. They also supply plant protein, alpha-linolenic acid omega-3s, and useful amounts of calcium, phosphorus, and magnesium. The direct clinical evidence for chia-specific longevity outcomes is still moderate rather than definitive, but their nutrient profile lines up with several well-supported dietary targets, especially higher fiber intake and better glycemic control.

@@ -1,8 +1,7 @@
 ---
 title: Static Stretching
 category: mobility
-description: Sustained passive muscle lengthening that builds long-term flexibility,
-  reduces chronic tightness, and promotes recovery and relaxation
+description: Sustained passive muscle lengthening that builds long-term flexibility, reduces chronic tightness, and promotes recovery and relaxation
 benefits:
 - id: flexibility-gains
   label: Progressively increases range of motion with consistent practice
@@ -15,11 +14,12 @@ benefits:
 benefitLevel: 3
 overallScore: 3
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
-- url: https://examine.com/topics/stretching/
 - url: https://pubmed.ncbi.nlm.nih.gov/22316148/
+  title: Does pre-exercise static stretching inhibit maximal muscular performance? A meta-analytical review.
+  date: '2013-03-01'
 ---
 
 

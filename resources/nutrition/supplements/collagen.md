@@ -1,8 +1,7 @@
 ---
 title: Collagen
 category: supplement
-description: Hydrolyzed structural protein providing bioavailable glycine and proline
-  to support skin elasticity, joint health, and connective tissue repair
+description: Hydrolyzed structural protein providing bioavailable glycine and proline to support skin elasticity, joint health, and connective tissue repair
 benefits:
 - id: skin-elasticity
   label: Improves skin hydration, elasticity, and wrinkle depth
@@ -13,11 +12,15 @@ benefits:
 benefitLevel: 5
 overallScore: 4
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://www.hsph.harvard.edu/nutritionsource/collagen/
-- url: https://www.nature.com/articles/s41514-025-00280-7
+  title: Collagen • The Nutrition Source
+  date: '2021-05-26'
+- url: https://www.nature.com/articles/s41514-025-00280-7/
+  title: A collagen amino acid composition supplementation reduces biological age in humans and increases health and lifespan in vivo
+  date: '2025-11-20'
 ---
 
 

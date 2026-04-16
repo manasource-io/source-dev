@@ -1,8 +1,7 @@
 ---
 title: Swimming
 category: cardio
-description: Full-body low-impact aerobic exercise uniquely accessible to joint-limited
-  individuals, with strong cardiovascular and functional fitness benefits
+description: Full-body low-impact aerobic exercise uniquely accessible to joint-limited individuals, with strong cardiovascular and functional fitness benefits
 benefits:
 - id: cardiovascular-fitness
   label: Improves VO2 max, reduces blood pressure, and arterial stiffness
@@ -15,12 +14,15 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
-- url: https://examine.com/topics/swimming/
 - url: https://pubmed.ncbi.nlm.nih.gov/29086218/
+  title: 'Chronic Physiological Effects of Swim Training Interventions in Non-Elite Swimmers: A Systematic Review and Meta-Analysis.'
+  date: '2018-02-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/37766753/
+  title: Assessing the effect of regular swimming exercise on the micro- and macrovascular physiology of older adults (ACELA II study).
+  date: '2023-09-12'
 ---
 
 

@@ -2,8 +2,7 @@
 title: Buckwheat
 category: food
 subCategory: grains
-description: Gluten-free pseudocereal rich in rutin, fiber, and antioxidants with
-  cardiovascular and metabolic benefits
+description: Gluten-free pseudocereal rich in rutin, fiber, and antioxidants with cardiovascular and metabolic benefits
 benefits:
 - id: blood-sugar-control
   label: Lowers post-meal blood glucose and insulin response
@@ -16,12 +15,18 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5986499/
+  title: 'Buckwheat and CVD Risk Markers: A Systematic Review and Meta-Analysis.'
+  date: '2018-05-15'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10171551/
+  title: 'Nutritional and bioactive characteristics of buckwheat, and its potential for developing gluten-free products: An updated overview.'
+  date: '2022-12-22'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9784502/
+  title: 'Buckwheat and Cardiometabolic Health: A Systematic Review and Meta-Analysis.'
+  date: '2022-11-22'
 ---
 
 Despite its name, buckwheat is unrelated to wheat and is naturally gluten-free. It is a highly nutritious pseudocereal known for its rich complex carbohydrate profile, high fiber content, and exceptional antioxidant activity. Buckwheat provides a complete amino acid profile and is an excellent source of minerals including manganese, copper, magnesium, and phosphorus. Its low-to-medium glycemic index makes it a steady, sustained energy source compared to refined grains.

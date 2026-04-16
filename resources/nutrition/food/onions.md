@@ -2,8 +2,7 @@
 title: Onions
 category: food
 subCategory: vegetables
-description: Allium vegetable rich in quercetin and organosulfur compounds with evidence
-  for reducing colorectal and breast cancer risk and supporting cardiovascular health
+description: Allium vegetable rich in quercetin and organosulfur compounds with evidence for reducing colorectal and breast cancer risk and supporting cardiovascular health
 benefits:
 - id: cancer-prevention
   label: Organosulfur compounds and quercetin induce cancer cell apoptosis and detoxification
@@ -16,10 +15,12 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/25586902/
+  title: 'Garlic and onions: their cancer prevention properties.'
+  date: '2015-03-01'
 ---
 
 Onions (*Allium cepa*) belong to the same genus as garlic and share many of its organosulfur-based health properties, with a distinct polyphenol profile dominated by quercetin glycosides. They are one of the most widely consumed vegetables globally and among the richest dietary sources of quercetin , a flavonoid with well-documented anti-inflammatory, antioxidant, and anti-cancer properties. The outer layers and skin contain the highest polyphenol concentrations; yellow and red onions generally outperform white varieties.

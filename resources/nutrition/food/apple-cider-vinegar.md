@@ -2,8 +2,7 @@
 title: Apple Cider Vinegar
 category: drink
 subCategory: juices
-description: Fermented apple liquid high in acetic acid, used to support blood sugar
-  control and digestion
+description: Fermented apple liquid high in acetic acid, used to support blood sugar control and digestion
 benefits:
 - id: blood-sugar-control
   label: Reduces post-meal blood glucose and glycemic response
@@ -14,13 +13,21 @@ benefits:
 benefitLevel: 4
 overallScore: 3
 credibility: moderate
-lastResearched: 2026-04-09
+lastResearched: '2026-04-09'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/37608660/
+  title: 'The Effects of Apple Cider Vinegar on Cardiometabolic Risk Factors: A Systematic Review and Meta-analysis of Clinical Trials.'
+  date: '2025-01-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/31451249/
+  title: 'The effect of apple vinegar consumption on glycemic indices, blood pressure, oxidative stress, and homocysteine in patients with type 2 diabetes and dyslipidemia: A randomized controlled clinical trial.'
+  date: '2019-10-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/39949546/
-- url: https://www.mdpi.com/2072-6643/17/18/3000
+  title: 'Effects of apple cider vinegar on glycemic control and insulin sensitivity in patients with type 2 diabetes: A GRADE-assessed systematic review and dose-response meta-analysis of controlled clinical trials.'
+  date: '2025-01-30'
+- url: https://www.mdpi.com/2072-6643/17/18/3000/
+  title: 'Effect of Apple Cider Vinegar Intake on Body Composition in Humans with Type 2 Diabetes and/or Overweight: A Systematic Review and Meta-Analysis of Randomized Controlled Trials'
+  date: '2025-09-19'
 ---
 
 

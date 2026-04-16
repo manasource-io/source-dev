@@ -1,8 +1,7 @@
 ---
 title: Stretch
 category: habit
-description: Daily flexibility practice that maintains joint range of motion, reduces
-  chronic tightness, and supports movement quality throughout aging
+description: Daily flexibility practice that maintains joint range of motion, reduces chronic tightness, and supports movement quality throughout aging
 benefits:
 - id: range-of-motion
   label: Maintains joint flexibility and counters tightness from prolonged sitting
@@ -15,10 +14,12 @@ benefits:
 benefitLevel: 4
 overallScore: 3
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
-- url: https://examine.com/topics/stretching/
+- url: https://pubmed.ncbi.nlm.nih.gov/22316148/
+  title: Does pre-exercise static stretching inhibit maximal muscular performance? A meta-analytical review.
+  date: '2013-03-01'
 ---
 
 

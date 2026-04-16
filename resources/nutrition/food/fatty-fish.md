@@ -2,8 +2,7 @@
 title: Fatty Fish
 category: food
 subCategory: proteins
-description: Omega-3-rich fish including salmon, sardines, mackerel, and anchovies;
-  strongly linked to reduced cardiovascular mortality and brain protection
+description: Omega-3-rich fish including salmon, sardines, mackerel, and anchovies; strongly linked to reduced cardiovascular mortality and brain protection
 benefits:
 - id: cardiovascular-protection
   label: Reduces cardiovascular disease mortality risk by 9-13% per serving increment
@@ -18,15 +17,15 @@ benefits:
 benefitLevel: 8
 overallScore: 8
 credibility: strong
-lastResearched: 2026-04-11
+lastResearched: '2026-04-11'
 readiness: ready
 references:
-- title: 'Intake of fish and marine n-3 PUFA and risk of CVD mortality: meta-analysis
-    of 25 cohort studies'
-  url: https://pubmed.ncbi.nlm.nih.gov/34371852/
-- title: 'Effect of omega-3 fatty acids on cardiovascular outcomes: systematic review
-    and meta-analysis of 38 RCTs'
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8413259/
+- url: https://pubmed.ncbi.nlm.nih.gov/34371852/
+  title: 'Intake of fish and marine n-3 PUFA and risk of CVD mortality: meta-analysis of 25 cohort studies'
+  date: '2021-07-09'
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8413259/
+  title: 'Effect of omega-3 fatty acids on cardiovascular outcomes: systematic review and meta-analysis of 38 RCTs'
+  date: '2021-07-08'
 ---
 
 

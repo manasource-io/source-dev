@@ -1,8 +1,7 @@
 ---
 title: Go for a walk
 category: habit
-description: Daily walking habit with dose-response mortality benefits starting at
-  3000 steps and peaking around 7000–9000 steps per day
+description: Daily walking habit with dose-response mortality benefits starting at 3000 steps and peaking around 7000–9000 steps per day
 benefits:
 - id: mortality-reduction
   label: 47% lower all-cause mortality risk at 7000 steps vs 2000
@@ -17,11 +16,15 @@ benefits:
 benefitLevel: 8
 overallScore: 8
 credibility: strong
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9289978/
+  title: 'Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts.'
+  date: '2022-03-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/37555441/
+  title: 'The association between daily step count and all-cause and cardiovascular mortality: a meta-analysis.'
+  date: '2023-12-21'
 ---
 
 

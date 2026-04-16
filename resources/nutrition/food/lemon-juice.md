@@ -2,8 +2,7 @@
 title: Lemon Juice
 category: drink
 subCategory: juices
-description: Citrus juice high in vitamin C and citric acid, supporting iron absorption,
-  immune function, and kidney stone prevention
+description: Citrus juice high in vitamin C and citric acid, supporting iron absorption, immune function, and kidney stone prevention
 benefits:
 - id: iron-absorption
   label: Enhances non-heme iron absorption from plant foods via vitamin C
@@ -14,11 +13,12 @@ benefits:
 benefitLevel: 4
 overallScore: 3
 credibility: moderate
-lastResearched: 2026-04-11
+lastResearched: '2026-04-11'
 readiness: ready
 references:
-- title: Medical and dietary therapy for kidney stone prevention
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4265710/
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4265710/
+  title: Medical and dietary therapy for kidney stone prevention
+  date: '2014-11-28'
 ---
 
 

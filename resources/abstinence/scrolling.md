@@ -1,8 +1,7 @@
 ---
 title: Scrolling Abstinence
 category: abstinence
-description: Freedom from compulsive doomscrolling and social media feeds, reducing
-  anxiety, sleep disruption, and attentional fragmentation
+description: Freedom from compulsive doomscrolling and social media feeds, reducing anxiety, sleep disruption, and attentional fragmentation
 benefits:
 - id: mental-health
   label: Reduces anxiety, depression, and secondary traumatic stress
@@ -15,18 +14,18 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/39242043/
-  title: Social media use, mental health and sleep: A systematic review with meta-analyses.
-  date: 2024-09-04
+  title: 'Social media use, mental health and sleep: A systematic review with meta-analyses.'
+  date: '2024-09-04'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9580444/
-  title: Doomscrolling Scale: its Association with Personality Traits, Psychological Distress, Social Media Use, and Wellbeing.
-  date: 2022-10-19
+  title: 'Doomscrolling Scale: its Association with Personality Traits, Psychological Distress, Social Media Use, and Wellbeing.'
+  date: '2022-10-19'
 - url: https://pubmed.ncbi.nlm.nih.gov/38429976/
-  title: Doomscrolling and mental well-being in social media users: A serial mediation through mindfulness and secondary traumatic stress.
-  date: 2024-03-01
+  title: 'Doomscrolling and mental well-being in social media users: A serial mediation through mindfulness and secondary traumatic stress.'
+  date: '2024-03-01'
 ---
 
 

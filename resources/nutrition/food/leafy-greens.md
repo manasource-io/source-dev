@@ -2,9 +2,7 @@
 title: Leafy Greens
 category: food
 subCategory: vegetables
-description: Dark leafy vegetables including spinach and arugula packed with folate,
-  carotenoids, and nitrates that protect DNA, support cellular health, and reduce
-  cancer risk
+description: Dark leafy vegetables including spinach and arugula packed with folate, carotenoids, and nitrates that protect DNA, support cellular health, and reduce cancer risk
 benefits:
 - id: dna-protection
   label: Folate maintains methylation patterns that suppress cancer-promoting genes
@@ -17,12 +15,18 @@ benefits:
 benefitLevel: 8
 overallScore: 7
 credibility: moderate
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/33917165/
+  title: 'A Dietary Intervention High in Green Leafy Vegetables Reduces Oxidative DNA Damage in Adults at Increased Risk of Colorectal Cancer: Biological Outcomes of the Randomized Controlled Meat and Three Greens (M3G) Feasibility Trial.'
+  date: '2021-04-07'
 - url: https://www.aicr.org/cancer-prevention/food-facts/dark-green-leafy-vegetables/
+  title: 'Kale: Rich in Antioxidants'
+  date: '2021-08-02'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4973479/
+  title: 'The effect of green leafy and cruciferous vegetable intake on the incidence of cardiovascular disease: A meta-analysis.'
+  date: '2016-01-01'
 ---
 
 Dark leafy greens , spinach, arugula, kale, Swiss chard, romaine, and related vegetables , are among the most nutrient-dense foods available. They provide folate, vitamins C, E, and K, multiple carotenoids (lutein, zeaxanthin, beta-carotene), dietary nitrates, and a broad range of phytonutrients including glucosinolates and flavonoids. Despite their low caloric density, few foods deliver as wide a range of health-relevant micronutrients per gram.

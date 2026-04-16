@@ -2,9 +2,7 @@
 title: Nuts
 category: food
 subCategory: seeds-nuts
-description: Calorie-dense whole foods rich in healthy fats, fiber, plant protein,
-  and antioxidants; associated with reduced mortality and improved cardiometabolic
-  health
+description: Calorie-dense whole foods rich in healthy fats, fiber, plant protein, and antioxidants; associated with reduced mortality and improved cardiometabolic health
 benefits:
 - id: mortality-reduction
   label: Associated with reduced all-cause mortality
@@ -17,15 +15,24 @@ benefits:
 benefitLevel: 8
 overallScore: 8
 credibility: strong
-lastResearched: 2026-04-11
+lastResearched: '2026-04-11'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/34444859/
+  title: Association of Walnut Consumption with Total and Cause-Specific Mortality and Life Expectancy in U.S. Adults.
+  date: '2021-08-04'
 - url: https://pubmed.ncbi.nlm.nih.gov/39551942/
+  title: 'Nut consumption and disability-free survival in community-dwelling older adults: a prospective cohort study.'
+  date: '2024-11-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/31409026/
+  title: Health Benefits of Nut Consumption in Middle-Aged and Elderly Population.
+  date: '2019-08-12'
 - url: https://pubmed.ncbi.nlm.nih.gov/36839359/
-- url: https://www.health.harvard.edu/blog/eating-nuts-linked-to-healthier-longer-life-201311206893
-- url: https://inc.nutfruit.org/studies-categories/aging/
+  title: Impact of Nut Consumption on Cognition across the Lifespan.
+  date: '2023-02-16'
+- url: https://www.health.harvard.edu/blog/eating-nuts-linked-to-healthier-longer-life-201311206893/
+  title: Eating nuts linked to healthier, longer life - Harvard Health
+  date: '2013-11-20'
 ---
 
 Nuts are nutrient-dense whole foods providing a concentrated combination of unsaturated fats (mono- and polyunsaturated), dietary fiber, plant protein, B vitamins, minerals (magnesium, potassium, selenium, zinc), and highly bioactive polyphenols. Different varieties (almonds, walnuts, cashews, pistachios, Brazil nuts, hazelnuts, and peanuts) each carry distinct nutritional profiles, but the category as a whole has among the strongest and most consistent evidence for longevity benefit in the food literature.

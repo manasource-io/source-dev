@@ -2,9 +2,7 @@
 title: Pomegranate
 category: snack
 subCategory: fruits
-description: Polyphenol-rich fruit with among the highest antioxidant activity of
-  any food, linked to blood pressure reduction and cellular longevity via urolithin
-  A
+description: Polyphenol-rich fruit with among the highest antioxidant activity of any food, linked to blood pressure reduction and cellular longevity via urolithin A
 benefits:
 - id: blood-pressure
   label: Reduces systolic and diastolic blood pressure
@@ -17,14 +15,24 @@ benefits:
 benefitLevel: 8
 overallScore: 7
 credibility: moderate
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/38410857/
+  title: 'The effects of pomegranate consumption on blood pressure in adults: A systematic review and meta-analysis.'
+  date: '2024-05-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10791945/
+  title: Mitophagy Activation by Urolithin A to Target Muscle Aging.
+  date: '2023-11-05'
 - url: https://pubmed.ncbi.nlm.nih.gov/27400265/
+  title: Urolithin A induces mitophagy and prolongs lifespan in C. elegans and increases muscle function in rodents.
+  date: '2016-08-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/41174221/
+  title: 'Effect of the mitophagy inducer urolithin A on age-related immune decline: a randomized, placebo-controlled trial.'
+  date: '2025-11-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4007340/
+  title: Potent health effects of pomegranate.
+  date: '2014-03-25'
 ---
 
 Pomegranates are among the most antioxidant-dense foods studied in human nutrition. Their unique phytochemical profile is dominated by punicalagins and punicic acid , compounds found almost exclusively in this fruit , along with ellagitannins and ellagic acid that serve as precursors to urolithin A, a gut-metabolized postbiotic with potent mitophagy-activating properties. This makes pomegranate not just an antioxidant food, but one with documented mechanisms relevant to cellular aging and longevity.

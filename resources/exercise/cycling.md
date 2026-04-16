@@ -1,8 +1,7 @@
 ---
 title: Cycling
 category: cardio
-description: Low-impact aerobic exercise with strong all-cause and cardiovascular
-  mortality evidence, achievable as sport or daily transport
+description: Low-impact aerobic exercise with strong all-cause and cardiovascular mortality evidence, achievable as sport or daily transport
 benefits:
 - id: mortality-reduction
   label: 41% lower all-cause mortality; 23% reduction in dose-response meta-analysis
@@ -15,16 +14,15 @@ benefits:
 benefitLevel: 7
 overallScore: 7
 credibility: strong
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
-- url: https://examine.com/topics/cycling/
 - url: https://pubmed.ncbi.nlm.nih.gov/28424154/
-  title: Association between active commuting and incident cardiovascular disease, cancer, and mortality: prospective cohort study.
-  date: 2017-04-19
+  title: 'Association between active commuting and incident cardiovascular disease, cancer, and mortality: prospective cohort study.'
+  date: '2017-04-19'
 - url: https://pubmed.ncbi.nlm.nih.gov/33774807/
-  title: Association of Cycling with Risk of All-Cause and Cardiovascular Disease Mortality: A Systematic Review and Dose-Response Meta-analysis of Prospective Cohort Studies.
-  date: 2021-03-28
+  title: 'Association of Cycling with Risk of All-Cause and Cardiovascular Disease Mortality: A Systematic Review and Dose-Response Meta-analysis of Prospective Cohort Studies.'
+  date: '2021-03-28'
 ---
 
 

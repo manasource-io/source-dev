@@ -2,8 +2,7 @@
 title: Ginger
 category: food
 subCategory: vegetables
-description: Flowering root with potent anti-nausea, anti-inflammatory, and blood
-  sugar-lowering properties backed by clinical trials
+description: Flowering root with potent anti-nausea, anti-inflammatory, and blood sugar-lowering properties backed by clinical trials
 benefits:
 - id: nausea-relief
   label: Relieves nausea in pregnancy, post-surgery, and chemo
@@ -16,18 +15,18 @@ benefits:
 benefitLevel: 5
 overallScore: 4
 credibility: moderate
-lastResearched: 2026-04-11
+lastResearched: '2026-04-11'
 readiness: ready
 references:
-- title: 'Ginger for treating nausea and vomiting: overview of systematic reviews
-    and meta-analyses'
-  url: https://pubmed.ncbi.nlm.nih.gov/38072785/
-- title: 'Dietary ginger for blood sugar control in type 2 diabetes: systematic review
-    and meta-analysis'
-  url: https://pubmed.ncbi.nlm.nih.gov/30921234/
-- title: 'Effect of ginger on inflammatory markers: systematic review and meta-analysis
-    of 16 RCTs'
-  url: https://pubmed.ncbi.nlm.nih.gov/32763761/
+- url: https://pubmed.ncbi.nlm.nih.gov/38072785/
+  title: 'Ginger for treating nausea and vomiting: overview of systematic reviews and meta-analyses'
+  date: '2024-03-01'
+- url: https://pubmed.ncbi.nlm.nih.gov/30921234/
+  title: 'Dietary ginger for blood sugar control in type 2 diabetes: systematic review and meta-analysis'
+  date: '2019-03-01'
+- url: https://pubmed.ncbi.nlm.nih.gov/32763761/
+  title: 'Effect of ginger on inflammatory markers: systematic review and meta-analysis of 16 RCTs'
+  date: '2020-11-01'
 ---
 
 

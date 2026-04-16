@@ -1,8 +1,7 @@
 ---
 title: Whey Protein
 category: supplement
-description: Fast-absorbing complete protein derived from dairy, widely used to support
-  muscle synthesis, recovery, satiety, and body composition
+description: Fast-absorbing complete protein derived from dairy, widely used to support muscle synthesis, recovery, satiety, and body composition
 benefits:
 - id: muscle-protein-synthesis
   label: Enhances muscle protein synthesis with resistance training
@@ -13,13 +12,21 @@ benefits:
 benefitLevel: 8
 overallScore: 8
 credibility: strong
-lastResearched: 2026-04-09
+lastResearched: '2026-04-09'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/39303495/
+  title: 'Effectiveness of whey protein supplementation on muscle strength and physical performance of older adults: A systematic review and meta-analysis of randomized clinical trials.'
+  date: '2024-10-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12610255/
-- url: https://www.mdpi.com/2072-6643/17/16/2579
+  title: 'Effects of Whey Protein Supplementation on Body Composition, Muscular Strength, and Cardiometabolic Health in Older Adults: A Systematic Review with Pairwise Meta-Analysis.'
+  date: '2025-11-05'
+- url: https://www.mdpi.com/2072-6643/17/16/2579/
+  title: 'Whey Protein Supplementation Combined with Exercise on Muscle Protein Synthesis and the AKT/mTOR Pathway in Healthy Adults: A Systematic Review and Meta-Analysis'
+  date: '2025-08-08'
 - url: https://examine.com/supplements/whey-protein/
+  title: Whey Protein benefits, dosage, and side effects
+  date: '2025-09-04'
 ---
 
 Whey protein is one of the most researched and widely used sports nutrition supplements, with decades of evidence supporting its role in muscle synthesis, recovery, and body composition across athletic and aging populations.

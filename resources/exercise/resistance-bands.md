@@ -1,27 +1,25 @@
 ---
 title: Resistance Bands
 category: strength
-description: Elastic band resistance training producing strength and muscle gains
-  comparable to free weights with minimal equipment and reduced joint stress
+description: Elastic band resistance training producing strength and muscle gains comparable to free weights with minimal equipment and reduced joint stress
 benefits:
 - id: strength-gains
-  label: Systematic review confirms comparable strength gains to conventional resistance
-    training
+  label: Systematic review confirms comparable strength gains to conventional resistance training
 - id: portability
   label: Full resistance training capability without gym, bars, or heavy equipment
 - id: rehabilitation
-  label: Variable resistance and low joint loading ideal for injury recovery and older
-    adults
+  label: Variable resistance and low joint loading ideal for injury recovery and older adults
 - id: full-range-loading
-  label: Increasing resistance through ROM challenges muscles differently than free
-    weights
+  label: Increasing resistance through ROM challenges muscles differently than free weights
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
-- url: https://pubmed.ncbi.nlm.nih.gov/31733051/
+- url: https://pubmed.ncbi.nlm.nih.gov/30815258/
+  title: 'Effects of training with elastic resistance versus conventional resistance on muscular strength: A systematic review and meta-analysis.'
+  date: '2019-02-19'
 ---
 
 

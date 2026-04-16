@@ -2,12 +2,10 @@
 title: Apples
 category: snack
 subCategory: fruits
-description: Quercetin- and pectin-rich fruit with broad cancer-preventive, cardiovascular,
-  and gut health benefits; most potent consumed with skin on
+description: Quercetin- and pectin-rich fruit with broad cancer-preventive, cardiovascular, and gut health benefits; most potent consumed with skin on
 benefits:
 - id: cancer-prevention
-  label: Quercetin, procyanidins, and pectin reduce cancer cell proliferation and
-    colon risk
+  label: Quercetin, procyanidins, and pectin reduce cancer cell proliferation and colon risk
 - id: gut-health
   label: Pectin fiber selectively feeds beneficial gut bacteria and supports regularity
 - id: cardiovascular-health
@@ -17,10 +15,12 @@ benefits:
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/18855307/
+  title: Cancer chemopreventive potential of apples, apple juice, and apple components.
+  date: '2008-10-01'
 ---
 
 Apples are one of the most widely consumed fruits globally and have been studied extensively for their polyphenol and fiber content. Their health-relevant compounds are concentrated particularly in the skin , which contains the highest density of quercetin glycosides, chlorogenic acid, and anthocyanins in red varieties , making whole apples more beneficial than peeled or processed forms. An apple's phytochemical matrix works synergistically: laboratory studies have shown that isolated quercetin from apples has modest anti-proliferative effects, but whole apple extracts produce far greater effects, suggesting important interactions between quercetin, procyanidins, and other polyphenols present in the intact fruit.

@@ -1,39 +1,33 @@
 ---
 title: Smoking Tobacco
-description: Tobacco smoking is the single largest modifiable cause of premature death
-  globally, costing an average of 10 years of life, while cessation benefits begin
-  within hours and compound substantially for decades
+description: Tobacco smoking is the single largest modifiable cause of premature death globally, costing an average of 10 years of life, while cessation benefits begin within hours and compound substantially for decades
 benefits:
 - id: life-expectancy
-  label: Quitting at 35 recovers ~10 years of life lost; cessation at any age provides
-    meaningful benefit
+  label: Quitting at 35 recovers ~10 years of life lost; cessation at any age provides meaningful benefit
 - id: all-cause-mortality
-  label: Current smokers have 2× all-cause mortality vs never-smokers; quitting halves
-    that excess risk over time
+  label: Current smokers have 2× all-cause mortality vs never-smokers; quitting halves that excess risk over time
 - id: cardiovascular-health
-  label: CVD risk begins falling within 1 year of quitting; matches never-smoker risk
-    within 10–15 years
+  label: CVD risk begins falling within 1 year of quitting; matches never-smoker risk within 10–15 years
 - id: cancer-risk
-  label: Lung cancer risk falls 50% within 10 years of cessation; multiple cancer
-    risks continue declining over decades
+  label: Lung cancer risk falls 50% within 10 years of cessation; multiple cancer risks continue declining over decades
 benefitLevel: 10
 overallScore: 10
 credibility: strong
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5490618/
-  title: Tobacco smoking: Health impact, prevalence, correlates and interventions.
-  date: 2017-05-28
+  title: 'Tobacco smoking: Health impact, prevalence, correlates and interventions.'
+  date: '2017-05-28'
 - url: https://pubmed.ncbi.nlm.nih.gov/38329816/
   title: Smoking Cessation and Short- and Longer-Term Mortality.
-  date: 2024-02-08
+  date: '2024-02-08'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9593233/
   title: Association Between Smoking, Smoking Cessation, and Mortality by Race, Ethnicity, and Sex Among US Adults.
-  date: 2022-10-03
+  date: '2022-10-03'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11447278/
-  title: Forecasting the effects of smoking prevalence scenarios on years of life lost and life expectancy from 2022 to 2050: a systematic analysis for the Global Burden of Disease Study 2021.
-  date: 2024-10-01
+  title: 'Forecasting the effects of smoking prevalence scenarios on years of life lost and life expectancy from 2022 to 2050: a systematic analysis for the Global Burden of Disease Study 2021.'
+  date: '2024-10-01'
 category: abstinence
 ---
 

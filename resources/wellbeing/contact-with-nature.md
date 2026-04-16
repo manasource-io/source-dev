@@ -1,15 +1,11 @@
 ---
 title: Contact with Nature
-description: Regular exposure to natural environments measurably lowers cortisol,
-  blood pressure, and anxiety, with consistent effects across forest bathing, green
-  space access, and urban park use
+description: Regular exposure to natural environments measurably lowers cortisol, blood pressure, and anxiety, with consistent effects across forest bathing, green space access, and urban park use
 benefits:
 - id: stress-reduction
-  label: Forest bathing and green space exposure reduce cortisol, heart rate, and
-    subjective stress
+  label: Forest bathing and green space exposure reduce cortisol, heart rate, and subjective stress
 - id: mental-health
-  label: Green space access associated with lower odds of depression, anxiety, and
-    psychiatric disorders
+  label: Green space access associated with lower odds of depression, anxiety, and psychiatric disorders
 - id: cardiovascular-health
   label: Nature exposure reduces diastolic blood pressure and cardiovascular mortality
 - id: immune-function
@@ -17,13 +13,21 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5580555/
-- url: https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00818/full
+  title: 'Shinrin-Yoku (Forest Bathing) and Nature Therapy: A State-of-the-Art Review.'
+  date: '2017-07-28'
+- url: https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00818/full/
+  title: The Minnesota Haptic Function Test
+  date: '2019-04-17'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10885792/
+  title: 'Green spaces exposure and the risk of common psychiatric disorders: A meta-analysis.'
+  date: '2024-02-15'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6562165/
+  title: 'The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes.'
+  date: '2018-07-05'
 category: wellbeing
 ---
 

@@ -1,31 +1,28 @@
 ---
 title: Calisthenics
 category: strength
-description: Bodyweight resistance training using compound movements to build functional
-  strength, muscular endurance, and coordination without equipment
+description: Bodyweight resistance training using compound movements to build functional strength, muscular endurance, and coordination without equipment
 benefits:
 - id: muscle-strength
-  label: Progressive calisthenics produces strength and hypertrophy comparable to
-    free weights
+  label: Progressive calisthenics produces strength and hypertrophy comparable to free weights
 - id: functional-movement
   label: Compound bodyweight patterns develop coordination and joint stability
 - id: older-adult-health
-  label: Builds muscle mass, mobility, bone density, and reduces depression and fall
-    risk
+  label: Builds muscle mass, mobility, bone density, and reduces depression and fall risk
 - id: sedentary-break
   label: Micro-dose calisthenics breaks throughout the day improve strength and balance
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/29466268/
   title: Effect of Progressive Calisthenic Push-up Training on Muscle Strength and Thickness.
-  date: 2018-03-01
+  date: '2018-03-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7429724/
-  title: Protocol for Minute Calisthenics: a randomized controlled study of a daily, habit-based, bodyweight resistance training program.
-  date: 2020-08-15
+  title: 'Protocol for Minute Calisthenics: a randomized controlled study of a daily, habit-based, bodyweight resistance training program.'
+  date: '2020-08-15'
 ---
 
 

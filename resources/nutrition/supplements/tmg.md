@@ -1,8 +1,7 @@
 ---
 title: TMG (Trimethylglycine)
 category: supplement
-description: Methyl donor derived from glycine and found in beets; lowers homocysteine,
-  supports liver health, and aids methylation reactions throughout the body
+description: Methyl donor derived from glycine and found in beets; lowers homocysteine, supports liver health, and aids methylation reactions throughout the body
 benefits:
 - id: homocysteine-reduction
   label: Reliably lowers elevated homocysteine via BHMT pathway
@@ -13,12 +12,18 @@ benefits:
 benefitLevel: 5
 overallScore: 4
 credibility: moderate
-lastResearched: 2026-04-09
+lastResearched: '2026-04-09'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8224793/
+  title: 'Beneficial Effects of Betaine: A Comprehensive Review.'
+  date: '2021-05-22'
 - url: https://pubmed.ncbi.nlm.nih.gov/23230003/
+  title: Bcl11a is essential for lymphoid development and negatively regulates p53.
+  date: '2012-12-17'
 - url: https://examine.com/supplements/betaine/
+  title: Betaine benefits, dosage, and side effects
+  date: '2025-08-28'
 ---
 
 Trimethylglycine (TMG), also called betaine, is glycine with three methyl groups attached. It occurs naturally in beets (the original source , "betaine" comes from _Beta vulgaris_), spinach, quinoa, wheat germ, and shellfish. It acts as both a methyl donor in biochemical reactions and an osmolyte that protects cells from osmotic and thermal stress, particularly in the liver and kidneys.

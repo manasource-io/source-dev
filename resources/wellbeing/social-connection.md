@@ -1,8 +1,6 @@
 ---
 title: Social Connection
-description: The quality and quantity of relationships with other people, one of the
-  most powerful and underrecognized predictors of longevity, with effect sizes comparable
-  to smoking cessation
+description: The quality and quantity of relationships with other people, one of the most powerful and underrecognized predictors of longevity, with effect sizes comparable to smoking cessation
 benefits:
 - id: all-cause-mortality
   label: 50% increased survival odds with stronger social ties (148 studies)
@@ -11,17 +9,22 @@ benefits:
 - id: immune-function
   label: Supports immune resilience; loneliness drives chronic inflammation
 - id: longevity-aging
-  label: Protective against functional decline, frailty, and cognitive deterioration
-    in aging
+  label: Protective against functional decline, frailty, and cognitive deterioration in aging
 benefitLevel: 9
 overallScore: 9
 credibility: strong
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2910600/
+  title: 'Social relationships and mortality risk: a meta-analytic review.'
+  date: '2010-07-27'
 - url: https://pubmed.ncbi.nlm.nih.gov/25910392/
+  title: 'Loneliness and social isolation as risk factors for mortality: a meta-analytic review.'
+  date: '2015-03-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11750934/
+  title: 'Loneliness, social isolation, and living alone: a comprehensive systematic review, meta-analysis, and meta-regression of mortality risks in older adults.'
+  date: '2025-01-21'
 category: wellbeing
 ---
 

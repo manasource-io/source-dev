@@ -2,8 +2,7 @@
 title: Fasting
 inputType: hours
 credibility: moderate
-description: Time-restricted eating and periodic fasting improve insulin sensitivity,
-  weight regulation, and cardiometabolic markers in overweight adults
+description: Time-restricted eating and periodic fasting improve insulin sensitivity, weight regulation, and cardiometabolic markers in overweight adults
 benefits:
 - id: metabolic-flexibility
   label: Improved insulin sensitivity
@@ -15,15 +14,24 @@ benefits:
   label: Cellular autophagy (extended fasts)
 benefitLevel: 7
 overallScore: 6
-lastResearched: 2026-04-09
+lastResearched: '2026-04-09'
 readiness: ready
 references:
-- url: https://examine.com/topics/intermittent-fasting/
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4250148/
+  title: Meal frequency and timing in health and disease.
+  date: '2014-11-17'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12289860/
+  title: 'Intermittent Fasting for the Prevention of Cardiovascular Disease Risks: Systematic Review and Network Meta-Analysis.'
+  date: '2025-07-24'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12309044/
-- url: https://www.nature.com/articles/s41467-025-66366-8
-- url: https://www.thelancet.com/journals/eclinm/article/PIIS2589-53702400098-1/fulltext
+  title: 'The impact of intermittent fasting on body composition and cardiometabolic outcomes in overweight and obese adults: a systematic review and meta-analysis of randomized controlled trials.'
+  date: '2025-07-30'
+- url: https://www.nature.com/articles/s41467-025-66366-8/
+  title: 'Cardiometabolic and molecular adaptations to 6-month intermittent fasting in middle-aged men and women with overweight: secondary outcomes of a randomized controlled trial'
+  date: '2025-12-13'
+- url: https://www.thelancet.com/journals/eclinm/article/PIIS2589-53702400098-1/fulltext/
+  title: 'Intermittent fasting and health outcomes: an umbrella review of systematic reviews and meta-analyses of randomised controlled trials'
+  date: '2024-04-01'
 category: diet
 ---
 

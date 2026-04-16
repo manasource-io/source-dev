@@ -2,8 +2,7 @@
 title: Flaxseeds
 category: snack
 subCategory: seeds-nuts
-description: Ground seeds rich in ALA omega-3s, soluble fiber, and lignans for heart,
-  gut, and hormone health
+description: Ground seeds rich in ALA omega-3s, soluble fiber, and lignans for heart, gut, and hormone health
 benefits:
 - id: cholesterol-management
   label: Lowers LDL cholesterol and triglycerides
@@ -20,15 +19,27 @@ benefits:
 benefitLevel: 8
 overallScore: 7
 credibility: moderate
-lastResearched: 2026-04-09
+lastResearched: '2026-04-09'
 readiness: ready
 references:
-- url: https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/flaxseed/faq-20058354
+- url: https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/flaxseed/faq-20058354/
+  title: 'Flaxseed: Is ground better than whole?'
+  date: '2023-01-31'
 - url: https://pubmed.ncbi.nlm.nih.gov/25143474/
+  title: 'Dietary fiber intake and total mortality: a meta-analysis of prospective cohort studies.'
+  date: '2014-09-15'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12181604/
+  title: 'Dietary flaxseed: Cardiometabolic benefits and its role in promoting healthy aging.'
+  date: '2025-01-16'
 - url: https://pubmed.ncbi.nlm.nih.gov/40365516/
+  title: 'Efficacy of flaxseed in reducing blood pressure among patients with cardiovascular risk factors: A systematic review and meta-analysis of parallel randomized controlled trials.'
+  date: '2025-03-18'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11945857/
+  title: 'Flaxseed in Diet: A Comprehensive Look at Pros and Cons.'
+  date: '2025-03-16'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5808339/
+  title: 'The Effect of Flaxseed in Breast Cancer: A Literature Review.'
+  date: '2018-02-07'
 ---
 
 

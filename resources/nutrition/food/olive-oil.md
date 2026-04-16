@@ -2,8 +2,7 @@
 title: Olive Oil
 category: food
 subCategory: other
-description: Extra virgin olive oil rich in monounsaturated fats and polyphenols,
-  strongly linked to reduced dementia risk and cardiovascular protection
+description: Extra virgin olive oil rich in monounsaturated fats and polyphenols, strongly linked to reduced dementia risk and cardiovascular protection
 benefits:
 - id: dementia-prevention
   label: Reduces risk of dementia-related death by up to 28%
@@ -16,7 +15,7 @@ benefits:
 benefitLevel: 8
 overallScore: 8
 credibility: strong
-lastResearched: 2026-04-11
+lastResearched: '2026-04-11'
 readiness: ready
 pairing:
 - resource: food/tomatoes
@@ -25,11 +24,23 @@ pairing:
   note: Fat dramatically increases lycopene bioavailability from tomatoes
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/38709531/
-- url: https://www.nia.nih.gov/news/olive-oil-consumption-linked-lower-risk-dementia-related-death
-- url: https://www.mdpi.com/2072-6643/14/23/5102
+  title: Consumption of Olive Oil and Diet Quality and Risk of Dementia-Related Death.
+  date: '2024-05-01'
+- url: https://www.nia.nih.gov/news/olive-oil-consumption-linked-lower-risk-dementia-related-death/
+  title: Olive oil consumption linked with lower risk of dementia-related death
+  date: '2024-10-28'
+- url: https://www.mdpi.com/2072-6643/14/23/5102/
+  title: 'Extra-Virgin Olive Oil Enhances the Blood-Brain Barrier Function in Mild Cognitive Impairment: A Randomized Controlled Trial'
+  date: '2022-12-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6825477/
+  title: 'Effect Of An Extra-Virgin Olive Oil Intake On The Delay Of Cognitive Decline: Role Of Secoiridoid Oleuropein?'
+  date: '2019-10-29'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10856527/
+  title: 'Extra-Virgin Olive Oil in Alzheimer''s Disease: A Comprehensive Review of Cellular, Animal, and Clinical Studies.'
+  date: '2024-02-05'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6406981/
+  title: 'Review on docosahexaenoic acid in poultry and swine nutrition: Consequence of enriched animal products on performance and health characteristics.'
+  date: '2018-09-11'
 ---
 
 

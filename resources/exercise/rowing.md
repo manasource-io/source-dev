@@ -1,8 +1,7 @@
 ---
 title: Rowing
 category: cardio
-description: Full-body low-impact aerobic exercise engaging legs, core, and back simultaneously,
-  with high cardiovascular demand and minimal joint stress
+description: Full-body low-impact aerobic exercise engaging legs, core, and back simultaneously, with high cardiovascular demand and minimal joint stress
 benefits:
 - id: cardiovascular-fitness
   label: Develops high aerobic capacity and VO2 max through sustained full-body effort
@@ -15,10 +14,12 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/32627051/
+  title: The physiology of rowing with perspective on training and health.
+  date: '2020-09-01'
 ---
 
 

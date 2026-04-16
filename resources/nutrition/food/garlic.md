@@ -2,8 +2,7 @@
 title: Garlic
 category: food
 subCategory: vegetables
-description: Allium vegetable containing allicin and organosulfur compounds with evidence
-  for blood pressure reduction, antimicrobial activity, and gut microbiome support
+description: Allium vegetable containing allicin and organosulfur compounds with evidence for blood pressure reduction, antimicrobial activity, and gut microbiome support
 benefits:
 - id: cardiovascular-health
   label: Modestly reduces blood pressure and LDL cholesterol
@@ -18,11 +17,15 @@ benefits:
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 references:
-- url: https://www.nccih.nih.gov/health/garlic
+- url: https://www.nccih.nih.gov/health/garlic/
+  title: 'Garlic: Usefulness and Safety'
+  date: '2025-02-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/25586902/
+  title: 'Garlic and onions: their cancer prevention properties.'
+  date: '2015-03-01'
 ---
 
 Garlic (Allium sativum) has been used medicinally for thousands of years and is one of the most studied functional foods. Its health-relevant activity derives primarily from allicin , a sulfur compound formed when garlic is crushed or chopped , and a broader class of organosulfur compounds including diallyl sulfide and S-allylcysteine. The evidence base supports meaningful cardiovascular and antimicrobial effects, with good mechanistic support for gut health benefits.

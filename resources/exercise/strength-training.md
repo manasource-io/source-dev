@@ -1,9 +1,7 @@
 ---
 title: Strength Training
 category: strength
-description: Resistance-based exercise that builds muscle mass, increases bone density,
-  reduces all-cause mortality, and is one of the most evidence-backed longevity interventions
-  available
+description: Resistance-based exercise that builds muscle mass, increases bone density, reduces all-cause mortality, and is one of the most evidence-backed longevity interventions available
 benefits:
 - id: all-cause-mortality
   label: Reduces all-cause, cardiovascular, and cancer mortality
@@ -16,12 +14,18 @@ benefits:
 benefitLevel: 9
 overallScore: 9
 credibility: strong
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/35228201/
+  title: 'Muscle-strengthening activities are associated with lower risk and mortality in major non-communicable diseases: a systematic review and meta-analysis of cohort studies.'
+  date: '2022-07-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10199130/
+  title: How much resistance exercise is beneficial for healthy aging and longevity?
+  date: '2022-11-07'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11147802/
+  title: Weight training and risk of all-cause, cardiovascular disease and cancer mortality among older adults.
+  date: '2024-04-01'
 ---
 
 Strength training , also called resistance training or weight training , involves repeatedly working muscles against load: free weights, machines, bodyweight, or resistance bands. Unlike most supplements or dietary interventions, the evidence base for strength training's longevity benefits is exceptionally broad, consistent across populations, dose-responsive, and mechanistically well-understood. It is one of the most powerful single interventions available for extending healthspan.

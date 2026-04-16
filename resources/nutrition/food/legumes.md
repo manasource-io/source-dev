@@ -15,11 +15,15 @@ benefits:
 benefitLevel: 8
 overallScore: 8
 credibility: strong
-lastResearched: 2026-04-08
+lastResearched: '2026-04-08'
 readiness: ready
 references:
 - url: https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+  title: Legumes and Pulses • The Nutrition Source
+  date: '2019-10-28'
 - url: https://pubmed.ncbi.nlm.nih.gov/25143474/
+  title: 'Dietary fiber intake and total mortality: a meta-analysis of prospective cohort studies.'
+  date: '2014-09-15'
 ---
 
 Legumes, including beans, lentils, chickpeas, and peas, are one of the clearest examples of a low-cost food with outsized longevity value. They combine high fiber density, meaningful protein, slow-digesting carbohydrates, and a strong micronutrient profile in a form that is accessible across dietary patterns. Unlike more niche health foods, legumes are supported both by nutritional logic and by large observational datasets linking regular intake to better long-term outcomes.

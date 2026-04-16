@@ -2,8 +2,7 @@
 title: Fermented Foods
 category: food
 subCategory: other
-description: Foods transformed by live microorganisms, kefir, kimchi, sauerkraut,
-  miso, yogurt, that diversify the gut microbiome
+description: Foods transformed by live microorganisms, kefir, kimchi, sauerkraut, miso, yogurt, that diversify the gut microbiome
 benefits:
 - id: gut-microbiome
   label: Increases gut microbial diversity and abundance
@@ -14,13 +13,21 @@ benefits:
 benefitLevel: 7
 overallScore: 7
 credibility: strong
-lastResearched: 2026-04-09
+lastResearched: '2026-04-09'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/34256014/
+  title: Gut-microbiota-targeted diets modulate human immune status.
+  date: '2021-08-05'
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4367209/
+  title: 'The gut-brain axis: interactions between enteric microbiota, central and enteric nervous systems.'
+  date: '2015-04-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/38278378/
-- url: https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1682419/full
+  title: 'Fermented foods: Harnessing their potential to modulate the microbiota-gut-brain axis for mental health.'
+  date: '2024-03-01'
+- url: https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1682419/full/
+  title: 'The effects of Lactobacillus and/or Bifidobacterium in fermented foods on cognitive health: a systematic review'
+  date: '2025-12-03'
 ---
 
 

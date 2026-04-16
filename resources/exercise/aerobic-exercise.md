@@ -1,9 +1,7 @@
 ---
 title: Aerobic Exercise
 category: cardio
-description: Rhythmic, sustained physical activity that trains the heart and lungs,
-  dramatically reduces all-cause mortality, and is among the most powerful longevity
-  interventions available
+description: Rhythmic, sustained physical activity that trains the heart and lungs, dramatically reduces all-cause mortality, and is among the most powerful longevity interventions available
 benefits:
 - id: all-cause-mortality
   label: Reduces all-cause and cardiovascular mortality by up to 53%
@@ -16,18 +14,18 @@ benefits:
 benefitLevel: 9
 overallScore: 9
 credibility: strong
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11103301/
-  title: Cardiorespiratory fitness is a strong and consistent predictor of morbidity and mortality among adults: an overview of meta-analyses representing over 20.9 million observations from 199 unique cohort studies.
-  date: 2024-05-02
+  title: 'Cardiorespiratory fitness is a strong and consistent predictor of morbidity and mortality among adults: an overview of meta-analyses representing over 20.9 million observations from 199 unique cohort studies.'
+  date: '2024-05-02'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6527136/
   title: Physical Activity, All-Cause and Cardiovascular Mortality, and Cardiovascular Disease.
-  date: 2019-06-01
+  date: '2019-06-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1470658/
   title: Exercise for mental health.
-  date: 2006-01-01
+  date: '2006-01-01'
 ---
 
 Aerobic exercise encompasses any rhythmic, sustained activity that uses large muscle groups and relies on the body's oxygen-dependent energy systems: jogging, cycling, swimming, brisk walking, rowing, dancing, and more. It is one of the most studied interventions in all of medicine, with an evidence base spanning hundreds of cohort studies, meta-analyses, and randomized trials. No supplement, drug, or dietary intervention has demonstrated comparable breadth and magnitude of longevity benefit.

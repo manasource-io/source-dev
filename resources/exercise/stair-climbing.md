@@ -1,8 +1,7 @@
 ---
 title: Stair Climbing
 category: cardio
-description: High-intensity weight-bearing aerobic exercise with strong evidence for
-  cardiovascular mortality reduction, achievable in daily environments
+description: High-intensity weight-bearing aerobic exercise with strong evidence for cardiovascular mortality reduction, achievable in daily environments
 benefits:
 - id: cardiovascular-mortality
   label: 35% lower cardiovascular mortality risk; 20% lower CVD risk at 5+ flights/day
@@ -15,11 +14,15 @@ benefits:
 benefitLevel: 7
 overallScore: 7
 credibility: strong
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/33543604/
+  title: 'Stair climbing and mortality: a prospective cohort study from the UK Biobank.'
+  date: '2021-04-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/37813749/
+  title: 'Daily stair climbing, disease susceptibility, and risk of atherosclerotic cardiovascular disease: A prospective cohort study.'
+  date: '2023-12-01'
 ---
 
 

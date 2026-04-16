@@ -1,8 +1,7 @@
 ---
 title: Melatonin
 category: supplement
-description: Hormone that regulates the sleep-wake cycle, most effective for circadian
-  disruption such as jet lag, shift work, and delayed sleep phase
+description: Hormone that regulates the sleep-wake cycle, most effective for circadian disruption such as jet lag, shift work, and delayed sleep phase
 benefits:
 - id: sleep-onset
   label: Reduces time to fall asleep
@@ -13,13 +12,21 @@ benefits:
 benefitLevel: 7
 overallScore: 7
 credibility: strong
-lastResearched: 2026-04-09
+lastResearched: '2026-04-09'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/33417003/
-- url: https://onlinelibrary.wiley.com/doi/10.1111/jpi.12985
+  title: 'Effect of melatonin supplementation on sleep quality: a systematic review and meta-analysis of randomized controlled trials.'
+  date: '2022-01-01'
+- url: https://onlinelibrary.wiley.com/doi/10.1111/jpi.12985/
+  title: 'Optimizing the Time and Dose of Melatonin as a Sleep-Promoting Drug: A Systematic Review of Randomized Controlled Trials and Dose-Response Meta-Analysis'
+  date: '2024-08-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12581400/
+  title: 'Effect of melatonin on cognitive function in adults with cognitive impairment: a multi-dimensional meta-analysis of randomized trials.'
+  date: '2025-11-03'
 - url: https://examine.com/supplements/melatonin/
+  title: Melatonin benefits, dosage, and side effects
+  date: '2026-03-23'
 ---
 
 Melatonin is one of the most widely used sleep supplements in the world, with a substantial base of randomized controlled trial evidence. Its effects are most pronounced for circadian rhythm disruption , jet lag, shift work, and delayed sleep phase syndrome , and more modest for primary insomnia in otherwise healthy adults.

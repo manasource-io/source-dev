@@ -2,8 +2,7 @@
 title: Turmeric
 category: food
 subCategory: spices
-description: Golden spice from the Curcuma longa root with potent anti-inflammatory
-  and anti-cancer properties via curcumin, especially when paired with black pepper
+description: Golden spice from the Curcuma longa root with potent anti-inflammatory and anti-cancer properties via curcumin, especially when paired with black pepper
 benefits:
 - id: anti-inflammatory
   label: Curcumin inhibits NF-κB and pro-inflammatory cytokines at the molecular level
@@ -16,21 +15,25 @@ benefits:
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 pairing:
 - resource: food/black-pepper
   type: requisite
-  note: Piperine in black pepper increases curcumin bioavailability by up to 20x by
-    inhibiting intestinal and hepatic metabolism
+  note: Piperine in black pepper increases curcumin bioavailability by up to 20x by inhibiting intestinal and hepatic metabolism
 - condition: with-fat
   type: synergy
-  note: Curcumin is fat-soluble; consuming with a meal containing dietary fat improves
-    absorption
+  note: Curcumin is fat-soluble; consuming with a meal containing dietary fat improves absorption
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/19838007/
+  title: '4G/5G variant of plasminogen activator inhibitor-1 gene and severe pregnancy-induced hypertension: subgroup analyses of variants of angiotensinogen and endothelial nitric oxide synthase.'
+  date: '2009-01-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3918523/
+  title: 'Recent developments in delivery, bioavailability, absorption and metabolism of curcumin: the golden pigment from golden spice.'
+  date: '2014-01-15'
 - url: https://examine.com/supplements/curcumin/
+  title: Curcumin benefits, dosage, and side effects
+  date: '2026-03-02'
 ---
 
 

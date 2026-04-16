@@ -2,9 +2,7 @@
 title: Coffee
 category: drink
 subCategory: other
-description: Brewed beverage rich in caffeine, chlorogenic acids, and polyphenols,
-  associated with reduced risk of metabolic, cardiovascular, and neurodegenerative
-  disease
+description: Brewed beverage rich in caffeine, chlorogenic acids, and polyphenols, associated with reduced risk of metabolic, cardiovascular, and neurodegenerative disease
 benefits:
 - id: alertness-and-focus
   label: Rapidly improves alertness, attention, and reaction time
@@ -19,13 +17,21 @@ benefits:
 benefitLevel: 7
 overallScore: 7
 credibility: strong
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 references:
 - url: https://examine.com/supplements/coffee/
-- url: https://www.bmj.com/content/359/bmj.j5024
+  title: Coffee benefits, dosage, and side effects
+  date: '2025-08-28'
+- url: https://www.bmj.com/content/359/bmj.j5024/
+  title: 'Coffee consumption and health: umbrella review of meta-analyses of multiple health outcomes'
+  date: '2017-11-22'
 - url: https://pubmed.ncbi.nlm.nih.gov/40842371/
+  title: 'Association between coffee consumption and life expectancy: a prospective cohort study from NHANES 2001-2018.'
+  date: '2025-08-22'
 - url: https://pubmed.ncbi.nlm.nih.gov/39776171/
+  title: Coffee drinking timing and mortality in US adults.
+  date: '2025-02-21'
 ---
 
 

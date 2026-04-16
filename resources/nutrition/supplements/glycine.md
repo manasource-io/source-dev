@@ -1,8 +1,7 @@
 ---
 title: Glycine
 category: supplement
-description: Conditionally essential amino acid taken before bed to improve sleep
-  onset, sleep quality, and next-day alertness via core body temperature reduction
+description: Conditionally essential amino acid taken before bed to improve sleep onset, sleep quality, and next-day alertness via core body temperature reduction
 benefits:
 - id: sleep-quality
   label: Improves sleep onset and subjective sleep quality
@@ -13,13 +12,21 @@ benefits:
 benefitLevel: 5
 overallScore: 4
 credibility: moderate
-lastResearched: 2026-04-09
+lastResearched: '2026-04-09'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3328957/
+  title: The effects of glycine on subjective daytime performance in partially sleep-restricted healthy volunteers.
+  date: '2012-04-18'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4397399/
+  title: The sleep-promoting and hypothermic effects of glycine are mediated by NMDA receptors in the suprachiasmatic nucleus.
+  date: '2014-12-23'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11510825/
+  title: An Update of the Promise of Glycine Supplementation for Enhancing Physical Performance and Recovery.
+  date: '2024-09-25'
 - url: https://examine.com/supplements/glycine/
+  title: Glycine benefits, dosage, and side effects
+  date: '2025-12-18'
 ---
 
 Glycine is the simplest amino acid and the most abundant in the human body. While the body synthesizes it endogenously, production falls short of total requirements , making supplementation particularly relevant for sleep, connective tissue maintenance, and metabolic health.

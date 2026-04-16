@@ -15,11 +15,15 @@ benefits:
 benefitLevel: 7
 overallScore: 7
 credibility: strong
-lastResearched: 2026-04-08
+lastResearched: '2026-04-08'
 readiness: ready
 references:
 - url: https://nutritionsource.hsph.harvard.edu/food-features/oats/
+  title: Oats • The Nutrition Source
+  date: '2018-03-20'
 - url: https://pubmed.ncbi.nlm.nih.gov/25143474/
+  title: 'Dietary fiber intake and total mortality: a meta-analysis of prospective cohort studies.'
+  date: '2014-09-15'
 ---
 
 Whole oats are one of the strongest examples of a genuinely evidence-backed staple food. They are inexpensive, easy to use, and unusually rich in beta-glucan, a soluble fiber with repeatable clinical effects on cholesterol and post-meal glycemic response. Oats also supply minerals, intact starch, and a lower-friction way to increase total fiber intake, which is one reason they repeatedly appear in healthy dietary patterns associated with lower long-term disease risk.

@@ -1,8 +1,7 @@
 ---
 title: Psychedelic Journey Session
 category: wellbeing
-description: Intentional psilocybin session with deliberate set, setting, and integration
-  support for lasting mental health benefits
+description: Intentional psilocybin session with deliberate set, setting, and integration support for lasting mental health benefits
 benefits:
 - id: depression-and-anxiety
   label: Dramatically reduces depression and anxiety symptoms
@@ -15,13 +14,21 @@ benefits:
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-04-11
+lastResearched: '2026-04-11'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/33146667/
+  title: 'Effects of Psilocybin-Assisted Therapy on Major Depressive Disorder: A Randomized Clinical Trial.'
+  date: '2021-05-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/27909165/
+  title: 'Psilocybin produces substantial and sustained decreases in depression and anxiety in patients with life-threatening cancer: A randomized double-blind trial.'
+  date: '2016-12-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/27909164/
-- url: https://www.nature.com/articles/s41514-025-00244-x
+  title: 'Rapid and sustained symptom reduction following psilocybin treatment for anxiety and depression in patients with life-threatening cancer: a randomized controlled trial.'
+  date: '2016-12-01'
+- url: https://www.nature.com/articles/s41514-025-00244-x/
+  title: Psilocybin treatment extends cellular lifespan and improves survival of aged mice
+  date: '2025-07-08'
 ---
 
 

@@ -1,8 +1,7 @@
 ---
 title: Rhodiola Rosea
 category: supplement
-description: Adaptogenic alpine root used to reduce fatigue, buffer stress hormones,
-  and sustain mental and physical performance under load
+description: Adaptogenic alpine root used to reduce fatigue, buffer stress hormones, and sustain mental and physical performance under load
 benefits:
 - id: stress-relief
   label: Reduces perceived stress and cortisol-driven fatigue
@@ -15,13 +14,21 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://examine.com/supplements/rhodiola-rosea/
+  title: Rhodiola rosea benefits, dosage, and side effects
+  date: '2025-12-15'
 - url: https://pubmed.ncbi.nlm.nih.gov/22643043/
+  title: 'Rhodiola rosea for physical and mental fatigue: a systematic review.'
+  date: '2012-05-29'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9228580/
+  title: The Effectiveness of <i>Rhodiola rosea</i> L. Preparations in Alleviating Various Aspects of Life-Stress Symptoms and Stress-Induced Conditions-Encouraging Clinical Evidence.
+  date: '2022-06-17'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10784128/
+  title: "<i>Rhodiola rosea</i> as an adaptogen to enhance exercise performance: a review of the literature."
+  date: '2023-08-29'
 ---
 
 Rhodiola rosea is an alpine perennial root used in traditional medicine across Russia, Scandinavia, and Central Asia for centuries to counter fatigue, improve work capacity, and extend resilience under harsh conditions. In 2011 the European Medicines Agency formally recognized it as a traditional adaptogen for symptomatic relief of stress-related fatigue and exhaustion , an uncommon regulatory endorsement for a herbal supplement.

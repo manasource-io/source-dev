@@ -1,9 +1,7 @@
 ---
 title: Coenzyme Q10 (CoQ10)
 category: supplement
-description: Endogenous antioxidant embedded in the mitochondrial membrane; supports
-  cellular energy production, cardiovascular function, and protection against oxidative
-  damage
+description: Endogenous antioxidant embedded in the mitochondrial membrane; supports cellular energy production, cardiovascular function, and protection against oxidative damage
 benefits:
 - id: cardiovascular-health
   label: Reduces cardiovascular mortality and major cardiac events
@@ -16,13 +14,21 @@ benefits:
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/22626835/
+  title: 'Cardiovascular mortality and N-terminal-proBNP reduced after combined selenium and coenzyme Q10 supplementation: a 5-year prospective randomized double-blind placebo-controlled trial among elderly Swedish citizens.'
+  date: '2013-09-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8389239/
+  title: 'Role of Coenzyme Q<sub>10</sub> in Health and Disease: An Update on the Last 10 Years (2010-2020).'
+  date: '2021-08-23'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3982418/
+  title: Effect of antioxidants supplementation on aging and longevity.
+  date: '2014-03-25'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12150111/
+  title: 'Effects of coenzyme Q10 administration on blood pressure and heart rate in adults: A systematic review and meta-analysis of randomized controlled trials.'
+  date: '2025-05-15'
 ---
 
 Coenzyme Q10 (CoQ10), also known as ubiquinone, is a fat-soluble compound found in the inner mitochondrial membrane of virtually every cell in the body. Its central function is to shuttle electrons through the electron transport chain, enabling mitochondria to generate ATP, the primary energy currency of the cell. Beyond energy production, its reduced form (ubiquinol) acts as a potent antioxidant, neutralizing reactive oxygen species before they can damage cellular membranes, proteins, and DNA.

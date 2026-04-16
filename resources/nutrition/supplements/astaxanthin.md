@@ -1,8 +1,7 @@
 ---
 title: Astaxanthin
 category: supplement
-description: Marine carotenoid and potent antioxidant with the strongest animal lifespan-extension
-  data of any carotenoid; human evidence limited to intermediate outcomes
+description: Marine carotenoid and potent antioxidant with the strongest animal lifespan-extension data of any carotenoid; human evidence limited to intermediate outcomes
 benefits:
 - id: longevity-lifespan
   label: 12% male lifespan extension in rigorous ITP animal study
@@ -13,13 +12,21 @@ benefits:
 benefitLevel: 6
 overallScore: 4
 credibility: emerging
-lastResearched: 2026-04-09
+lastResearched: '2026-04-09'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/38041783/
+  title: Astaxanthin and meclizine extend lifespan in UM-HET3 male mice; fisetin, SG1002 (hydrogen sulfide donor), dimethyl fumarate, mycophenolic acid, and 4-phenylbutyrate do not significantly affect lifespan in either sex at the doses and schedules used.
+  date: '2024-02-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7401246/
+  title: 'Astaxanthin as a Putative Geroprotector: Molecular Basis and Focus on Brain Aging.'
+  date: '2020-07-05'
 - url: https://examine.com/supplements/astaxanthin/
+  title: Astaxanthin benefits, dosage, and side effects
+  date: '2026-02-04'
 - url: https://pubmed.ncbi.nlm.nih.gov/33946587/
+  title: Low Pre-Transplant Caveolin-1 Serum Concentrations Are Associated with Acute Cellular Tubulointerstitial Rejection in Kidney Transplantation.
+  date: '2021-04-30'
 ---
 
 Astaxanthin is a red-orange carotenoid pigment produced primarily by the microalgae _Haematococcus pluvialis_. It accumulates up the food chain into krill, salmon, trout, and shrimp , and gives flamingos their characteristic pink color. It has no known provitamin A activity, distinguishing it from beta-carotene and other carotenoids.

@@ -1,8 +1,7 @@
 ---
 title: Ashwagandha
 category: supplement
-description: Adaptogenic herb used in Ayurvedic medicine that reduces cortisol, stress,
-  and anxiety while supporting sleep quality
+description: Adaptogenic herb used in Ayurvedic medicine that reduces cortisol, stress, and anxiety while supporting sleep quality
 benefits:
 - id: cortisol-reduction
   label: Significantly reduces circulating cortisol levels
@@ -15,13 +14,21 @@ benefits:
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://examine.com/supplements/ashwagandha/
+  title: Ashwagandha benefits, dosage, and side effects
+  date: '2025-09-04'
 - url: https://pubmed.ncbi.nlm.nih.gov/23439798/
+  title: A prospective, randomized double-blind, placebo-controlled study of safety and efficacy of a high-concentration full-spectrum extract of ashwagandha root in reducing stress and anxiety in adults.
+  date: '2012-07-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12242034/
+  title: 'Effects of Ashwagandha Supplements on Cortisol, Stress, and Anxiety Levels in Adults: A Systematic Review and Meta-Analysis'
+  date: '2025-06-20'
 - url: https://pubmed.ncbi.nlm.nih.gov/40746175/
+  title: 'Dual impact of Ashwagandha: Significant cortisol reduction but no effects on perceived stress - A systematic review and meta-analysis.'
+  date: '2025-12-01'
 ---
 
 

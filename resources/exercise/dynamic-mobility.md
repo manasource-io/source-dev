@@ -1,8 +1,7 @@
 ---
 title: Dynamic Mobility Drills
 category: mobility
-description: Controlled active movements through full joint range of motion used to
-  warm up, prevent injury, and maintain functional movement quality
+description: Controlled active movements through full joint range of motion used to warm up, prevent injury, and maintain functional movement quality
 benefits:
 - id: warm-up-performance
   label: Outperforms static stretching for pre-exercise power and agility
@@ -15,15 +14,15 @@ benefits:
 benefitLevel: 4
 overallScore: 3
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/29063454/
-  title: Acute Effects of Dynamic Stretching on Muscle Flexibility and Performance: An Analysis of the Current Literature.
-  date: 2018-02-01
+  title: 'Acute Effects of Dynamic Stretching on Muscle Flexibility and Performance: An Analysis of the Current Literature.'
+  date: '2018-02-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/16937960/
-  title: Dynamic vs. static-stretching warm up: the effect on power and agility performance.
-  date: 2006-08-01
+  title: 'Dynamic vs. static-stretching warm up: the effect on power and agility performance.'
+  date: '2006-08-01'
 ---
 
 

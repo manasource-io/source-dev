@@ -1,8 +1,7 @@
 ---
 title: Omega-3 Fatty Acids
 category: supplement
-description: Essential polyunsaturated fats (EPA and DHA) from marine sources that
-  reduce inflammation, lower triglycerides, and support brain structure and function
+description: Essential polyunsaturated fats (EPA and DHA) from marine sources that reduce inflammation, lower triglycerides, and support brain structure and function
 benefits:
 - id: triglyceride-reduction
   label: Substantially lowers elevated triglyceride levels
@@ -17,14 +16,24 @@ benefits:
 benefitLevel: 8
 overallScore: 8
 credibility: strong
-lastResearched: 2026-04-11
+lastResearched: '2026-04-11'
 readiness: ready
 references:
 - url: https://examine.com/supplements/fish-oil/
+  title: Fish Oil benefits, dosage, and side effects
+  date: '2025-11-05'
 - url: https://pubmed.ncbi.nlm.nih.gov/22968891/
+  title: 'Association between omega-3 fatty acid supplementation and risk of major cardiovascular disease events: a systematic review and meta-analysis.'
+  date: '2012-09-12'
 - url: https://pubmed.ncbi.nlm.nih.gov/23746276/
+  title: 'n-3 fatty acids: role in neurogenesis and neuroplasticity.'
+  date: '2013-01-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/34134132/
+  title: 'Using an erythrocyte fatty acid fingerprint to predict risk of all-cause mortality: the Framingham Offspring Cohort.'
+  date: '2021-10-04'
 - url: https://pubmed.ncbi.nlm.nih.gov/39900648/
+  title: Individual and additive effects of vitamin D, omega-3 and exercise on DNA methylation clocks of biological aging in older adults from the DO-HEALTH trial.
+  date: '2025-03-01'
 ---
 
 
