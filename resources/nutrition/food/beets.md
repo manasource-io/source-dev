@@ -2,15 +2,12 @@
 title: Beets
 category: food
 subCategory: vegetables
-description: Betalain-rich root vegetable with emerging cancer-preventive potential
-  and strong evidence for improving cardiovascular function and exercise performance
-  via dietary nitrates
+description: Betalain-rich root vegetable with emerging cancer-preventive potential and strong evidence for improving cardiovascular function and exercise performance via dietary nitrates
 benefits:
 - id: cancer-chemoprevention
   label: Betalains inhibit tumor proliferation, angiogenesis, and induce apoptosis
 - id: cardiovascular-health
-  label: Dietary nitrates boost nitric oxide, lowering blood pressure and improving
-    blood flow
+  label: Dietary nitrates boost nitric oxide, lowering blood pressure and improving blood flow
 - id: exercise-performance
   label: Nitrate-driven improvements in oxygen efficiency and endurance capacity
 - id: anti-inflammatory
@@ -18,11 +15,15 @@ benefits:
 benefitLevel: 6
 overallScore: 4
 credibility: emerging
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8020175/
+  title: Beetroot as a Potential Functional Food for Cancer Chemoprevention, a Narrative Review.
+  date: '2021-03-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8565237/
+  title: 'Beetroot as a functional food with huge health benefits: Antioxidant, antitumor, physical function, and chronic metabolomics activity.'
+  date: '2021-09-09'
 ---
 
 Beets (*Beta vulgaris*) have a distinctive nutritional profile dominated by two compound classes: betalains (the pigments responsible for their deep red-purple color) and inorganic dietary nitrates. Betalains , divided into red betacyanins and yellow betaxanthins , are potent antioxidants and anti-inflammatory compounds found in few other foods. Dietary nitrates, also abundant in leafy greens, are converted in the body to nitric oxide (NO), a vasodilator with broad cardiovascular and metabolic benefits. Together these two pathways give beets a uniquely broad health profile from a single food.

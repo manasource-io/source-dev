@@ -1,31 +1,30 @@
 ---
 title: Sunlight Exposure
-description: Daily morning sunlight is the most powerful natural signal for synchronizing
-  circadian rhythms, regulating mood via serotonin, and initiating vitamin D synthesis,
-  with measurable effects on sleep, mental health, and energy
+description: Daily morning sunlight is the most powerful natural signal for synchronizing circadian rhythms, regulating mood via serotonin, and initiating vitamin D synthesis, with measurable effects on sleep, mental health, and energy
 benefits:
 - id: circadian-alignment
-  label: Morning light is the primary zeitgeber that synchronizes the internal clock
-    to a 24-hour cycle
+  label: Morning light is the primary zeitgeber that synchronizes the internal clock to a 24-hour cycle
 - id: mood-and-mental-health
-  label: Outdoor light associated with lower depression, anxiety, and self-harm risk
-    in 400,000-person study
+  label: Outdoor light associated with lower depression, anxiety, and self-harm risk in 400,000-person study
 - id: sleep-quality
-  label: Morning sunlight predicts better sleep quality the following night; shifts
-    sleep midpoint earlier
+  label: Morning sunlight predicts better sleep quality the following night; shifts sleep midpoint earlier
 - id: vitamin-d-synthesis
-  label: UVB exposure triggers cutaneous vitamin D synthesis; 10–30 min midday sun
-    several times/week sufficient for most
+  label: UVB exposure triggers cutaneous vitamin D synthesis; 10–30 min midday sun several times/week sufficient for most
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
-- url: https://examine.com/topics/vitamin-d/
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8892387/
+  title: 'Time spent in outdoor light is associated with mood, sleep, and circadian rhythm-related outcomes: A cross-sectional and longitudinal study in over 400,000 UK Biobank participants.'
+  date: '2021-08-27'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6751071/
+  title: Effects of light on human circadian rhythms, sleep and mood.
+  date: '2019-08-20'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10277019/
+  title: 'Association Between Sunlight Exposure and Mental Health: Evidence from a Special Population Without Sunlight in Work.'
+  date: '2023-06-14'
 category: habit
 ---
 

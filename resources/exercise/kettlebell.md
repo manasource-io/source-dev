@@ -1,8 +1,7 @@
 ---
 title: Kettlebell Training
 category: strength
-description: Functional resistance training using ballistic compound movements that
-  simultaneously develop strength, power, and cardiovascular conditioning
+description: Functional resistance training using ballistic compound movements that simultaneously develop strength, power, and cardiovascular conditioning
 benefits:
 - id: functional-strength
   label: Builds grip, core, and lower-body functional strength via compound lifts
@@ -11,20 +10,19 @@ benefits:
 - id: power-and-explosiveness
   label: Ballistic movements like swings develop hip power and fast-twitch recruitment
 - id: older-adult-fitness
-  label: Improves grip strength and aerobic capacity in insufficiently active older
-    adults
+  label: Improves grip strength and aerobic capacity in insufficiently active older adults
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6719359/
-  title: Kettlebell training in clinical practice: a scoping review.
-  date: 2019-09-03
+  title: 'Kettlebell training in clinical practice: a scoping review.'
+  date: '2019-09-03'
 - url: https://pubmed.ncbi.nlm.nih.gov/35459114/
-  title: Effects of supervised high-intensity hardstyle kettlebell training on grip strength and health-related physical fitness in insufficiently active older adults: the BELL pragmatic controlled trial.
-  date: 2022-04-22
+  title: 'Effects of supervised high-intensity hardstyle kettlebell training on grip strength and health-related physical fitness in insufficiently active older adults: the BELL pragmatic controlled trial.'
+  date: '2022-04-22'
 ---
 
 

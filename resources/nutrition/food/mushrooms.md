@@ -2,27 +2,28 @@
 title: Mushrooms
 category: food
 subCategory: vegetables
-description: Beta-glucan and ergothioneine-rich fungi with evidence for immune modulation,
-  cancer treatment adjunct support, and unique mitochondria-targeted antioxidant protection
+description: Beta-glucan and ergothioneine-rich fungi with evidence for immune modulation, cancer treatment adjunct support, and unique mitochondria-targeted antioxidant protection
 benefits:
 - id: immune-modulation
-  label: Beta-glucans activate macrophages, NK cells, and T cells against pathogens
-    and cancer
+  label: Beta-glucans activate macrophages, NK cells, and T cells against pathogens and cancer
 - id: cancer-adjunct
   label: Lentinan and beta-glucans improve cancer treatment outcomes as adjunct therapy
 - id: antioxidant
-  label: Ergothioneine is a rare mitochondria-targeted antioxidant produced almost
-    exclusively by fungi
+  label: Ergothioneine is a rare mitochondria-targeted antioxidant produced almost exclusively by fungi
 - id: cognitive-support
   label: Hericenones in lion's mane mushrooms stimulate nerve growth factor production
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8308413/
+  title: 'Edible Mushrooms and Beta-Glucans: Impact on Human Health.'
+  date: '2021-06-25'
 - url: https://pubmed.ncbi.nlm.nih.gov/33309412/
+  title: Fungal beta-glucans as adjuvants for treating cancer patients - A systematic review of clinical trials.
+  date: '2021-05-01'
 ---
 
 Mushrooms are the fruiting bodies of fungi and occupy a unique nutritional category , neither plant nor animal, with a composition that includes compounds not found in other food groups. Key health-relevant compounds include beta-glucans (complex polysaccharides that activate immune receptors), ergothioneine (a rare antioxidant amino acid with no plant equivalent), and species-specific bioactives such as lentinan (from shiitake), hericenones (from lion's mane), and polysaccharide-K (PSK, from turkey tail). Culinary varieties , shiitake, oyster, maitake, reishi, button , all provide meaningful beta-glucan and ergothioneine content, with medicinal varieties providing concentrated doses of specific actives.

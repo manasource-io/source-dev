@@ -1,8 +1,7 @@
 ---
 title: Jump Rope
 category: cardio
-description: High-intensity low-equipment cardio that simultaneously develops cardiovascular
-  fitness, coordination, bone density, and agility
+description: High-intensity low-equipment cardio that simultaneously develops cardiovascular fitness, coordination, bone density, and agility
 benefits:
 - id: cardiovascular-efficiency
   label: Matches running in cardiovascular intensity; 10 min equals 30 min of jogging
@@ -15,16 +14,18 @@ benefits:
 benefitLevel: 5
 overallScore: 4
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
-- url: https://pubmed.ncbi.nlm.nih.gov/30325617/
+- url: https://doi.org/10.3389/fpsyg.2022.912635
+  title: "Fitness Promotion in a Jump Rope-Based Homework Intervention for Middle School Students: A Randomized Controlled Trial"
+  date: '2022-06-16'
 ---
 
 
 Jump rope is one of the most metabolically efficient cardiovascular exercises available, requiring only a rope and a small flat surface. At moderate intensity, jumping rope burns approximately 10–16 kcal per minute , comparable to running at 8 mph , while simultaneously developing coordination, rhythm, balance, and lower-body power. A 10-minute jump rope session produces cardiovascular adaptations roughly equivalent to a 30-minute moderate jog, making it exceptionally time-efficient.
 
-A randomized controlled trial comparing jump rope training to jogging in middle-school children found that the jump rope group showed superior improvements in cardiovascular fitness, motor coordination, and bone mineral density over the jogging group. The bone density benefit is particularly notable: the repetitive high-impact loading from jumping stimulates osteoblastic bone remodeling in the feet, ankles, and lower legs , an important longevity benefit given that osteoporosis-related fractures are a leading cause of mortality in older adults. Low-impact exercises like cycling and swimming do not provide this bone-loading stimulus.
+A randomized controlled trial in middle-school students found that a jump-rope homework intervention improved fitness and supported the broader case for jump rope as an efficient conditioning tool. The bone-loading benefit remains mechanically plausible: the repetitive high-impact loading from jumping stimulates osteoblastic remodeling in the feet, ankles, and lower legs , an important longevity consideration given that osteoporosis-related fractures are a leading cause of mortality in older adults. Low-impact exercises like cycling and swimming do not provide this same loading stimulus.
 
 The coordination demands of jump rope , maintaining bilateral rhythm, timing jumps to rope rotation, and managing footfall impact , develop proprioception and neuromuscular timing that transfer to other sports and activities. Even basic two-foot jumping builds these qualities; more advanced techniques (double-unders, crossovers, alternating feet) add progressive skill challenge that keeps training engagement high.
 

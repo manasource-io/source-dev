@@ -1,8 +1,7 @@
 ---
 title: NAC (N-Acetyl-Cysteine)
 category: supplement
-description: Stable cysteine precursor that raises intracellular glutathione, supporting
-  antioxidant defense, liver detoxification, and respiratory health
+description: Stable cysteine precursor that raises intracellular glutathione, supporting antioxidant defense, liver detoxification, and respiratory health
 benefits:
 - id: glutathione-support
   label: Raises glutathione and total antioxidant capacity
@@ -13,13 +12,18 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-04-09
+lastResearched: '2026-04-09'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8234027/
+  title: "<i>N</i>-Acetylcysteine (NAC): Impacts on Human Health."
+  date: '2021-06-16'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11617117/
-- url: https://www.frontiersin.org/articles/10.3389/fragi.2022.852569/full
-- url: https://examine.com/supplements/nac/
+  title: 'The impact of N-acetylcysteine on lactate, biomarkers of oxidative stress, immune response, and muscle damage: A systematic review and meta-analysis.'
+  date: '2024-12-01'
+- url: https://www.frontiersin.org/articles/10.3389/fragi.2022.852569/full/
+  title: A Randomized Controlled Clinical Trial in Healthy Older Adults to Determine Efficacy of Glycine and N-Acetylcysteine Supplementation on Glutathione Redox Status and Oxidative Damage
+  date: '2022-03-07'
 ---
 
 NAC (N-Acetyl-Cysteine) is a stable, orally bioavailable form of cysteine , the rate-limiting amino acid precursor to glutathione (GSH), the body's master antioxidant. It has one of the longest clinical track records of any supplement, with FDA-approved uses for acetaminophen overdose treatment and mucolytic therapy in cystic fibrosis and COPD. These validated medical applications underpin its broader reputation for antioxidant support, liver protection, and respiratory health.

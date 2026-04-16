@@ -2,9 +2,7 @@
 title: Cacao
 category: snack
 subCategory: other
-description: Raw or minimally processed cocoa bean concentrate, dense in flavanols;
-  studied for cardiovascular protection, metabolic health, and age-related cognitive
-  enhancement
+description: Raw or minimally processed cocoa bean concentrate, dense in flavanols; studied for cardiovascular protection, metabolic health, and age-related cognitive enhancement
 benefits:
 - id: cardiovascular-protection
   label: Reduces cardiovascular mortality (27% in large RCT)
@@ -19,15 +17,27 @@ benefits:
 benefitLevel: 8
 overallScore: 8
 credibility: strong
-lastResearched: 2026-04-11
+lastResearched: '2026-04-11'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/35294962/
+  title: 'Effect of cocoa flavanol supplementation for the prevention of cardiovascular disease events: the COcoa Supplement and Multivitamin Outcomes Study (COSMOS) randomized clinical trial.'
+  date: '2022-06-07'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11992872/
+  title: 'The role of cocoa flavanols in modulating peripheral and cerebral microvascular function in healthy individuals and populations at-risk of cardiovascular disease: a systematic review.'
+  date: '2025-04-11'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5086796/
+  title: 'Cocoa Flavanol Intake and Biomarkers for Cardiometabolic Health: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.'
+  date: '2016-09-28'
 - url: https://pubmed.ncbi.nlm.nih.gov/25344629/
+  title: Enhancing dentate gyrus function with dietary flavanols improves cognition in older adults.
+  date: '2014-12-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/41397115/
+  title: Theobromine is associated with slower epigenetic ageing.
+  date: '2025-12-10'
 - url: https://pubmed.ncbi.nlm.nih.gov/40832703/
+  title: Long-Term Effect of Cocoa Extract Supplementation on Incident Hypertension.
+  date: '2025-10-01'
 ---
 
 Raw cacao is one of the most flavanol-rich foods available. Unlike processed cocoa or milk chocolate, which lose the majority of their flavanol content through roasting, alkalization, and refining, raw or minimally processed cacao retains its full phytochemical profile. Cacao flavanols, primarily epicatechin and catechin oligomers (procyanidins), have been extensively studied for cardiovascular, metabolic, vascular, and cognitive benefits. The COSMOS trial, one of the largest dietary supplement RCTs ever conducted, confirmed a 27% reduction in cardiovascular mortality with cocoa extract supplementation, establishing cacao flavanols among the best-evidenced food-derived compounds for heart health.

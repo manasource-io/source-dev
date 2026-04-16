@@ -2,8 +2,7 @@
 title: Strawberries
 category: food
 subCategory: fruits
-description: Vitamin C-dense berry with cardiovascular benefits, iron absorption enhancement,
-  and anti-inflammatory polyphenols
+description: Vitamin C-dense berry with cardiovascular benefits, iron absorption enhancement, and anti-inflammatory polyphenols
 benefits:
 - id: cardiovascular-protection
   label: Reduces LDL oxidation and supports healthy lipid profiles
@@ -16,12 +15,12 @@ benefits:
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-04-11
+lastResearched: '2026-04-11'
 readiness: ready
 references:
-- title: 'Berries and cardiovascular health: anthocyanins, lipid peroxidation, and
-    disease risk'
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3068482/
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3068482/
+  title: 'Berries and cardiovascular health: anthocyanins, lipid peroxidation, and disease risk'
+  date: '2010-03-01'
 ---
 
 

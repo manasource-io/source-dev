@@ -1,8 +1,7 @@
 ---
 title: Lion's Mane Mushroom
 category: supplement
-description: Medicinal mushroom containing hericenones and erinacines that stimulate
-  nerve growth factor, supporting cognition, mood, and neurological resilience
+description: Medicinal mushroom containing hericenones and erinacines that stimulate nerve growth factor, supporting cognition, mood, and neurological resilience
 benefits:
 - id: cognitive-enhancement
   label: Improves processing speed and cognitive performance
@@ -15,13 +14,21 @@ benefits:
 benefitLevel: 7
 overallScore: 5
 credibility: emerging
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5987239/
+  title: Neurohealth Properties of <i>Hericium erinaceus</i> Mycelia Enriched with Erinacines.
+  date: '2018-05-21'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10675414/
+  title: 'The Acute and Chronic Effects of Lion''s Mane Mushroom Supplementation on Cognitive Function, Stress and Mood in Young Adults: A Double-Blind, Parallel Groups, Pilot Study.'
+  date: '2023-11-20'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12018234/
+  title: 'Acute effects of a standardised extract of <i>Hericium erinaceus</i> (Lion''s Mane mushroom) on cognition and mood in healthy younger adults: a double-blind randomised placebo-controlled study.'
+  date: '2025-04-10'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12434001/
+  title: 'Benefits, side effects, and uses of <i>Hericium erinaceus</i> as a supplement: a systematic review.'
+  date: '2025-09-01'
 ---
 
 Lion's Mane (Hericium erinaceus) is a culinary and medicinal mushroom with a long history of use in traditional East Asian medicine for cognitive support and gastrointestinal health. What distinguishes it from most nootropic supplements is a well-characterized biological mechanism: its bioactive compounds directly stimulate the production of nerve growth factor (NGF) and brain-derived neurotrophic factor (BDNF), proteins essential for the growth, maintenance, and survival of neurons.

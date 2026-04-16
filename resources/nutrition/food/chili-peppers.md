@@ -2,12 +2,10 @@
 title: Chili Peppers
 category: food
 subCategory: spices
-description: Capsaicin-containing spice with evidence for cancer cell apoptosis, metabolic
-  benefits, and cardiovascular support; beneficial in moderate amounts
+description: Capsaicin-containing spice with evidence for cancer cell apoptosis, metabolic benefits, and cardiovascular support; beneficial in moderate amounts
 benefits:
 - id: cancer-apoptosis
-  label: Capsaicin induces apoptosis and cell cycle arrest across multiple cancer
-    types
+  label: Capsaicin induces apoptosis and cell cycle arrest across multiple cancer types
 - id: metabolic-boost
   label: Mild thermogenic effect that increases energy expenditure and fat oxidation
 - id: cardiovascular-support
@@ -17,10 +15,12 @@ benefits:
 benefitLevel: 5
 overallScore: 3
 credibility: emerging
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/38176910/
+  title: 'Capsaicin: A chili pepper bioactive phytocompound with a potential role in suppressing cancer development and progression.'
+  date: '2024-03-01'
 ---
 
 Chili peppers (*Capsicum* species) owe most of their studied health properties to capsaicin , the alkaloid responsible for their characteristic heat. Capsaicin binds the TRPV1 (transient receptor potential vanilloid 1) receptor, a heat and pain sensor found throughout the nervous system, gut, and immune cells. This receptor interaction explains both capsaicin's pain-management properties and its increasingly studied anti-cancer signaling effects. The concentration of capsaicin varies widely by variety , from mild bell peppers (virtually none) to habanero and ghost peppers (extremely high) , and the health evidence largely relates to moderate capsaicin doses achievable through regular culinary use.

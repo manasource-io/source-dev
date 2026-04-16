@@ -1,8 +1,7 @@
 ---
 title: Taurine
 category: supplement
-description: Conditionally essential amino acid involved in cardiovascular health,
-  metabolic function, and cellular protection; may support healthy aging
+description: Conditionally essential amino acid involved in cardiovascular health, metabolic function, and cellular protection; may support healthy aging
 benefits:
 - id: longevity-aging
   label: May slow aging-related decline; extends lifespan in animal models
@@ -13,13 +12,21 @@ benefits:
 benefitLevel: 6
 overallScore: 4
 credibility: emerging
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/37289866/
+  title: Taurine deficiency as a driver of aging.
+  date: '2023-06-09'
 - url: https://pubmed.ncbi.nlm.nih.gov/40472098/
+  title: Is taurine an aging biomarker?
+  date: '2025-06-05'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12507425/
+  title: Experimental Evidence Against Taurine Deficiency as a Driver of Aging in Humans.
+  date: '2025-08-11'
 - url: https://examine.com/supplements/taurine/
+  title: Taurine benefits, dosage, and side effects
+  date: '2026-01-06'
 ---
 
 Taurine is a sulfur-containing amino acid found in high concentrations in the heart, brain, skeletal muscle, and retina. Unlike most amino acids, it is not incorporated into proteins; instead it acts as a metabolic regulator, involved in bile acid conjugation, osmotic balance, calcium signaling, and antioxidant defense. The body synthesizes taurine from cysteine and methionine, but synthesis capacity is limited , making dietary intake particularly important. Meat, fish, shellfish, and dairy are the primary food sources. Vegans and vegetarians tend to have measurably lower plasma taurine levels.

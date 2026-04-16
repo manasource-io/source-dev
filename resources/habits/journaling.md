@@ -1,8 +1,7 @@
 ---
 title: Write in journal
 category: habit
-description: Regular expressive or gratitude writing practice that reduces anxiety
-  and PTSD symptoms and improves emotional processing and wellbeing
+description: Regular expressive or gratitude writing practice that reduces anxiety and PTSD symptoms and improves emotional processing and wellbeing
 benefits:
 - id: anxiety-reduction
   label: Reduces anxiety and psychological distress
@@ -15,11 +14,12 @@ benefits:
 benefitLevel: 5
 overallScore: 4
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
-- url: https://examine.com/topics/journaling/
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8935176/
+  title: 'Efficacy of journaling in the management of mental illness: a systematic review and meta-analysis.'
+  date: '2022-03-01'
 ---
 
 

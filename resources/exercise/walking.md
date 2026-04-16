@@ -1,8 +1,7 @@
 ---
 title: Walking
 category: cardio
-description: Foundational low-impact aerobic exercise with dose-response mortality
-  benefits from 3000 steps upward, accessible at any fitness level
+description: Foundational low-impact aerobic exercise with dose-response mortality benefits from 3000 steps upward, accessible at any fitness level
 benefits:
 - id: mortality-reduction
   label: 47% lower all-cause mortality at 7000 steps vs 2000 per day
@@ -15,11 +14,15 @@ benefits:
 benefitLevel: 8
 overallScore: 8
 credibility: strong
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://examine.com/topics/walking/
+  title: 'Walking Ability: How diet, lifestyle, and supplements may provide benefits.'
+  date: '2024-10-13'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9289978/
+  title: 'Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts.'
+  date: '2022-03-01'
 ---
 
 

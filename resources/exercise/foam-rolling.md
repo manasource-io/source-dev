@@ -1,8 +1,7 @@
 ---
 title: Foam Rolling
 category: mobility
-description: Self-myofascial release technique using body weight on a roller to improve
-  range of motion, reduce DOMS, and support tissue recovery
+description: Self-myofascial release technique using body weight on a roller to improve range of motion, reduce DOMS, and support tissue recovery
 benefits:
 - id: range-of-motion
   label: Acute ROM improvements without reducing muscle strength or activation
@@ -15,15 +14,15 @@ benefits:
 benefitLevel: 3
 overallScore: 3
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/26618062/
-  title: THE EFFECTS OF SELF-MYOFASCIAL RELEASE USING A FOAM ROLL OR ROLLER MASSAGER ON JOINT RANGE OF MOTION, MUSCLE RECOVERY, AND PERFORMANCE: A SYSTEMATIC REVIEW.
-  date: 2015-11-01
+  title: 'THE EFFECTS OF SELF-MYOFASCIAL RELEASE USING A FOAM ROLL OR ROLLER MASSAGER ON JOINT RANGE OF MOTION, MUSCLE RECOVERY, AND PERFORMANCE: A SYSTEMATIC REVIEW.'
+  date: '2015-11-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/22580977/
   title: An acute bout of self-myofascial release increases range of motion without a subsequent decrease in muscle activation or force.
-  date: 2013-03-01
+  date: '2013-03-01'
 ---
 
 

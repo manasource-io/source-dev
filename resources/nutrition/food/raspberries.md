@@ -2,8 +2,7 @@
 title: Raspberries
 category: food
 subCategory: fruits
-description: High-fiber berry rich in ellagic acid, a precursor to urolithins linked
-  to mitophagy activation and anti-cancer effects
+description: High-fiber berry rich in ellagic acid, a precursor to urolithins linked to mitophagy activation and anti-cancer effects
 benefits:
 - id: mitophagy-activation
   label: Ellagic acid metabolizes into urolithins that activate cellular cleanup
@@ -16,15 +15,15 @@ benefits:
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-04-11
+lastResearched: '2026-04-11'
 readiness: ready
 references:
-- title: 'Berries and cardiovascular health: anthocyanins, lipid peroxidation, and
-    disease risk'
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3068482/
-- title: 'Anthocyanins in colorectal cancer prevention: systematic review of molecular
-    mechanisms'
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8533526/
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3068482/
+  title: 'Berries and cardiovascular health: anthocyanins, lipid peroxidation, and disease risk'
+  date: '2010-03-01'
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8533526/
+  title: 'Anthocyanins in colorectal cancer prevention: systematic review of molecular mechanisms'
+  date: '2021-10-12'
 ---
 
 

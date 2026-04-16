@@ -2,8 +2,7 @@
 title: Tomatoes
 category: food
 subCategory: vegetables
-description: Lycopene-rich fruit whose cancer-protective potential increases significantly
-  when cooked with olive oil, linked to reduced prostate and breast cancer risk
+description: Lycopene-rich fruit whose cancer-protective potential increases significantly when cooked with olive oil, linked to reduced prostate and breast cancer risk
 benefits:
 - id: cancer-prevention
   label: Lycopene reduces prostate and breast cancer risk in multiple meta-analyses
@@ -14,16 +13,17 @@ benefits:
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 pairing:
 - resource: food/olive-oil
   condition: cooked
   type: synergy
-  note: Cooking releases lycopene from cell walls; dietary fat increases absorption
-    up to 4x
+  note: Cooking releases lycopene from cell walls; dietary fat increases absorption up to 4x
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/26287411/
+  title: 'Lycopene and Risk of Prostate Cancer: A Systematic Review and Meta-Analysis.'
+  date: '2015-08-01'
 ---
 
 Tomatoes (*Solanum lycopersicum*) are one of the most consumed vegetables globally and the primary dietary source of lycopene , a red carotenoid with among the highest antioxidant activity of any food-derived compound. Unlike most nutrients that are better preserved raw, lycopene availability in tomatoes increases dramatically with cooking and with the presence of dietary fat, making processed forms like tomato paste, marinara sauce, and roasted tomatoes with olive oil the most potent delivery vehicles.

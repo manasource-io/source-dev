@@ -1,8 +1,7 @@
 ---
 title: Panax Ginseng
 category: supplement
-description: East Asian adaptogen root with ginsenosides that support cognition, mood,
-  immune function, and blood sugar regulation
+description: East Asian adaptogen root with ginsenosides that support cognition, mood, immune function, and blood sugar regulation
 benefits:
 - id: cognitive-performance
   label: Improves working memory, processing speed, and attention
@@ -15,12 +14,18 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://examine.com/supplements/panax-ginseng/
+  title: Panax Ginseng (Korean Ginseng) benefits, dosage, and side effects
+  date: '2026-02-10'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6874434/
+  title: Extension of <i>Drosophila</i> lifespan by Korean red ginseng through a mechanism dependent on dSir2 and insulin/IGF-1 signaling.
+  date: '2019-10-31'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11222675/
+  title: 'Research on the anti-aging mechanisms of <i>Panax ginseng</i> extract in mice: a gut microbiome and metabolomics approach.'
+  date: '2024-06-20'
 ---
 
 

@@ -1,12 +1,10 @@
 ---
 title: Rucking
 category: cardio
-description: Walking with a weighted backpack combining aerobic conditioning with
-  load-bearing musculoskeletal stress for superior caloric burn and bone density
+description: Walking with a weighted backpack combining aerobic conditioning with load-bearing musculoskeletal stress for superior caloric burn and bone density
 benefits:
 - id: cardiovascular-conditioning
-  label: Elevates heart rate and caloric expenditure significantly above unweighted
-    walking
+  label: Elevates heart rate and caloric expenditure significantly above unweighted walking
 - id: bone-density
   label: Weighted load increases ground reaction force, stimulating bone remodeling
 - id: functional-strength
@@ -16,12 +14,12 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9630762/
-  title: Physiological impact of load carriage exercise: Current understanding and future research directions.
-  date: 2022-11-01
+  title: 'Physiological impact of load carriage exercise: Current understanding and future research directions.'
+  date: '2022-11-01'
 ---
 
 

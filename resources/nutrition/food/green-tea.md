@@ -2,8 +2,7 @@
 title: Green Tea
 category: drink
 subCategory: other
-description: Brewed leaf beverage rich in catechins and a mild caffeine-theanine combination
-  supporting cognition, metabolism, and cardiovascular health
+description: Brewed leaf beverage rich in catechins and a mild caffeine-theanine combination supporting cognition, metabolism, and cardiovascular health
 benefits:
 - id: cognitive-protection
   label: Reduces risk of cognitive decline and dementia
@@ -14,19 +13,28 @@ benefits:
 - id: metabolic-support
   label: Modest support for glucose metabolism
 - id: cancer-prevention
-  label: EGCG interferes with tumor growth, halts cancer spread, and supports immune
-    cleanup
+  label: EGCG interferes with tumor growth, halts cancer spread, and supports immune cleanup
 benefitLevel: 8
 overallScore: 7
 credibility: moderate
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 references:
 - url: https://examine.com/supplements/green-tea/
+  title: Green Tea benefits, dosage, and side effects
+  date: '2025-07-07'
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2855614/
+  title: 'Beneficial effects of green tea: a literature review.'
+  date: '2010-04-06'
 - url: https://pubmed.ncbi.nlm.nih.gov/39947165/
+  title: 'The Association between Green Tea Consumption and Cognitive Function: A Meta-Analysis of Current Evidence.'
+  date: '2026-01-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11573487/
+  title: 'Tea consumption and risk of all-cause, cardiovascular disease, and cancer mortality: a meta-analysis of thirty-eight prospective cohort data sets.'
+  date: '2024-06-21'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7059963/
+  title: Green tea (Camellia sinensis) for the prevention of cancer.
+  date: '2020-03-02'
 ---
 
 Green tea (Camellia sinensis) is one of the world's most consumed beverages and one of the most studied for health effects. Its primary active constituents are catechins , particularly epigallocatechin gallate (EGCG) , alongside a mild caffeine-theanine combination that promotes calm, focused alertness without the jitteriness of coffee.

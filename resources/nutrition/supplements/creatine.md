@@ -1,8 +1,7 @@
 ---
 title: Creatine Monohydrate
 category: supplement
-description: Naturally occurring compound stored in muscle cells, widely used to boost
-  strength, power output, and support brain health
+description: Naturally occurring compound stored in muscle cells, widely used to boost strength, power output, and support brain health
 benefits:
 - id: strength-and-power
   label: Increases strength and peak power output
@@ -13,14 +12,24 @@ benefits:
 benefitLevel: 8
 overallScore: 8
 credibility: strong
-lastResearched: 2026-04-09
+lastResearched: '2026-04-09'
 readiness: ready
 references:
 - url: https://examine.com/supplements/creatine/
+  title: Creatine benefits, dosage, and side effects
+  date: '2026-01-06'
 - url: https://pubmed.ncbi.nlm.nih.gov/29704637/
+  title: 'Effects of creatine supplementation on cognitive function of healthy individuals: A systematic review of randomized controlled trials.'
+  date: '2018-07-15'
 - url: https://pubmed.ncbi.nlm.nih.gov/40971619/
+  title: 'Creatine and Cognition in Aging: A Systematic Review of Evidence in Older Adults.'
+  date: '2026-02-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/41062952/
+  title: 'Impact of creatine supplementation and exercise training in older adults: a systematic review and meta-analysis.'
+  date: '2025-10-08'
 - url: https://pubmed.ncbi.nlm.nih.gov/40673730/
+  title: Creatine monohydrate supplementation for older adults and clinical populations.
+  date: '2025-09-01'
 ---
 
 Creatine is one of the best-studied supplements in sports nutrition, with decades of research supporting its role in improving physical performance and emerging evidence for cognitive benefits.

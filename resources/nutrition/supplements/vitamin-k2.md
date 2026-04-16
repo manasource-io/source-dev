@@ -1,9 +1,7 @@
 ---
 title: Vitamin K2
 category: supplement
-description: Fat-soluble vitamin that directs calcium into bones and away from arteries;
-  supports cardiovascular health, bone density, and synergizes strongly with vitamin
-  D3
+description: Fat-soluble vitamin that directs calcium into bones and away from arteries; supports cardiovascular health, bone density, and synergizes strongly with vitamin D3
 benefits:
 - id: arterial-health
   label: Reduces aortic calcification and cardiovascular mortality risk
@@ -14,18 +12,22 @@ benefits:
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-04-11
+lastResearched: '2026-04-11'
 readiness: ready
 pairing:
 - resource: supplement/vitamin-d
   type: synergy
-  note: D3 increases calcium absorption; K2 directs that calcium to bones rather than
-    arteries. Taking D3 without K2 may increase soft-tissue calcification risk in
-    some individuals.
+  note: D3 increases calcium absorption; K2 directs that calcium to bones rather than arteries. Taking D3 without K2 may increase soft-tissue calcification risk in some individuals.
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/15514282/
+  title: 'Dietary intake of menaquinone is associated with a reduced risk of coronary heart disease: the Rotterdam Study.'
+  date: '2004-11-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8596038/
+  title: 'Vitamin K<sub>2</sub>-a neglected player in cardiovascular health: a narrative review.'
+  date: '2021-11-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9403798/
+  title: 'Efficacy of vitamin K2 in the prevention and treatment of postmenopausal osteoporosis: A systematic review and meta-analysis of randomized controlled trials.'
+  date: '2022-08-11'
 ---
 
 

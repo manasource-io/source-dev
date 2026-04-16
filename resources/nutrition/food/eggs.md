@@ -2,8 +2,7 @@
 title: Eggs
 category: food
 subCategory: other
-description: Complete protein whole food uniquely dense in choline, lutein, and zeaxanthin
-  with strong evidence for neuroprotection and brain health
+description: Complete protein whole food uniquely dense in choline, lutein, and zeaxanthin with strong evidence for neuroprotection and brain health
 benefits:
 - id: neuroprotection
   label: Choline and lutein reduce Alzheimer's risk and support memory
@@ -16,12 +15,18 @@ benefits:
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/29451849/
+  title: A Comprehensive Review of Eggs, Choline, and Lutein on Cognition Across the Life-span.
+  date: '2018-05-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12538690/
-- url: https://www.sciencedirect.com/science/article/pii/S002231662400289X
+  title: 'Egg intake and cognitive function in healthy adults: A systematic review of the literature.'
+  date: '2025-10-07'
+- url: https://www.sciencedirect.com/science/article/pii/S002231662400289X/
+  title: 'Association of Egg Intake With Alzheimer’s Dementia Risk in Older Adults: The Rush Memory and Aging Project'
+  date: '2024-05-21'
 ---
 
 

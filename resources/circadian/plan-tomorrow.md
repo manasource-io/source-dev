@@ -1,38 +1,34 @@
 ---
 title: Plan Tomorrow
 category: circadian
-description: Writing a concrete to-do list for the next day before bed reduces pre-sleep
-  cognitive arousal, shortens time to fall asleep, and supports a calmer, more intentional
-  start to the day
+description: Writing a concrete to-do list for the next day before bed reduces pre-sleep cognitive arousal, shortens time to fall asleep, and supports a calmer, more intentional start to the day
 benefits:
 - id: faster-sleep-onset
-  label: Writing a specific to-do list cut sleep onset latency by ~9 minutes in a
-    controlled RCT
+  label: Writing a specific to-do list cut sleep onset latency by ~9 minutes in a controlled RCT
 - id: pre-sleep-worry-reduction
   label: Externalizing pending tasks reduces rumination and cognitive arousal at bedtime
 - id: morning-readiness
-  label: Pre-planned day reduces decision fatigue and supports goal-directed behavior
-    from wake-up
+  label: Pre-planned day reduces decision fatigue and supports goal-directed behavior from wake-up
 - id: circadian-wind-down
   label: Consistent evening planning ritual signals the brain that the day is complete
 benefitLevel: 5
 overallScore: 4
 credibility: moderate
-lastResearched: 2026-04-08
+lastResearched: '2026-04-08'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5758411/
-  title: The effects of bedtime writing on difficulty falling asleep: A polysomnographic study comparing to-do lists and completed activity lists.
-  date: 2017-10-23
+  title: 'The effects of bedtime writing on difficulty falling asleep: A polysomnographic study comparing to-do lists and completed activity lists.'
+  date: '2017-10-23'
 - url: https://pubmed.ncbi.nlm.nih.gov/29058942/
-  title: The effects of bedtime writing on difficulty falling asleep: A polysomnographic study comparing to-do lists and completed activity lists.
-  date: 2017-10-23
+  title: 'The effects of bedtime writing on difficulty falling asleep: A polysomnographic study comparing to-do lists and completed activity lists.'
+  date: '2017-10-23'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11417809/
-  title: A Comprehensive Assessment of Bedtime Routines and Strategies to Aid Sleep Onset in College Students: A Web-Based Survey.
-  date: 2024-08-29
-- url: https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults
+  title: 'A Comprehensive Assessment of Bedtime Routines and Strategies to Aid Sleep Onset in College Students: A Web-Based Survey.'
+  date: '2024-08-29'
+- url: https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults/
   title: Bedtime Routines for Adults
-  date: 2021-01-08
+  date: '2021-01-08'
 ---
 
 Planning tomorrow before bed is a simple behavioral intervention with a surprisingly well-documented effect on sleep: writing down concrete tasks for the next day has been shown in a randomized controlled trial to meaningfully reduce the time it takes to fall asleep. The underlying mechanism is cognitive offloading , by externalizing unfinished mental loops onto paper, the mind is released from the need to actively rehearse or worry about them, lowering the cognitive arousal that is one of the primary barriers to sleep onset. This makes evening planning both a sleep hygiene practice and a circadian wind-down ritual.

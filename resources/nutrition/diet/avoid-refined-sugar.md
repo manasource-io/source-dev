@@ -1,30 +1,31 @@
 ---
 title: Avoid Refined Sugar
 inputType: score
-description: Reducing added and refined sugar intake lowers cardiovascular and all-cause
-  mortality risk, protects metabolic and gut health, and removes one of the most pervasive
-  drivers of chronic inflammation in the modern diet
+description: Reducing added and refined sugar intake lowers cardiovascular and all-cause mortality risk, protects metabolic and gut health, and removes one of the most pervasive drivers of chronic inflammation in the modern diet
 benefits:
 - id: cardiovascular-health
   label: Higher total sugar and fructose intake linked to 9–10% increased CVD mortality
 - id: metabolic-health
-  label: SSB consumption monotonically associated with T2D, hypertension, and CHD
-    risk
+  label: SSB consumption monotonically associated with T2D, hypertension, and CHD risk
 - id: gut-health
-  label: Excess sugar disrupts intestinal barrier integrity and drives gut microbiome
-    dysbiosis
+  label: Excess sugar disrupts intestinal barrier integrity and drives gut microbiome dysbiosis
 - id: inflammation
-  label: Reducing sugar lowers de novo lipogenesis, triglycerides, and systemic inflammatory
-    markers
+  label: Reducing sugar lowers de novo lipogenesis, triglycerides, and systemic inflammatory markers
 benefitLevel: 8
 overallScore: 7
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/34902573/
+  title: Sugars and Gastrointestinal Health.
+  date: '2022-09-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/37182401/
+  title: 'Total sugar, added sugar, fructose, and sucrose intake and all-cause, cardiovascular, and cancer mortality: A systematic review and dose-response meta-analysis of prospective cohort studies.'
+  date: '2023-07-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10050372/
+  title: 'Consumption of sugar sweetened beverages, artificially sweetened beverages and fruit juices and risk of type 2 diabetes, hypertension, cardiovascular disease, and mortality: A meta-analysis.'
+  date: '2023-03-15'
 category: diet
 ---
 

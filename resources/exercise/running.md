@@ -1,35 +1,31 @@
 ---
 title: Running
 category: cardio
-description: One of the most studied and accessible forms of aerobic exercise, with
-  dose-response data showing 25–40% reduced premature mortality and approximately
-  3 years of additional life expectancy even at minimal doses
+description: One of the most studied and accessible forms of aerobic exercise, with dose-response data showing 25–40% reduced premature mortality and approximately 3 years of additional life expectancy even at minimal doses
 benefits:
 - id: all-cause-mortality
-  label: 25–40% lower premature mortality in runners vs non-runners; persistent runners
-    show 29% reduction
+  label: 25–40% lower premature mortality in runners vs non-runners; persistent runners show 29% reduction
 - id: cardiovascular-health
   label: 45% lower cardiovascular mortality; strong dose-response even at <51 min/week
 - id: mental-health
   label: Reduces anxiety and depression; runners' high is real (endocannabinoid-mediated)
 - id: accessibility
-  label: Even <51 min/week or <6 miles/week provides significant mortality benefit
-    , lowest effective dose of any aerobic exercise
+  label: Even <51 min/week or <6 miles/week provides significant mortality benefit , lowest effective dose of any aerobic exercise
 benefitLevel: 8
 overallScore: 8
 credibility: strong
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/28365296/
   title: Running as a Key Lifestyle Medicine for Longevity.
-  date: 2017-03-30
+  date: '2017-03-30'
 - url: https://pubmed.ncbi.nlm.nih.gov/31685526/
   title: Is running associated with a lower risk of all-cause, cardiovascular and cancer mortality, and is the more the better? A systematic review and meta-analysis.
-  date: 2019-11-04
+  date: '2019-11-04'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4131752/
   title: Leisure-time running reduces all-cause and cardiovascular mortality risk.
-  date: 2014-08-05
+  date: '2014-08-05'
 ---
 
 Running is rhythmic, weight-bearing locomotion at a pace above walking , typically defined as any pace where both feet leave the ground simultaneously. It requires no equipment beyond supportive footwear and can be done almost anywhere. Of all aerobic exercise modes, running has one of the richest epidemiological evidence bases: large prospective cohort studies following tens of thousands of people across 15+ years have produced some of the most compelling dose-response data in exercise science. The consistent finding is that almost any amount of running is dramatically better than none.

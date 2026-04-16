@@ -2,8 +2,7 @@
 title: Avocado
 category: food
 subCategory: fruits
-description: Nutrient-dense fruit rich in monounsaturated fats, fiber, potassium,
-  and fat-soluble vitamins that supports cardiovascular and metabolic health
+description: Nutrient-dense fruit rich in monounsaturated fats, fiber, potassium, and fat-soluble vitamins that supports cardiovascular and metabolic health
 benefits:
 - id: cardiovascular-health
   label: Reduces LDL cholesterol and cardiovascular disease risk
@@ -16,16 +15,30 @@ benefits:
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-04-09
+lastResearched: '2026-04-09'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/25567051/
-- url: https://academic.oup.com/jn/article/150/2/276/5588100
+  title: 'Effect of a moderate fat diet with and without avocados on lipoprotein particle number, size and subclasses in overweight and obese adults: a randomized, controlled trial.'
+  date: '2015-01-07'
+- url: https://academic.oup.com/jn/article/150/2/276/5588100/
+  title: 'A Moderate-Fat Diet with One Avocado per Day Increases Plasma Antioxidants and Decreases the Oxidation of Small, Dense LDL in Adults with Overweight and Obesity: A Randomized Controlled Trial'
+  date: '2020-02-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/40612140/
+  title: 'Effects of Avocado Products on Cardiovascular Risk Factors in Adults: A GRADE-Assessed Systematic Review and Meta-Analysis.'
+  date: '2025-07-02'
 - url: https://pubmed.ncbi.nlm.nih.gov/36565850/
+  title: 'Avocado Consumption and Cardiometabolic Health: A Systematic Review and Meta-Analysis.'
+  date: '2024-02-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/35352568/
+  title: Avocado Consumption and Risk of Cardiovascular Disease in US Adults.
+  date: '2022-04-05'
 - url: https://pubmed.ncbi.nlm.nih.gov/39641169/
+  title: 'Impact of daily avocado consumption on gut microbiota in adults with abdominal obesity: an ancillary study of HAT, a randomized controlled trial.'
+  date: '2025-01-02'
 - url: https://pubmed.ncbi.nlm.nih.gov/39968784/
+  title: 'Effect of Daily Avocado Intake on Cardiovascular Health Assessed by Life''s Essential 8: An Ancillary Study of HAT, a Randomized Controlled Trial.'
+  date: '2025-03-04'
 ---
 
 Avocados (Persea americana) are a uniquely nutrient-dense fruit, providing monounsaturated fatty acids (primarily oleic acid), dietary fiber, potassium, folate, vitamins K, C, B5, and B6, and a variety of bioactive phytochemicals including lutein, zeaxanthin, and beta-sitosterol. Their health benefits are well-supported by RCTs and large prospective cohort studies, with the strongest evidence centering on cardiovascular outcomes.

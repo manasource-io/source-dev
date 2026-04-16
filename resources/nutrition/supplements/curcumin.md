@@ -1,8 +1,7 @@
 ---
 title: Curcumin (Turmeric Extract)
 category: supplement
-description: Polyphenol extracted from turmeric root that reduces inflammation and
-  joint pain and supports mood, requires enhanced bioavailability formulation
+description: Polyphenol extracted from turmeric root that reduces inflammation and joint pain and supports mood, requires enhanced bioavailability formulation
 benefits:
 - id: anti-inflammatory
   label: Inhibits pro-inflammatory cytokines (IL-6, TNF-α, COX-2)
@@ -17,7 +16,7 @@ benefits:
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 pairing:
 - resource: food/black-pepper
@@ -28,10 +27,20 @@ pairing:
   note: Curcumin is fat-soluble; take with a meal containing dietary fat
 references:
 - url: https://examine.com/supplements/curcumin/
+  title: Curcumin benefits, dosage, and side effects
+  date: '2026-03-02'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11659657/
+  title: 'Efficacy of <i>Curcuma longa</i> in relieving pain symptoms of knee osteoarthritis patients: a systematic review and meta-analysis of clinical trials.'
+  date: '2024-11-06'
 - url: https://pubmed.ncbi.nlm.nih.gov/38561618/
+  title: 'The Effects of Curcumin Plus Piperine Co-administration on Inflammation and Oxidative Stress: A Systematic Review and Meta-analysis of Randomized Controlled Trials.'
+  date: '2025-01-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/19838007/
+  title: '4G/5G variant of plasminogen activator inhibitor-1 gene and severe pregnancy-induced hypertension: subgroup analyses of variants of angiotensinogen and endothelial nitric oxide synthase.'
+  date: '2009-01-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3918523/
+  title: 'Recent developments in delivery, bioavailability, absorption and metabolism of curcumin: the golden pigment from golden spice.'
+  date: '2014-01-15'
 ---
 
 

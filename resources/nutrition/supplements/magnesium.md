@@ -1,8 +1,7 @@
 ---
 title: Magnesium
 category: supplement
-description: Essential mineral involved in 300+ enzymatic reactions, critical for
-  cardiovascular health, sleep, energy, and metabolic function
+description: Essential mineral involved in 300+ enzymatic reactions, critical for cardiovascular health, sleep, energy, and metabolic function
 benefits:
 - id: cardiovascular-health
   label: Reduces risk of hypertension and cardiovascular disease
@@ -17,12 +16,18 @@ benefits:
 benefitLevel: 8
 overallScore: 8
 credibility: strong
-lastResearched: 2026-04-11
+lastResearched: '2026-04-11'
 readiness: ready
 references:
 - url: https://examine.com/supplements/magnesium/
+  title: Magnesium benefits, dosage, and side effects
+  date: '2026-01-26'
 - url: https://pubmed.ncbi.nlm.nih.gov/27933574/
+  title: "[Long-term HRV analysis shows stress reduction by magnesium intake]."
+  date: '2016-12-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/22364157/
+  title: 'Suboptimal magnesium status in the United States: are the health consequences underestimated?'
+  date: '2012-03-01'
 ---
 
 Magnesium is the fourth most abundant mineral in the human body and a cofactor in over 300 enzymatic reactions, including those involved in DNA synthesis, protein production, nerve signaling, and energy metabolism. Despite its importance, population surveys consistently find that a large proportion of adults in Western countries consume less than the recommended daily amount. Low magnesium is strongly associated with a cluster of chronic conditions (hypertension, type 2 diabetes, cardiovascular disease, osteoporosis, and systemic inflammation), making supplementation broadly relevant.

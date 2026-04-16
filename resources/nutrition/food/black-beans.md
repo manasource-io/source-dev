@@ -3,8 +3,7 @@ title: Black Beans
 category: food
 subCategory: legumes
 credibility: strong
-description: Fiber-dense legume with anthocyanin antioxidants, plant protein, and
-  strong evidence for longevity and cardiometabolic health
+description: Fiber-dense legume with anthocyanin antioxidants, plant protein, and strong evidence for longevity and cardiometabolic health
 benefits:
 - id: longevity-mortality
   label: Reduced all-cause mortality
@@ -16,14 +15,24 @@ benefits:
   label: Gut microbiome support
 benefitLevel: 8
 overallScore: 8
-lastResearched: 2026-04-09
+lastResearched: '2026-04-09'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/25143474/
+  title: 'Dietary fiber intake and total mortality: a meta-analysis of prospective cohort studies.'
+  date: '2014-09-15'
 - url: https://pubmed.ncbi.nlm.nih.gov/36811595/
+  title: 'Legume Consumption and Risk of All-Cause and Cause-Specific Mortality: A Systematic Review and Dose-Response Meta-Analysis of Prospective Studies.'
+  date: '2023-01-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/34642756/
+  title: Canned Beans Decrease Serum Total and LDL Cholesterol in Adults with Elevated LDL Cholesterol in a 4-wk Multicenter, Randomized, Crossover Study.
+  date: '2021-12-03'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10463756/
-- url: https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1384247
+  title: 'Effects of anthocyanin supplementation on blood lipid levels: a systematic review and meta-analysis.'
+  date: '2023-08-15'
+- url: https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1384247/
+  title: Low-Glycemic Index vs High-Cereal Fiber Diet in Type 2 Diabetes
+  date: '2009-04-15'
 ---
 
 Black beans are a nutritional powerhouse among legumes, combining high-quality plant protein, exceptional fiber content, and a rich array of micronutrients including iron, magnesium, folate, and calcium. Their deep black seed coat is densely packed with anthocyanins , particularly delphinidin, petunidin, and malvidin , making them one of the highest-antioxidant whole foods available. Multiple lines of evidence connect regular legume consumption to measurable improvements in cardiovascular risk factors, blood sugar regulation, and long-term survival outcomes.

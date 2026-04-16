@@ -1,8 +1,7 @@
 ---
 title: Bacopa Monnieri
 category: supplement
-description: Ayurvedic herb containing bacosides that support memory recall, reduce
-  stress reactivity, and protect neurons from oxidative damage
+description: Ayurvedic herb containing bacosides that support memory recall, reduce stress reactivity, and protect neurons from oxidative damage
 benefits:
 - id: memory-support
   label: Improves memory free recall and learning
@@ -15,13 +14,21 @@ benefits:
 benefitLevel: 5
 overallScore: 3
 credibility: emerging
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://examine.com/supplements/bacopa-monnieri/
+  title: Bacopa Monnieri benefits, dosage, and side effects
+  date: '2023-07-17'
 - url: https://pubmed.ncbi.nlm.nih.gov/22747190/
+  title: 'The cognitive-enhancing effects of Bacopa monnieri: a systematic review of randomized, controlled human clinical trials.'
+  date: '2012-07-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11047749/
+  title: 'Investigating the Neuroprotective and Cognitive-Enhancing Effects of <i>Bacopa monnieri</i>: A Systematic Review Focused on Inflammation, Oxidative Stress, Mitochondrial Dysfunction, and Apoptosis.'
+  date: '2024-03-25'
 - url: https://pubmed.ncbi.nlm.nih.gov/41091332/
+  title: 'The Effects of a Bacopa monnieri Extract (Bacumen(®)) on Cognition, Stress, and Fatigue in Healthy Adults: A Randomized, Double-Blind, Placebo-Controlled Trial.'
+  date: '2025-12-01'
 ---
 
 Bacopa monnieri is a creeping herb native to wetlands across South and Southeast Asia, used for centuries in Ayurvedic medicine under the name Brahmi as a brain tonic for memory, learning, and longevity. Its active compounds , bacosides A and B , are thought to work by enhancing synaptic transmission, reducing oxidative damage to neurons, and modulating the cholinergic system involved in memory consolidation.

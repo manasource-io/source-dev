@@ -1,8 +1,7 @@
 ---
 title: Hiking
 category: cardio
-description: Sustained outdoor walking over natural terrain combining aerobic conditioning
-  with nature exposure, balance challenge, and mental restoration
+description: Sustained outdoor walking over natural terrain combining aerobic conditioning with nature exposure, balance challenge, and mental restoration
 benefits:
 - id: cardiovascular-health
   label: Sustained aerobic exercise reduces blood pressure, CVD risk, and mortality
@@ -15,12 +14,12 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6993091/
-  title: Hiking: A Low-Cost, Accessible Intervention to Promote Health Benefits.
-  date: 2016-07-09
+  title: 'Hiking: A Low-Cost, Accessible Intervention to Promote Health Benefits.'
+  date: '2016-07-09'
 ---
 
 

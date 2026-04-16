@@ -1,8 +1,7 @@
 ---
 title: Yoga
 category: mobility
-description: Mind-body exercise combining postures, breathing, and meditation with
-  strong evidence for mental health, flexibility, and cardiovascular benefit
+description: Mind-body exercise combining postures, breathing, and meditation with strong evidence for mental health, flexibility, and cardiovascular benefit
 benefits:
 - id: mental-health
   label: Reduces depression, anxiety, and perceived stress
@@ -15,11 +14,12 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
-- url: https://examine.com/topics/yoga/
 - url: https://pubmed.ncbi.nlm.nih.gov/23922209/
+  title: 'Yoga for depression: a systematic review and meta-analysis.'
+  date: '2013-11-01'
 ---
 
 

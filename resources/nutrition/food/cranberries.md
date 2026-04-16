@@ -2,8 +2,7 @@
 title: Cranberries
 category: food
 subCategory: fruits
-description: Tart berry with uniquely structured A-type proanthocyanidins that prevent
-  bacterial adhesion in the urinary tract, reducing recurrent UTI risk
+description: Tart berry with uniquely structured A-type proanthocyanidins that prevent bacterial adhesion in the urinary tract, reducing recurrent UTI risk
 benefits:
 - id: uti-prevention
   label: A-type proanthocyanidins reduce recurrent urinary tract infection risk
@@ -14,15 +13,15 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-04-11
+lastResearched: '2026-04-11'
 readiness: ready
 references:
-- title: 'Preventive effect of cranberries with high-dose PACs on UTIs: meta-analysis
-    and systematic review'
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11635990/
-- title: 'Berries and cardiovascular health: anthocyanins, lipid peroxidation, and
-    disease risk'
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3068482/
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11635990/
+  title: 'Preventive effect of cranberries with high-dose PACs on UTIs: meta-analysis and systematic review'
+  date: '2024-11-28'
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3068482/
+  title: 'Berries and cardiovascular health: anthocyanins, lipid peroxidation, and disease risk'
+  date: '2010-03-01'
 ---
 
 

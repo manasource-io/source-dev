@@ -2,8 +2,7 @@
 title: Sweet Potatoes
 category: food
 subCategory: vegetables
-description: Starchy root vegetable rich in beta-carotene, fiber, and antioxidants
-  with a low glycemic index when boiled
+description: Starchy root vegetable rich in beta-carotene, fiber, and antioxidants with a low glycemic index when boiled
 benefits:
 - id: antioxidant-protection
   label: High beta-carotene content supports immune and vision health
@@ -16,11 +15,12 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-04-11
+lastResearched: '2026-04-11'
 readiness: ready
 references:
-- title: 'Sweet Potatoes: nutrition, storage, and preparation'
-  url: https://nutritionsource.hsph.harvard.edu/food-features/sweet-potatoes/
+- url: https://nutritionsource.hsph.harvard.edu/food-features/sweet-potatoes/
+  title: 'Sweet Potatoes: nutrition, storage, and preparation'
+  date: '2017-11-17'
 ---
 
 

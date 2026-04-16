@@ -2,8 +2,7 @@
 title: Pumpkin
 category: food
 subCategory: vegetables
-description: Nutrient-dense vegetable exceptionally high in beta-carotene and carotenoid
-  antioxidants, supporting immune health and chronic disease prevention
+description: Nutrient-dense vegetable exceptionally high in beta-carotene and carotenoid antioxidants, supporting immune health and chronic disease prevention
 benefits:
 - id: antioxidant-protection
   label: Rich in beta-carotene and carotenoid antioxidants
@@ -16,12 +15,18 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-04-11
+lastResearched: '2026-04-11'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9182978/
+  title: Nutritional Value, Phytochemical Potential, and Therapeutic Benefits of Pumpkin (<i>Cucurbita</i> sp.).
+  date: '2022-05-24'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10761000/
+  title: 'Pumpkin and Pumpkin Byproducts: Phytochemical Constitutes, Food Application and Health Benefits.'
+  date: '2023-06-23'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11884939/
+  title: Effects of Instant Pumpkin Soup on the Antioxidant Capacity and Oxidative Stress of the Elderly.
+  date: '2025-02-01'
 ---
 
 Pumpkin is a highly nutrient-dense food, low in calories but packed with vitamins, minerals, and bioactive compounds. Its most distinctive nutritional feature is an exceptionally high carotenoid content, dominated by beta-carotene and accompanied by alpha-carotene, lutein, and zeaxanthin. The flesh, seeds, and peel each contribute distinct health-relevant compounds, making the whole plant valuable as a functional food.

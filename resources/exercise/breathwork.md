@@ -1,8 +1,7 @@
 ---
 title: Breathwork
 category: mobility
-description: Deliberate slow-paced or diaphragmatic breathing practice that improves
-  HRV, reduces blood pressure, and builds parasympathetic resilience
+description: Deliberate slow-paced or diaphragmatic breathing practice that improves HRV, reduces blood pressure, and builds parasympathetic resilience
 benefits:
 - id: hrv-improvement
   label: Significantly increases vagally-mediated HRV and parasympathetic tone
@@ -15,16 +14,15 @@ benefits:
 benefitLevel: 5
 overallScore: 4
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
-- url: https://examine.com/topics/deep-breathing/
 - url: https://pubmed.ncbi.nlm.nih.gov/35623448/
-  title: Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis.
-  date: 2022-05-24
-- url: https://www.nature.com/articles/s41598-022-27247-y
-  title: Effect of breathwork on stress and mental health: A meta-analysis of randomised-controlled trials
-  date: 2023-01-09
+  title: 'Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis.'
+  date: '2022-05-24'
+- url: https://www.nature.com/articles/s41598-022-27247-y/
+  title: 'Effect of breathwork on stress and mental health: A meta-analysis of randomised-controlled trials'
+  date: '2023-01-09'
 ---
 
 

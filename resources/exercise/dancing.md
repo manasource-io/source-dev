@@ -1,14 +1,12 @@
 ---
 title: Dancing
 category: cardio
-description: Aerobic movement combining rhythmic physical activity with coordination,
-  social engagement, and cognitive challenge for broad mind-body benefits
+description: Aerobic movement combining rhythmic physical activity with coordination, social engagement, and cognitive challenge for broad mind-body benefits
 benefits:
 - id: physical-fitness
   label: Improves balance, aerobic capacity, flexibility, and muscular endurance
 - id: cognitive-protection
-  label: Learning choreography challenges memory and spatial cognition; reduces dementia
-    risk
+  label: Learning choreography challenges memory and spatial cognition; reduces dementia risk
 - id: mental-health
   label: Reduces depression and anxiety; strong mood and wellbeing effects
 - id: social-engagement
@@ -16,15 +14,15 @@ benefits:
 benefitLevel: 6
 overallScore: 5
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/29270864/
-  title: The Effectiveness of Dance Interventions on Physical Health Outcomes Compared to Other Forms of Physical Activity: A Systematic Review and Meta-Analysis.
-  date: 2018-04-01
+  title: 'The Effectiveness of Dance Interventions on Physical Health Outcomes Compared to Other Forms of Physical Activity: A Systematic Review and Meta-Analysis.'
+  date: '2018-04-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9535373/
-  title: A Meta-Analysis of the Effects of Dance Programs on Physical Performance: Appropriate Health Promotion for Healthy Older Adults.
-  date: 2022-09-06
+  title: 'A Meta-Analysis of the Effects of Dance Programs on Physical Performance: Appropriate Health Promotion for Healthy Older Adults.'
+  date: '2022-09-06'
 ---
 
 

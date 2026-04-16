@@ -1,29 +1,30 @@
 ---
 title: Mindfulness Meditation
-description: A structured mental training practice with robust evidence for reducing
-  anxiety, depression, and stress, with effects comparable to antidepressant medication,
-  accessible to anyone, at any time
+description: A structured mental training practice with robust evidence for reducing anxiety, depression, and stress, with effects comparable to antidepressant medication, accessible to anyone, at any time
 benefits:
 - id: anxiety-reduction
-  label: Moderate reduction in anxiety symptoms across 47 RCTs (effect size 0.38 at
-    8 weeks)
+  label: Moderate reduction in anxiety symptoms across 47 RCTs (effect size 0.38 at 8 weeks)
 - id: depression-reduction
-  label: Significant reduction in depression symptoms; effect maintained at 3–6 month
-    follow-up
+  label: Significant reduction in depression symptoms; effect maintained at 3–6 month follow-up
 - id: stress-resilience
   label: Reduces stress reactivity and improves emotional regulation under pressure
 - id: pain-management
-  label: Moderate evidence for reduction in chronic pain perception and pain-related
-    distress
+  label: Moderate evidence for reduction in chronic pain perception and pain-related distress
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/
+  title: 'Meditation programs for psychological stress and well-being: a systematic review and meta-analysis.'
+  date: '2014-03-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10872959/
+  title: 'The efficacy of mindfulness apps on symptoms of depression and anxiety: An updated meta-analysis of randomized controlled trials.'
+  date: '2023-12-03'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10090715/
+  title: 'Effects of Mindfulness Meditation Duration and Type on Well-being: an Online Dose-Ranging Randomized Controlled Trial.'
+  date: '2023-04-12'
 category: wellbeing
 ---
 

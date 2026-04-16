@@ -1,8 +1,7 @@
 ---
 title: L-Theanine
 category: supplement
-description: Non-sedating amino acid from green tea that promotes alpha-wave relaxation
-  and enhances cognitive focus especially when combined with caffeine
+description: Non-sedating amino acid from green tea that promotes alpha-wave relaxation and enhances cognitive focus especially when combined with caffeine
 benefits:
 - id: relaxation-without-sedation
   label: Increases alpha brain waves and reduces stress without causing drowsiness
@@ -15,11 +14,15 @@ benefits:
 benefitLevel: 5
 overallScore: 4
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://examine.com/supplements/theanine/
+  title: Theanine benefits, dosage, and side effects
+  date: '2025-09-04'
 - url: https://pubmed.ncbi.nlm.nih.gov/41176609/
+  title: 'Examining the effect of L-theanine on sleep: a systematic review of dietary supplementation trials.'
+  date: '2026-02-01'
 ---
 
 

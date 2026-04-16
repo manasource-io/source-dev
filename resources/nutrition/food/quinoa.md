@@ -2,8 +2,7 @@
 title: Quinoa
 category: food
 subCategory: grains
-description: Andean pseudocereal and rare complete plant protein, rich in fiber, magnesium,
-  and anti-inflammatory flavonoids
+description: Andean pseudocereal and rare complete plant protein, rich in fiber, magnesium, and anti-inflammatory flavonoids
 benefits:
 - id: complete-protein
   label: Complete protein with all nine essential amino acids
@@ -16,10 +15,12 @@ benefits:
 benefitLevel: 6
 overallScore: 6
 credibility: strong
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://www.hsph.harvard.edu/nutritionsource/food-features/quinoa/
+  title: Quinoa • The Nutrition Source
+  date: '2017-03-21'
 ---
 
 

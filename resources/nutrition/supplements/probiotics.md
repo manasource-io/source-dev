@@ -1,8 +1,7 @@
 ---
 title: Probiotics
 category: supplement
-description: Live microorganisms that support gut microbiome diversity, immune function,
-  and, emerging evidence suggests, healthy aging and longevity
+description: Live microorganisms that support gut microbiome diversity, immune function, and, emerging evidence suggests, healthy aging and longevity
 benefits:
 - id: gut-health
   label: Reduces risk of antibiotic-associated diarrhea and IBS symptoms
@@ -15,12 +14,18 @@ benefits:
 benefitLevel: 7
 overallScore: 6
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/
+  title: Office of Dietary Supplements - Probiotics
+  date: '2025-03-25'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12482033/
+  title: 'Effects of probiotics, prebiotics, and synbiotics on gut microbiota in older adults: a systematic review and meta-analysis of randomized controlled trials.'
+  date: '2025-09-29'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12220006/
+  title: Microbiome-based therapeutics towards healthier aging and longevity.
+  date: '2025-07-01'
 ---
 
 Probiotics are live microorganisms that, when consumed in adequate amounts, confer health benefits by colonizing the gut and modifying the microbial environment. The most studied species are *Lactobacillus* and *Bifidobacterium* strains, though yeasts like *Saccharomyces boulardii* are also well-established for specific conditions. The gut microbiome , a community of trillions of microorganisms , is increasingly recognized not just as a digestive organ but as a central regulator of immune function, metabolic health, inflammation, and aging.

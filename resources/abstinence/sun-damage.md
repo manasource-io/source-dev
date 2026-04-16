@@ -1,8 +1,7 @@
 ---
 title: Avoid Sun Damage
 category: abstinence
-description: Protecting skin from sunburns and excessive unprotected UV exposure to
-  prevent melanoma and photoaging while preserving moderate sun benefits
+description: Protecting skin from sunburns and excessive unprotected UV exposure to prevent melanoma and photoaging while preserving moderate sun benefits
 benefits:
 - id: melanoma-prevention
   label: Sunburns and intermittent high-UV exposure are the primary melanoma drivers
@@ -13,15 +12,15 @@ benefits:
 benefitLevel: 6
 overallScore: 6
 credibility: strong
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/26992108/
-  title: Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort.
-  date: 2016-03-16
+  title: 'Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort.'
+  date: '2016-03-16'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5036351/
   title: Ultraviolet Radiation Exposure and Its Impact on Skin Cancer Risk.
-  date: 2016-07-29
+  date: '2016-07-29'
 ---
 
 

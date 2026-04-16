@@ -2,16 +2,14 @@
 title: Walnuts
 category: food
 subCategory: seeds-nuts
-description: The only tree nut rich in plant-based omega-3 ALA, with exceptional antioxidant
-  polyphenols supporting brain, cardiovascular, and gut health
+description: The only tree nut rich in plant-based omega-3 ALA, with exceptional antioxidant polyphenols supporting brain, cardiovascular, and gut health
 benefits:
 - id: brain-health
   label: ALA omega-3 and polyphenols support cognition and reduce dementia risk
 - id: cardiovascular-health
   label: Reduces LDL cholesterol, triglycerides, and cardiovascular disease risk
 - id: gut-microbiome
-  label: Prebiotic polyphenols enrich beneficial gut bacteria and produce urolithin
-    A
+  label: Prebiotic polyphenols enrich beneficial gut bacteria and produce urolithin A
 - id: anti-inflammatory
   label: Highest antioxidant activity among common nuts
 - id: cancer-prevention
@@ -19,13 +17,21 @@ benefits:
 benefitLevel: 8
 overallScore: 7
 credibility: moderate
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 references:
-- url: https://health.ucdavis.edu/blog/good-food/4-health-benefits-of-walnuts-and-how-much-you-should-eat/2024/02
+- url: https://health.ucdavis.edu/blog/good-food/4-health-benefits-of-walnuts-and-how-much-you-should-eat/2024/02/
+  title: 4 health benefits of walnuts and how much you should eat | Good Food Is Good Medicine
+  date: '2024-02-08'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7071526/
+  title: Beneficial Effects of Walnuts on Cognition and Brain Health.
+  date: '2020-02-20'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11595550/
+  title: Walnut Consumption May Contribute to Healthy Cardiovascular/Endothelial Function by Maintaining Membrane Integrity.
+  date: '2024-11-05'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3952627/
+  title: Walnuts have potential for cancer prevention and treatment in mice.
+  date: '2014-02-05'
 ---
 
 

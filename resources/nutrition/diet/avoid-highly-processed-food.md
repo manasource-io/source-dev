@@ -1,37 +1,31 @@
 ---
 title: Avoid Highly Processed Food
 inputType: score
-description: Ultra-processed foods (UPFs) are independently linked to 15% higher all-cause
-  mortality and convincing evidence of harm across cardiovascular, metabolic, and
-  mental health outcomes, the single most impactful dietary pattern change for longevity
+description: Ultra-processed foods (UPFs) are independently linked to 15% higher all-cause mortality and convincing evidence of harm across cardiovascular, metabolic, and mental health outcomes, the single most impactful dietary pattern change for longevity
 benefits:
 - id: all-cause-mortality
-  label: Highest UPF consumption linked to 15% increased all-cause mortality; each
-    10% increment adds 10% risk
+  label: Highest UPF consumption linked to 15% increased all-cause mortality; each 10% increment adds 10% risk
 - id: cardiovascular-health
-  label: Reducing UPF intake cuts CVD mortality risk; dose-response confirmed across
-    large cohorts
+  label: Reducing UPF intake cuts CVD mortality risk; dose-response confirmed across large cohorts
 - id: metabolic-health
   label: UPF reduction reduces T2D risk (RR 1.12), obesity, and metabolic syndrome
 - id: mental-health
-  label: UPF exposure associated with 48–53% increased odds of anxiety and common
-    mental disorders
+  label: UPF exposure associated with 48–53% increased odds of anxiety and common mental disorders
 benefitLevel: 9
 overallScore: 9
 credibility: strong
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
-- title: 'Ultra-processed food exposure and adverse health outcomes: umbrella review
-    of epidemiological meta-analyses'
-  url: https://pubmed.ncbi.nlm.nih.gov/38418082/
-- title: 'Ultra-processed foods and risk of all-cause mortality: an updated systematic
-    review and dose-response meta-analysis of prospective cohort studies'
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11874696/
-- title: 'Ultra-processed foods and cardiovascular disease: analysis of three large
-    US prospective cohorts and a systematic review and meta-analysis of prospective
-    cohort studies'
-  url: https://pubmed.ncbi.nlm.nih.gov/39286398/
+- url: https://pubmed.ncbi.nlm.nih.gov/38418082/
+  title: 'Ultra-processed food exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses'
+  date: '2024-02-28'
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11874696/
+  title: 'Ultra-processed foods and risk of all-cause mortality: an updated systematic review and dose-response meta-analysis of prospective cohort studies'
+  date: '2025-03-03'
+- url: https://pubmed.ncbi.nlm.nih.gov/39286398/
+  title: 'Ultra-processed foods and cardiovascular disease: analysis of three large US prospective cohorts and a systematic review and meta-analysis of prospective cohort studies'
+  date: '2024-09-02'
 category: diet
 ---
 

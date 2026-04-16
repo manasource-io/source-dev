@@ -2,8 +2,7 @@
 title: Red and Purple Grapes
 category: snack
 subCategory: fruits
-description: Anthocyanin and resveratrol-rich fruits that signal abnormal cells to
-  stop growing and begin dying, with cardiovascular and anti-inflammatory benefits
+description: Anthocyanin and resveratrol-rich fruits that signal abnormal cells to stop growing and begin dying, with cardiovascular and anti-inflammatory benefits
 benefits:
 - id: cancer-suppression
   label: Resveratrol triggers apoptosis and blocks abnormal cell proliferation
@@ -14,11 +13,15 @@ benefits:
 benefitLevel: 6
 overallScore: 4
 credibility: emerging
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6413155/
+  title: Extraction and Separation of Eight Ginsenosides from Flower Buds of <i>Panax Ginseng</i> Using Aqueous Ionic Liquid-Based Ultrasonic-Assisted Extraction Coupled with an Aqueous Biphasic System.
+  date: '2019-02-21'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8910006/
+  title: The Effect of Low-intensity Aerobic Training Combined with Blood Flow Restriction on Maximal Strength, Muscle Mass, and Cycling Performance in a Cyclist with Knee Displacement.
+  date: '2022-03-04'
 ---
 
 Red and purple grapes derive their color from a high concentration of anthocyanins , the same polyphenolic pigments found in blueberries and berries , alongside resveratrol, a stilbenoid polyphenol found in grape skin and seeds. The combination makes dark-colored grapes one of the most studied fruits for cancer-preventive and cardiovascular properties. Juice and whole fruit are both studied; whole grapes provide the added benefit of skin fiber and intact polyphenol matrix. Red wine contains resveratrol but also alcohol, which has independent cancer-promoting effects , whole grapes and grape juice are the preferred form for cancer prevention contexts.

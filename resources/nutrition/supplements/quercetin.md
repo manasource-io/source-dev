@@ -1,8 +1,7 @@
 ---
 title: Quercetin
 category: supplement
-description: Flavonoid polyphenol used as a senolytic agent (with dasatinib) to clear
-  senescent cells; also provides general antioxidant and anti-inflammatory effects
+description: Flavonoid polyphenol used as a senolytic agent (with dasatinib) to clear senescent cells; also provides general antioxidant and anti-inflammatory effects
 benefits:
 - id: senolytic-activity
   label: Clears senescent cells via D+Q hit-and-run protocol
@@ -13,13 +12,21 @@ benefits:
 benefitLevel: 6
 overallScore: 4
 credibility: emerging
-lastResearched: 2026-04-09
+lastResearched: '2026-04-09'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/31542391/
-- url: https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00056-8/fulltext
+  title: 'Senolytics decrease senescent cells in humans: Preliminary report from a clinical trial of Dasatinib plus Quercetin in individuals with diabetic kidney disease.'
+  date: '2019-09-01'
+- url: https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00056-8/fulltext/
+  title: A pilot study of senolytics to improve cognition and mobility in older adults at risk for Alzheimer’s disease
+  date: '2025-03-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12181558/
+  title: The senolytic cocktail, dasatinib and quercetin, impacts the chromatin structure of both young and senescent vascular smooth muscle cells.
+  date: '2025-01-20'
 - url: https://examine.com/supplements/quercetin/
+  title: Quercetin benefits, dosage, and side effects
+  date: '2026-02-11'
 ---
 
 Quercetin is a flavonoid polyphenol found abundantly in onions, capers, apples, and many other plant foods. It has been studied for decades as an antioxidant and anti-inflammatory compound, and more recently has attracted significant research attention as part of the most studied senolytic combination in humans: dasatinib plus quercetin (D+Q).

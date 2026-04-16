@@ -2,8 +2,7 @@
 title: Cruciferous Vegetables
 category: food
 subCategory: vegetables
-description: Family of vegetables including broccoli, kale, and Brussels sprouts that
-  produce sulforaphane, a potent NRF2-activating compound
+description: Family of vegetables including broccoli, kale, and Brussels sprouts that produce sulforaphane, a potent NRF2-activating compound
 benefits:
 - id: sulforaphane-cancer-protection
   label: Sulforaphane activates cellular detox pathways and may reduce cancer risk
@@ -16,12 +15,18 @@ benefits:
 benefitLevel: 8
 overallScore: 7
 credibility: moderate
-lastResearched: 2026-04-10
+lastResearched: '2026-04-10'
 readiness: ready
 references:
-- url: https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/cruciferous-vegetables-fact-sheet
+- url: https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/cruciferous-vegetables-fact-sheet/
+  title: Cruciferous Vegetables and Cancer Prevention
+  date: '2012-06-07'
 - url: https://pubmed.ncbi.nlm.nih.gov/40462948/
+  title: The broccoli derivative sulforaphane extends lifespan by slowing the transcriptional aging clock.
+  date: '2025-05-15'
 - url: https://pubmed.ncbi.nlm.nih.gov/20388854/
+  title: Sulforaphane, a dietary component of broccoli/broccoli sprouts, inhibits breast cancer stem cells.
+  date: '2010-05-01'
 ---
 
 Cruciferous vegetables , including broccoli, cauliflower, Brussels sprouts, kale, cabbage, and bok choy , are among the most nutritionally dense vegetables available. Their defining characteristic is a class of compounds called glucosinolates, which are converted by the enzyme myrosinase (released when the vegetables are chopped or chewed) into biologically active molecules, most notably sulforaphane and indole-3-carbinol.

@@ -1,30 +1,31 @@
 ---
 title: Sauna Usage
 category: misc
-description: Regular Finnish-style sauna bathing is associated with dose-dependent
-  reductions in cardiovascular and all-cause mortality, with the strongest effects
-  at 4–7 sessions per week
+description: Regular Finnish-style sauna bathing is associated with dose-dependent reductions in cardiovascular and all-cause mortality, with the strongest effects at 4–7 sessions per week
 benefits:
 - id: cardiovascular-mortality
   label: Up to 50% lower cardiovascular mortality at 4–7x/week frequency
 - id: all-cause-mortality
   label: 40% lower all-cause mortality with frequent use vs once weekly
 - id: inflammation-reduction
-  label: Reduces systemic inflammation markers; protective effect amplified in low-CRP
-    individuals
+  label: Reduces systemic inflammation markers; protective effect amplified in low-CRP individuals
 - id: blood-pressure
   label: Repeated heat exposure lowers blood pressure and improves vascular function
 benefitLevel: 8
 overallScore: 7
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/25705824/
   title: Association between sauna bathing and fatal cardiovascular and all-cause mortality events.
-  date: 2015-04-01
+  date: '2015-04-01'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6262976/
+  title: 'Sauna bathing is associated with reduced cardiovascular mortality and improves risk prediction in men and women: a prospective cohort study.'
+  date: '2018-11-29'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9792415/
+  title: 'Inflammation, sauna bathing, and all-cause mortality in middle-aged and older Finnish men: a cohort study.'
+  date: '2022-10-18'
 ---
 
 Sauna bathing involves exposure to high ambient heat , typically 80–100°C (176–212°F) in Finnish dry sauna , for sessions of 5–20 minutes, usually with cooling periods between. It has been a central practice in Finnish culture for thousands of years, which has provided a uniquely long-running natural population experiment: over two decades, Finnish researchers have tracked the health outcomes of regular sauna users in large cohort studies, producing some of the most striking longevity associations in observational medicine.

@@ -3,10 +3,12 @@ title: Pull-ups
 category: strength
 description: Compound upper-body pulling exercise that develops back strength, grip endurance, and bodyweight control
 credibility: moderate
-lastResearched: 2026-04-14
+lastResearched: '2026-04-14'
 readiness: draft
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/24662157/
+  title: Effects of grip width on muscle strength and activation in the lat pull-down.
+  date: '2014-04-01'
 ---
 
 Pull-ups are a compound upper body exercise that target the latissimus dorsi, biceps, and rear deltoids. Regular pull-up training builds significant back and arm strength, improves grip endurance, and develops the V-shaped torso. They are one of the most effective bodyweight exercises for upper body development.

@@ -1,8 +1,7 @@
 ---
 title: Infrared Light Therapy
 category: misc
-description: Photobiomodulation using 660–850nm wavelengths to stimulate mitochondrial
-  ATP production, reduce inflammation, and support tissue recovery
+description: Photobiomodulation using 660–850nm wavelengths to stimulate mitochondrial ATP production, reduce inflammation, and support tissue recovery
 benefits:
 - id: mitochondrial-stimulation
   label: Activates cytochrome c oxidase; increases cellular ATP production
@@ -15,21 +14,21 @@ benefits:
 benefitLevel: 4
 overallScore: 3
 credibility: emerging
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5523874/
   title: Mechanisms and applications of the anti-inflammatory effects of photobiomodulation.
-  date: 2017-05-19
+  date: '2017-05-19'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4126803/
-  title: Low-level laser (light) therapy (LLLT) in skin: stimulating, healing, restoring.
-  date: 2013-03-01
-- url: https://pubmed.ncbi.nlm.nih.gov/27272075/
-  title: New Atrophic Acne Scar Classification: Reliability of Assessments Based on Size, Shape, and Number.
-  date: 2016-06-01
+  title: 'Low-level laser (light) therapy (LLLT) in skin: stimulating, healing, restoring.'
+  date: '2013-03-01'
+- url: https://pubmed.ncbi.nlm.nih.gov/39883205/
+  title: A systematic review on whole-body photobiomodulation for exercise performance and recovery.
+  date: '2025-01-30'
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4637912/
   title: CURRENT CONCEPTS OF MUSCLE AND TENDON ADAPTATION TO STRENGTH AND CONDITIONING.
-  date: 2015-11-01
+  date: '2015-11-01'
 ---
 
 

@@ -3,21 +3,23 @@ title: Bouldering
 category: strength
 description: Rope-free rock climbing on short walls that combines full-body strength, problem-solving, and spatial reasoning with uniquely strong mental health benefits
 benefits:
-  - id: functional-strength
-    label: Develops grip, upper body, and full kinetic chain strength through climbing
-  - id: mental-health
-    label: Bouldering therapy comparable to CBT for depression; strong anxiety reduction
-  - id: problem-solving
-    label: Route-finding engages spatial reasoning, focus, and creative thinking
-  - id: body-awareness
-    label: Develops proprioception, balance, and precise body control on varied surfaces
+- id: functional-strength
+  label: Develops grip, upper body, and full kinetic chain strength through climbing
+- id: mental-health
+  label: Bouldering therapy comparable to CBT for depression; strong anxiety reduction
+- id: problem-solving
+  label: Route-finding engages spatial reasoning, focus, and creative thinking
+- id: body-awareness
+  label: Develops proprioception, balance, and precise body control on varied surfaces
 benefitLevel: 5
 overallScore: 4
 credibility: moderate
-lastResearched: 2026-03-21
+lastResearched: '2026-03-21'
 readiness: ready
 references:
-  - url: https://pubmed.ncbi.nlm.nih.gov/36031691/
+- url: https://pubmed.ncbi.nlm.nih.gov/36031691/
+  title: 'The therapeutic effects of climbing: A systematic review and meta-analysis.'
+  date: '2023-09-01'
 ---
 
 Bouldering is a form of rock climbing performed on short walls (typically under 4 meters) without ropes, relying on crash pads and spotters for safety. It demands grip strength, upper body pulling power, core tension, hip mobility, and explosive leg drive , developed together through the continuous problem-solving of climbing routes called "problems." Unlike most gym exercises, bouldering challenges the full kinetic chain in three-dimensional space with constantly varying demands.

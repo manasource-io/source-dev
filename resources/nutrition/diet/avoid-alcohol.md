@@ -1,38 +1,34 @@
 ---
 title: Alcohol
 inputType: score
-description: Eliminating alcohol to reduce cancer risk, liver damage, sleep disruption,
-  and cognitive decline across multiple disease categories
+description: Eliminating alcohol to reduce cancer risk, liver damage, sleep disruption, and cognitive decline across multiple disease categories
 benefits:
 - id: cancer-risk-reduction
-  label: Alcohol is a Group 1 carcinogen , no safe level for cancer; causally linked
-    to 7 cancer types
+  label: Alcohol is a Group 1 carcinogen , no safe level for cancer; causally linked to 7 cancer types
 - id: liver-health
-  label: Eliminating alcohol halts dose-dependent liver progression from steatosis
-    through cirrhosis
+  label: Eliminating alcohol halts dose-dependent liver progression from steatosis through cirrhosis
 - id: sleep-quality
-  label: Removing alcohol restores normal sleep architecture, REM duration, and overnight
-    consolidation
+  label: Removing alcohol restores normal sleep architecture, REM duration, and overnight consolidation
 - id: cognitive-protection
-  label: Even moderate alcohol use associated with smaller hippocampal volume and
-    impaired memory formation
+  label: Even moderate alcohol use associated with smaller hippocampal volume and impaired memory formation
 benefitLevel: 9
 overallScore: 9
 credibility: strong
-lastResearched: 2026-04-14
+lastResearched: '2026-04-14'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/32209032/
-  title: "Alcohol and Human Health: What Is the Evidence?"
-  date: 2020-03-25
+  title: 'Alcohol and Human Health: What Is the Evidence?'
+  date: '2020-03-25'
 - url: https://pubmed.ncbi.nlm.nih.gov/22330211/
   title: The risks associated with alcohol use and alcoholism.
-  date: 2011-01-01
-- url: https://www.who.int/news-room/fact-sheets/detail/alcohol
+  date: '2011-01-01'
+- url: https://www.who.int/news-room/fact-sheets/detail/alcohol/
   title: Alcohol
-- url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800994
+  date: '2024-06-28'
+- url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800994/
   title: Association Between Changes in Alcohol Consumption and Cancer Risk
-  date: 2022-08-24
+  date: '2022-08-24'
 category: diet
 ---
 

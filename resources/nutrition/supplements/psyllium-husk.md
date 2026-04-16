@@ -13,11 +13,15 @@ benefits:
 benefitLevel: 7
 overallScore: 7
 credibility: strong
-lastResearched: 2026-04-08
+lastResearched: '2026-04-08'
 readiness: ready
 references:
 - url: https://pubmed.ncbi.nlm.nih.gov/30239559/
+  title: 'Effect of psyllium (Plantago ovata) fiber on LDL cholesterol and alternative lipid targets, non-HDL cholesterol and apolipoprotein B: a systematic review and meta-analysis of randomized controlled trials.'
+  date: '2018-11-01'
 - url: https://pubmed.ncbi.nlm.nih.gov/25143474/
+  title: 'Dietary fiber intake and total mortality: a meta-analysis of prospective cohort studies.'
+  date: '2014-09-15'
 category: supplement
 ---
 

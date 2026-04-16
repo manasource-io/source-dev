@@ -2,8 +2,7 @@
 title: Blueberries
 category: food
 subCategory: fruits
-description: Anthocyanin-rich berry with the strongest evidence for cognitive protection,
-  cardiovascular benefits, and cancer-preventive properties among common berries
+description: Anthocyanin-rich berry with the strongest evidence for cognitive protection, cardiovascular benefits, and cancer-preventive properties among common berries
 benefits:
 - id: cognitive-protection
   label: Emerging evidence for memory and neuroprotective effects
@@ -18,15 +17,15 @@ benefits:
 benefitLevel: 8
 overallScore: 7
 credibility: moderate
-lastResearched: 2026-04-11
+lastResearched: '2026-04-11'
 readiness: ready
 references:
-- title: 'Berries and cardiovascular health: anthocyanins, lipid peroxidation, and
-    disease risk'
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3068482/
-- title: 'Anthocyanins in colorectal cancer prevention: systematic review of molecular
-    mechanisms'
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8533526/
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3068482/
+  title: 'Berries and cardiovascular health: anthocyanins, lipid peroxidation, and disease risk'
+  date: '2010-03-01'
+- url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8533526/
+  title: 'Anthocyanins in colorectal cancer prevention: systematic review of molecular mechanisms'
+  date: '2021-10-12'
 ---
 
 
