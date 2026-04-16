@@ -1,0 +1,5 @@
+url,status,credibility,notes,checked
+https://examine.com/topics/aerobic-exercise/,removed,unrelated,"Page exists but covers supplements to enhance aerobic performance — not the health benefits of aerobic exercise itself",2026-03-21
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1470658/,valid,weak,"2006 letter in Primary Care Companion to J Clin Psychiatry; confirms aerobic exercise reduces anxiety/depression; very limited scope (mental health only, single letter not a primary study)",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11103301/,valid,strong,"2024 overview of 26 meta-analyses (20.9M observations, 199 cohort studies); high CRF vs low CRF: HR=0.47 (53% lower all-cause mortality); per 1-MET increase: 11-17% mortality reduction",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6527136/,valid,strong,"2019 meta-analysis, Physical Activity all-cause and CVD mortality; dose-response relationship for aerobic physical activity and mortality outcomes",2026-03-21

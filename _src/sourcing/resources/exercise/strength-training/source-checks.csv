@@ -1,0 +1,6 @@
+url,status,credibility,notes,checked
+https://examine.com/topics/strength-training/,removed,unrelated,"Returns 404 — URL no longer valid",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/29398219/,removed,unrelated,"Study is about actin dynamics in NK cell immunological synapses (Current Biology 2018) — completely unrelated to strength training",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/35228201/,valid,strong,"2022 BJSM meta-analysis of 16 cohort studies; muscle-strengthening 10-17% lower all-cause, CVD, cancer, diabetes mortality; J-shaped dose-response, optimal ~30-60 min/week",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10199130/,valid,strong,"2023 PMC review; 21% all-cause mortality reduction from resistance exercise; U-shaped relationship, optimal ~60 min/week; 40% reduction when combined with aerobic exercise",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11147802/,valid,strong,"2024 cohort study; any weight training associated with lower all-cause, CVD, cancer mortality in older adults; combined aerobic + weight training lowest mortality risk",2026-03-21

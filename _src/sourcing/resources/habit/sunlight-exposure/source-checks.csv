@@ -1,0 +1,5 @@
+url,status,credibility,notes,checked
+https://examine.com/topics/vitamin-d/,valid,moderate,"Page exists; covers vitamin D supplementation, not sunlight exposure specifically; relevant as mechanistic reference for vitamin D synthesis via UVB — keep as supporting ref",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8892387/,valid,strong,"Gabel et al. 2022, J Affective Disorders; UK Biobank, 400,000+ participants; time in outdoor light associated with better mood, sleep, circadian timing, and lower depression/self-harm risk; large-scale population evidence",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6751071/,valid,strong,"Blume et al. 2019, EXCLI Journal; narrative review of light effects on circadian rhythms, sleep, and mood; mechanism-level detail on morning light timing and phase-shifting",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10277019/,valid,moderate,"Luo et al. 2023; sunlight exposure and mental health in population without sunlight at work; confirms mood and wellbeing associations; occupational context useful",2026-03-21

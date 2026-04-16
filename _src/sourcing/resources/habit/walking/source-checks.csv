@@ -1,0 +1,5 @@
+url,status,credibility,notes,checked
+https://pubmed.ncbi.nlm.nih.gov/32239145/,removed,unrelated,"Study is about breast cancer patients and physical activity guidelines — not about step count and general population mortality. Removed from references.",2026-03-21
+https://www.ahajournals.org/doi/10.1161/JAHA.120.016888,pending,,"AHA Journal URL returned 403; legitimate domain but content unverifiable",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9289978/,valid,strong,"Lancet meta-analysis of 15 international cohorts: inverse non-linear dose-response between steps and all-cause mortality; lowest HR at 7000-9000 steps/day — added as primary reference",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/37555441/,valid,strong,"European J Preventive Cardiology meta-analysis (Banach et al.): 17 cohort studies, 226889 participants; step count inversely associated with all-cause and cardiovascular mortality",2026-03-21

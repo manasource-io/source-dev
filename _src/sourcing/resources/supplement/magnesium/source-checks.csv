@@ -1,0 +1,7 @@
+url,status,credibility,notes,checked
+https://www.reddit.com/r/immortalists/comments/1kuq4i6/magnesium_supplementation_significantly_increases/,removed,anecdotal,"Reddit post is a lead source only, not a primary reference; replaced with peer-reviewed sources",2026-03-10
+https://examine.com/supplements/magnesium/,valid,strong,"Examine.com is a trusted evidence-based aggregator; comprehensive coverage of magnesium research; appropriate secondary reference",2026-03-10
+https://pubmed.ncbi.nlm.nih.gov/27933574/,valid,strong,"Peer-reviewed PubMed article on magnesium and health outcomes; relevant and credible",2026-03-10
+https://pubmed.ncbi.nlm.nih.gov/22364157/,valid,strong,"Guerrero-Romero & Rodriguez-Moran 2012; hypomagnesemia linked to hypertension, T2D, cardiovascular disease, osteoporosis, inflammation; key supporting reference added to resource",2026-03-10
+https://examine.com/supplements/magnesium/,pending,strong,"Examine.com returned 429 rate-limit on recheck 2026-04-11; previously confirmed valid 2026-03-10; no reason to suspect change",2026-04-11
+https://pubmed.ncbi.nlm.nih.gov/27933574/,valid,strong,"Rechecked 2026-04-11: Wienecke & Nolden 2016 — magnesium + exercise improves HRV and parasympathetic tone; supports sleep/stress section; not directly about CVD mortality (note for future: add a direct cardiovascular reference)",2026-04-11

@@ -1,0 +1,6 @@
+url,status,credibility,notes,checked
+https://www.healthline.com/nutrition/6-proven-health-benefits-of-apple-cider-vinegar,removed,anecdotal,"Consumer health website; secondary source only; no original research; replaced with peer-reviewed meta-analyses",2026-03-10
+https://pubmed.ncbi.nlm.nih.gov/37608660/,valid,strong,"Meta-analysis of 25 RCTs showing ACV reduces fasting blood sugar by ~21 mg/dL and HbA1c by 0.91% in T2D patients; added to resource",2026-03-10
+https://pubmed.ncbi.nlm.nih.gov/31451249/,valid,strong,"RCT in T2D patients with dyslipidemia showing improvements in glycemic indices (HOMA-IR, HOMA-B, QUICKI) and oxidative stress after 8 weeks; added to resource",2026-03-10
+https://pubmed.ncbi.nlm.nih.gov/39949546/,valid,strong,"2025 GRADE systematic review and dose-response meta-analysis on ACV glycemic control in T2D; confirms ~22 mg/dL FBG reduction and dose-dependent effects; Frontiers in Nutrition",2026-04-09
+https://www.mdpi.com/2072-6643/17/18/3000,valid,moderate,"2025 MDPI Nutrients systematic review of 10 RCTs on ACV body composition; significant reductions in body weight and waist circumference; moderate certainty",2026-04-09

@@ -1,0 +1,5 @@
+url,status,credibility,notes,checked
+https://pubmed.ncbi.nlm.nih.gov/38418082/,valid,strong,"Lane et al. 2024, BMJ umbrella review; 45 pooled analyses, 9.9M participants; UPFs linked to 71% of 45 health parameters; convincing evidence: CVD mortality (RR 1.50), T2D (RR 1.12), anxiety (RR 1.48), common mental disorders (RR 1.53)",2026-03-21
+https://www.theguardian.com/global-development/2026/feb/03/public-health-ultra-processed-foods-regulation-cigarettes-addiction-nutrition,removed,unrelated,"News article, not peer-reviewed; advocacy framing; cigarette analogy is provocative but the underlying claim has primary research sources",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11874696/,valid,strong,"Liang et al. 2025, updated dose-response meta-analysis; 18 studies, 1.1M participants, 173K deaths; highest vs lowest UPF: HR=1.15 all-cause mortality; each 10% increment: HR=1.10",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/39286398/,valid,strong,"Mendoza et al. 2024, Lancet Regional Health Americas; NHS + NHSII + HPFS cohorts (207K participants, 16800 CVD events) + meta-analysis; significant UPF-CVD, CHD, stroke associations",2026-03-21

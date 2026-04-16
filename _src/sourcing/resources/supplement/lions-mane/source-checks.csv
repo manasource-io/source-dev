@@ -1,0 +1,6 @@
+url,status,credibility,notes,checked
+https://examine.com/supplements/hericium-erinaceus/,removed,unrelated,"Returns 404 — URL no longer valid on Examine.com",2026-03-21
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5987239/,valid,moderate,"Peer-reviewed review in Behavioural Neurology (2018); covers NGF stimulation via erinacines, neuroprotection in Alzheimer's and Parkinson's models; findings are preclinical (animal/in vitro), limited human trial data",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10675414/,valid,emerging,"Pilot RCT 41 healthy adults 18-45; 1.8g single dose improved Stroop task speed (p=0.005); 28-day trend toward reduced stress; double-blind, placebo-controlled",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12018234/,valid,emerging,"2025 RCT in healthy adults 18-35 using standardized fruiting-body extract; significant acute cognitive and mood improvements; double-blind, placebo-controlled",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12434001/,valid,emerging,"2025 systematic review of 5 RCTs; MMSE weighted mean improvement 1.17 points; also covers neuroprotection, anxiety, depression, gut health; identifies mild side effects",2026-03-21

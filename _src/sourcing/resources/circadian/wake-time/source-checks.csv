@@ -1,0 +1,8 @@
+url,status,credibility,notes,checked
+https://academic.oup.com/sleep/article/47/1/zsad253/7280269,valid,strong,"Windred et al. 2023, SLEEP journal, n=60977 UK Biobank; SRI predicts mortality better than duration; 20-48% lower all-cause mortality in top SRI quintile",2026-04-08
+https://elifesciences.org/articles/88359,valid,strong,"UK Biobank n=88975, HR 1.53 for irregular vs. median-regularity sleepers; confirms sleep regularity-mortality link independently",2026-04-08
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4067693/,valid,strong,"Centenarian sleep study: oldest-old maintain strictly regular sleep schedules and slow wave sleep — cross-sectional evidence linking regularity to longevity",2026-04-08
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9669756/,valid,strong,"Frontiers Neuroscience: CAR tightly coupled to waking time; consistent wake time anchors cortisol awakening response",2026-04-08
+https://www.sciencedirect.com/science/article/abs/pii/S108707922500156X,valid,moderate,"2025 systematic review on sleep regularity as sleep hygiene component; 26-53% higher dementia risk, cardiometabolic associations. Moderate (not strong) as abstract-only access confirmed but full text paywalled.",2026-04-08
+https://academic.oup.com/sleep/article/47/1/zsad253/7280269,valid,strong,"Re-validated through alternate fetch path; title/date metadata confirmed and kept as the primary wake-time mortality paper.",2026-04-14
+https://www.sciencedirect.com/science/article/abs/pii/S108707922500156X,valid,moderate,"Re-checked from the DST harvest follow-up; title confirmed as a systematic review on sleep regularity, brain health, dementia risk, and cognition.",2026-04-14

@@ -1,0 +1,5 @@
+url,status,credibility,notes,checked
+https://examine.com/topics/swimming/,valid,strong,"Examine.com summary on swimming; covers cardiovascular fitness, body composition, and mental health benefits",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/24071875/,removed,unrelated,"Study is about uterine myometrial hyperplasia — completely unrelated to swimming or exercise health benefits. Removed.",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/29086218/,valid,strong,"Systematic review and meta-analysis of swim training in non-elite swimmers: robust improvements in cardiorespiratory fitness and body composition",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/37766753/,valid,strong,"ACELA II 2023: regular swimming in older adults improves carotid artery compliance by 21%, flow-mediated dilation, and cardiovascular markers",2026-03-21

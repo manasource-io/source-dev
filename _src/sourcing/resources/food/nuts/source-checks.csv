@@ -1,0 +1,16 @@
+url,status,credibility,notes,checked
+https://www.reddit.com/r/immortalists/comments/1lkm11v/nuts_significantly_increase_lifespan_here_is_the/,removed,anecdotal,"Reddit post — not a primary source; removed from references",2026-03-12
+https://pubmed.ncbi.nlm.nih.gov/34444859/,valid,strong,"Nutrients 2021 — prospective cohort, ~93k adults, 20 years follow-up; walnuts 5+/week → 14% lower total mortality, +1.3 years life expectancy at 60",2026-03-12
+https://www.washingtonpost.com/national/health-science/nuts-to-you-new-study-finds-regularly-eating-nuts-seems-to-extend-life-span/2013/11/21/2776cd22-52b8-11e3-9e2c-e1d01116fd98_story.html,removed,anecdotal,"Washington Post media article — secondary source; underlying NEJM study should be cited directly instead",2026-03-12
+https://inc.nutfruit.org/studies-categories/aging/,valid,moderate,"Industry group (International Nut and Dried Fruit) — biased source but aggregates legitimate study citations; acceptable as supporting reference with caveat",2026-03-12
+https://inc.nutfruit.org/high-nut-diet-associated-with-large-gains-in-life-expectancy/,removed,anecdotal,"Industry site article summarizing a study — removed in favor of primary PubMed sources",2026-03-12
+https://time.com/3729536/peanuts-cardiovascular-health-heart-attacks-strokes/,removed,anecdotal,"Time magazine — media article, no primary data; removed",2026-03-12
+https://time.com/4589365/tree-nuts-peanuts-heart-disease/,removed,anecdotal,"Time magazine — media article, no primary data; removed",2026-03-12
+https://www.health.harvard.edu/blog/eating-nuts-linked-to-healthier-longer-life-201311206893,valid,moderate,"Harvard Health Publishing blog summarizing a major NEJM study; credible institution, useful secondary source",2026-03-12
+https://www.mdpi.com/2072-6643/15/4/1000,removed,moderate,"MDPI Nutrients 2023 — confirmed duplicate of PMID 36839359 (same article: Nishi et al. 2023 'Impact of Nut Consumption on Cognition across the Lifespan'); PubMed canonical form used instead; mdpi.com URL removed from resource 2026-04-11",2026-04-11
+https://pubmed.ncbi.nlm.nih.gov/39551942/,valid,strong,"Age & Ageing 2024 — ASPREE study, 9,916 adults 70+; daily nut consumption → 23% lower disability-free survival endpoint risk",2026-03-12
+https://time.com/3917463/nuts-early-death/,removed,anecdotal,"Time magazine — media article; removed",2026-03-12
+https://health.yahoo.com/wellness/nutrition/healthy-eating/articles/eating-food-could-add-years-223000413.html,removed,anecdotal,"Yahoo Health aggregator article — no primary data; removed",2026-03-12
+https://pubmed.ncbi.nlm.nih.gov/31409026/,valid,strong,"Antioxidants 2019 — review of tree nuts and peanuts in adults 55+; covers cardiovascular, cancer, cognitive outcomes; concludes nuts extend health span and lifespan",2026-03-12
+https://inc.nutfruit.org/studies/impact-of-nut-consumption-on-cognition-across-the-lifespan/,removed,anecdotal,"Industry site — removed in favor of primary PubMed sources; PubMed 36839359 covers same topic",2026-03-12
+https://pubmed.ncbi.nlm.nih.gov/36839359/,valid,emerging,"Nutrients 2023 narrative review — nut consumption and cognition; evidence 'limited and inconclusive'; walnuts most promising; appropriate credibility: emerging",2026-03-12

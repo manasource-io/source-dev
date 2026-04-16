@@ -1,0 +1,53 @@
+{
+  "platform": "reddit",
+  "communities": [
+    {
+      "name": "immortalists",
+      "enabled": true,
+      "priority": 1,
+      "notes": "Legacy source community retained for continuity"
+    },
+    {
+      "name": "longevity",
+      "enabled": true,
+      "priority": 1,
+      "notes": "Broader longevity-focused community"
+    },
+    {
+      "name": "ScientificNutrition",
+      "enabled": true,
+      "priority": 2,
+      "notes": "Nutrition discussions with stronger source density"
+    },
+    {
+      "name": "nutrition",
+      "enabled": true,
+      "priority": 3,
+      "notes": "High-volume nutrition community; use query filters carefully"
+    },
+    {
+      "name": "advancedfitness",
+      "enabled": true,
+      "priority": 2,
+      "notes": "Exercise and training overlap relevant to resource coverage"
+    },
+    {
+      "name": "Supplements",
+      "enabled": true,
+      "priority": 3,
+      "notes": "Potentially noisy; keep under evidence-first review"
+    },
+    {
+      "name": "Nootropics",
+      "enabled": false,
+      "priority": 4,
+      "notes": "Disabled by default due to high hype risk"
+    },
+    {
+      "name": "sleep",
+      "enabled": true,
+      "priority": 2,
+      "notes": "Sleep and circadian relevance"
+    }
+  ]
+}

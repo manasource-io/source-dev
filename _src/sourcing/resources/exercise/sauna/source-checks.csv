@@ -1,0 +1,5 @@
+url,status,credibility,notes,checked
+https://examine.com/topics/sauna/,removed,unrelated,"Returns 404",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/25705824/,valid,strong,"Laukkanen et al. 2015, JAMA Internal Medicine; KIHD cohort, 2315 Finnish men; 4-7x/week sauna: 40% lower all-cause mortality, 50% lower cardiovascular mortality vs 1x/week; landmark study",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6262976/,valid,strong,"Laukkanen et al. 2018, BMC Medicine; 1688 participants (51% women); confirms CVD mortality reduction in both men and women; extends original finding",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9792415/,valid,moderate,"2023 cohort study; sauna + low inflammation: additive protection on all-cause mortality; mechanistic link via CRP and inflammation pathways",2026-03-21

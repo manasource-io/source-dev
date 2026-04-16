@@ -1,0 +1,4 @@
+url,status,credibility,notes,checked
+https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/,valid,strong,"NIH Office of Dietary Supplements fact sheet; covers GI outcomes (antibiotic diarrhea, IBS, IBD, eczema); well-graded evidence per condition; specific strains listed",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12482033/,valid,moderate,"2025 meta-analysis of 29 RCTs in older adults; probiotics increase Bifidobacterium and Shannon diversity; results inconsistent across populations",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12220006/,valid,moderate,"2025 review in Genome Medicine; microbiome-based therapeutics (probiotics, prebiotics, FMT) for healthy aging; covers SCFA production, barrier integrity, longevity associations",2026-03-21
