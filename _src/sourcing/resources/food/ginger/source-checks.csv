@@ -1,0 +1,6 @@
+url,status,credibility,notes,checked
+https://www.hopkinsmedicine.org/health/wellness-and-prevention/ginger-benefits,pending,,"Hopkins Medicine URL returned 403; legitimate institutional domain but content could not be verified — added PubMed sources instead",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/38072785/,valid,strong,"2024 umbrella review of systematic reviews on ginger for nausea and vomiting; confirms antiemetic effects with high-GRADE evidence for pregnancy nausea",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/30921234/,valid,strong,"Systematic review and meta-analysis: dietary ginger significantly lowered HbA1c and fasting blood glucose in T2DM patients",2026-03-21
+https://www.hopkinsmedicine.org/health/wellness-and-prevention/ginger-benefits,removed,,"Still returning 403 on 2026-04-11 re-check; cannot verify content; replaced in resource with PMID 32763761",2026-04-11
+https://pubmed.ncbi.nlm.nih.gov/32763761/,valid,strong,"Meta-analysis of 16 RCTs (n=1010): ginger significantly reduces CRP, hs-CRP, and TNF-alpha; supports anti-inflammatory claims in resource body",2026-04-11

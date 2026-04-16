@@ -1,0 +1,10 @@
+url,status,credibility,notes,checked
+https://pubmed.ncbi.nlm.nih.gov/32209032/,valid,strong,"Systematic review on alcohol and all-cause mortality",2026-03-08
+https://pubmed.ncbi.nlm.nih.gov/22330211/,valid,strong,"Study on alcohol and cardiovascular/cancer risk",2026-03-08
+https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed,removed,unrelated,"WHO Q&A on red meat carcinogenicity — not relevant to alcohol resource. Replaced with the WHO alcohol fact sheet.",2026-03-08
+https://www.who.int/news-room/fact-sheets/detail/alcohol,valid,strong,"WHO Alcohol Fact Sheet — confirmed accessible June 2024 update; covers Group 1 carcinogen classification and 2.6M deaths figure",2026-04-09
+https://pubmed.ncbi.nlm.nih.gov/40242500/,reviewed-not-added,moderate,"2025 Lancet: biases in all-cause mortality alcohol studies; challenges sick-quitter confounding. Does not undermine cancer/liver evidence. Not added as primary reference.",2026-04-09
+https://pubmed.ncbi.nlm.nih.gov/39133491/,reviewed-not-added,strong,"2024 cohort: even low-risk drinking raises mortality in older adults with health/SES risk factors. Consistent with resource framing.",2026-04-09
+https://pubmed.ncbi.nlm.nih.gov/37000449/,reviewed-not-added,strong,"2023 JAMA Network Open: updated meta-analysis on daily alcohol and all-cause mortality. Low/moderate not sig. for all-cause but higher levels show monotonic risk.",2026-04-09
+https://www.nature.com/articles/s41598-024-73333-8,reviewed-not-added,strong,"2024 Mendelian randomization: alcohol reduces lifespan in Europeans; weakens J-curve cardiovascular claim. Reflected in body text but not added as formal reference.",2026-04-09
+https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800994,valid,strong,"Large Korean cohort analysis: increasing alcohol intake raised cancer risk and reduction/cessation lowered risk relative to sustained drinking. Added from harvested Reddit leads.",2026-04-14

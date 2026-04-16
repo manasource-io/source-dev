@@ -1,0 +1,5 @@
+url,status,credibility,notes,checked
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5758411/,valid,moderate,"Scullin et al. 2018, Journal of Experimental Psychology: General; n=57 RCT with polysomnography; to-do list writing cut sleep onset by 9 min, d=0.63. Small sample but well-controlled.",2026-04-08
+https://pubmed.ncbi.nlm.nih.gov/29058942/,valid,moderate,"PubMed abstract for Scullin et al. 2018 — same study; confirms key findings. Listed as backup citation.",2026-04-08
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11417809/,valid,moderate,"2024 PMC survey of bedtime routines in college students; identifies planning/list-writing as effective strategy for sleep onset; self-report data, not RCT",2026-04-08
+https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults,valid,moderate,"Sleep Foundation consumer guidance on bedtime routines; accurately reflects CBT-I wind-down protocol; reputable org but not a primary study",2026-04-08

@@ -1,0 +1,19 @@
+{
+  "keep_active_when": [
+    "lead is already referenced in harvest-log.csv",
+    "lead clearly maps to an existing resource",
+    "lead contains primary or credible institutional source links",
+    "lead is likely to generate a real resource update soon"
+  ],
+  "archive_when": [
+    "lead is possibly useful later but not high priority",
+    "lead is partially duplicative of a stronger retained lead",
+    "lead is historically informative but not worth active queue space"
+  ],
+  "prune_when": [
+    "lead is predominantly sensational framing with weak sourcing",
+    "lead is off-topic for the source corpus",
+    "lead is a lower-quality duplicate of stronger retained material",
+    "lead is not meaningfully actionable for a current or planned resource"
+  ]
+}

@@ -1,0 +1,4 @@
+url,status,credibility,notes,checked
+https://www.medicalnewstoday.com/articles/283476,removed,anecdotal,"Editorial/medically-reviewed listicle with no primary research citations in the version reviewed; not a peer-reviewed source. Replaced with PMC reference.",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4265710/,valid,strong,"Korean J Urology review: citric acid and kidney stone prevention via urinary citrate; confirms 4oz/day lemon juice provides therapeutic citrate levels comparable to pharmacological treatment",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4265710/,valid,strong,"Re-verified 2026-04-11: still loads correctly; covers dietary and medical management of nephrolithiasis; confirms 4oz lemon juice raises urinary citrate significantly; also notes high-dose vitamin C may increase oxalate — nuance not yet reflected in resource body",2026-04-11

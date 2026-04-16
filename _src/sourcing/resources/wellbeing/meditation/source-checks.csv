@@ -1,0 +1,5 @@
+url,status,credibility,notes,checked
+https://examine.com/topics/mindfulness-meditation/,removed,unrelated,"Returns 404",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/,valid,strong,"Goyal et al. 2014, JAMA Internal Medicine; 47 RCTs, 3515 participants; moderate evidence for anxiety (ES 0.38), depression (ES 0.30), pain (ES 0.33); gold-standard meta-analysis; effects comparable to antidepressants without toxicities",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10872959/,valid,moderate,"2024 meta-analysis of 43 RCTs of mindfulness apps; small but significant effects on depression (g=0.24) and anxiety (g=0.28); updated evidence for digital delivery",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10090715/,valid,moderate,"2023 dose-ranging RCT; effects of meditation duration and type on well-being; informs dose-response question",2026-03-21

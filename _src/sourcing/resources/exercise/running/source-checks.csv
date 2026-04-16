@@ -1,0 +1,5 @@
+url,status,credibility,notes,checked
+https://examine.com/topics/running/,removed,unrelated,"Returns 404",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/28365296/,valid,strong,"Lee et al. 2017, Progress in Cardiovascular Diseases; Running as Key Lifestyle Medicine for Longevity; 25-40% reduced premature mortality, ~3 years longer life; review of dose-response evidence",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/31685526/,valid,strong,"Pedisic et al. 2019, BJSM; systematic review + meta-analysis; 14 studies, 232,149 participants; any running vs no running reduces all-cause, CVD, cancer mortality; dose-response explored",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4131752/,valid,strong,"Lee et al. 2014, JACC; Aerobics Center Longitudinal Study; 30% lower all-cause and 45% lower CVD mortality in runners; even <51 min/week significant; 3-year life expectancy benefit",2026-03-21

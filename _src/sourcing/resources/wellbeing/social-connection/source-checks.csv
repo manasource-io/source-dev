@@ -1,0 +1,5 @@
+url,status,credibility,notes,checked
+https://examine.com/topics/social-connection/,removed,unrelated,"Returns 404",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2910600/,valid,strong,"Holt-Lunstad et al. 2010 (PLoS Medicine); 148 prospective studies; OR=1.50 (50% increased survival odds with stronger social ties); effect comparable to smoking cessation",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/25910392/,valid,strong,"Holt-Lunstad et al. 2015 (Perspectives on Psychological Science); loneliness and social isolation both independently predict early mortality; foundational landmark paper",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11750934/,valid,strong,"2025 comprehensive meta-analysis in older adults; social isolation +35% all-cause mortality, living alone +21%, loneliness +14%",2026-03-21

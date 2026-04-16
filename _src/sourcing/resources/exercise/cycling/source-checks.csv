@@ -1,0 +1,5 @@
+url,status,credibility,notes,checked
+https://examine.com/topics/cycling/,valid,strong,"Examine.com evidence summary on cycling; covers cardiovascular, metabolic, and mortality outcomes",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/28642037/,pending,,"PMID identity unconfirmed from indirect search; likely cycling-mortality related study but content not verified — replaced with confirmed references below",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/28424154/,valid,strong,"Celis-Morales BMJ 2017; 263450 UK participants; cycling commuting associated with 41% lower all-cause mortality, 52% lower CVD incidence, 45% lower cancer mortality",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/33774807/,valid,strong,"Dose-response meta-analysis: 23% lower all-cause mortality at highest cycling level (RR 0.77); benefits present at any cycling volume",2026-03-21

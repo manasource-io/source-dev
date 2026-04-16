@@ -1,0 +1,4 @@
+url,status,credibility,notes,checked
+https://www.mountsinai.org/health-library/supplement/psyllium,removed,moderate,"URL returns 403 Forbidden — no longer accessible; removed from resource",2026-04-08
+https://pubmed.ncbi.nlm.nih.gov/25143474/,valid,strong,"Fiber-mortality meta-analysis; provides broader context for psyllium as a fiber supplement",2026-03-08
+https://pubmed.ncbi.nlm.nih.gov/30239559/,valid,strong,"Systematic review and meta-analysis of RCTs: psyllium lowered LDL-C by ~14.6 mg/dL; dose-response relationship confirmed",2026-04-08

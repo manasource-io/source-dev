@@ -1,0 +1,5 @@
+url,status,credibility,notes,checked
+https://examine.com/supplements/coffee/,valid,strong,"Examine.com evidence-based summary aggregating peer-reviewed research on coffee; covers cognitive, metabolic, and disease-risk outcomes with citations",2026-03-11
+https://www.bmj.com/content/359/bmj.j5024,valid,strong,"Poole et al. 2017 BMJ umbrella review of 201 meta-analyses: coffee associated with reduced risk of T2DM, CVD, several cancers, and neurodegenerative disease; most evidence favors benefit at 3-4 cups/day",2026-03-11
+https://pubmed.ncbi.nlm.nih.gov/40842371/,valid,strong,"Yan et al. 2025 Public Health Nutrition — NHANES cohort 43k participants; moderate coffee (1-2 cups/day) associated with ~2 year gain in life expectancy at age 50 vs non-drinkers",2026-04-10
+https://pubmed.ncbi.nlm.nih.gov/39776171/,valid,strong,"Xiao et al. 2025 European Heart Journal — 40k NHANES adults; morning coffee pattern associated with 16% lower all-cause mortality and 31% lower CVD mortality vs non-drinkers; timing matters",2026-04-10

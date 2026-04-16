@@ -1,0 +1,7 @@
+url,status,credibility,notes,checked
+https://www.healthline.com/nutrition/are-black-beans-healthy,removed,anecdotal,"Consumer article — no primary studies linked directly; replaced with peer-reviewed references.",2026-04-09
+https://pubmed.ncbi.nlm.nih.gov/25143474/,valid,strong,"Fiber-mortality meta-analysis; provides the mortality-reduction evidence for legumes including black beans",2026-03-08
+https://pubmed.ncbi.nlm.nih.gov/36811595/,valid,strong,"2023 systematic review and dose-response meta-analysis; 36 cohorts >1.1M participants; legumes reduce all-cause and stroke mortality",2026-04-09
+https://pubmed.ncbi.nlm.nih.gov/34642756/,valid,strong,"Multicenter randomized crossover RCT; daily canned beans decrease serum total and LDL cholesterol in adults with elevated LDL",2026-04-09
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10463756/,valid,strong,"Systematic review and meta-analysis of anthocyanin supplementation; reduced LDL and triglycerides increased HDL; supports black bean pigment cardiovascular claims",2026-04-09
+https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1384247,valid,strong,"JAMA Internal Medicine RCT; legume-rich low-GI diet reduced A1C and LDL in type 2 diabetes vs high-fiber controls",2026-04-09

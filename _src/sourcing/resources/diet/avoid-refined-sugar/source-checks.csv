@@ -1,0 +1,5 @@
+url,status,credibility,notes,checked
+https://pubmed.ncbi.nlm.nih.gov/34902573/,valid,moderate,"Review on dietary carbohydrates and intestinal homeostasis; valuable for gut-barrier and microbiome mechanisms but scope is narrow (GI, not mortality/CVD outcomes). Keep as mechanistic reference.",2026-03-21
+https://www.health.harvard.edu/heart-health/the-sweet-danger-of-sugar,removed,unrelated,"Consumer health article, not peer-reviewed primary research. Claims are supported by stronger primary literature.",2026-03-21
+https://pubmed.ncbi.nlm.nih.gov/37182401/,valid,strong,"Huang et al. 2023, Nutrition; total sugar/added sugar/fructose/sucrose and all-cause + CVD mortality; systematic review + dose-response meta-analysis; total sugars RR 1.09 all-cause, 1.10 CVD mortality",2026-03-21
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10050372/,valid,strong,"Li et al. 2023, Frontiers in Nutrition; SSBs + ASBs + fruit juices and CVD/mortality meta-analysis; dose-response: SSBs monotonically associated with T2D, CHD, stroke, and all-cause mortality (RR 1.08–1.54)",2026-03-21
