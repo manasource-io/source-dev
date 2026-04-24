@@ -1,7 +1,10 @@
 ---
 title: Red and Purple Grapes
 category: snack
-subCategory: fruits
+subCategory: fruit
+components:
+- resveratrol
+- polyphenol
 description: Anthocyanin and resveratrol-rich fruits that signal abnormal cells to stop growing and begin dying, with cardiovascular and anti-inflammatory benefits
 benefits:
 - id: cancer-suppression

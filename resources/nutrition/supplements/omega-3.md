@@ -1,6 +1,9 @@
 ---
 title: Omega-3 Fatty Acids
 category: supplement
+components:
+- fatty-acid
+- omega-3
 description: Essential polyunsaturated fats (EPA and DHA) from marine sources that reduce inflammation, lower triglycerides, and support brain structure and function
 benefits:
 - id: triglyceride-reduction

@@ -1,6 +1,9 @@
 ---
 title: Astaxanthin
 category: supplement
+components:
+- antioxidant
+- mitochondrial
 description: Marine carotenoid and potent antioxidant with the strongest animal lifespan-extension data of any carotenoid; human evidence limited to intermediate outcomes
 benefits:
 - id: longevity-lifespan

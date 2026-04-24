@@ -1,6 +1,9 @@
 ---
 title: Jump Rope
 category: cardio
+components:
+- coordination
+- plyometric
 description: High-intensity low-equipment cardio that simultaneously develops cardiovascular fitness, coordination, bone density, and agility
 benefits:
 - id: cardiovascular-efficiency

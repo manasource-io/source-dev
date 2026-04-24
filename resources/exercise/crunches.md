@@ -1,6 +1,9 @@
 ---
 title: Crunches
 category: strength
+components:
+- core-endurance
+- trunk-flexion
 description: Abdominal isolation exercise used to build trunk endurance and anterior core awareness
 credibility: moderate
 lastResearched: '2026-04-14'

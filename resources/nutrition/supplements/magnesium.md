@@ -1,6 +1,9 @@
 ---
 title: Magnesium
 category: supplement
+components:
+- electrolyte
+- enzymatic
 description: Essential mineral involved in 300+ enzymatic reactions, critical for cardiovascular health, sleep, energy, and metabolic function
 benefits:
 - id: cardiovascular-health

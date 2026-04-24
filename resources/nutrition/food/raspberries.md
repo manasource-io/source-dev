@@ -1,7 +1,10 @@
 ---
 title: Raspberries
 category: food
-subCategory: fruits
+subCategory: fruit
+components:
+- ellagic-acid
+- fiber
 description: High-fiber berry rich in ellagic acid, a precursor to urolithins linked to mitophagy activation and anti-cancer effects
 benefits:
 - id: mitophagy-activation

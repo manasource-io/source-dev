@@ -6,6 +6,7 @@ These scripts should serve one of four purposes:
 
 - migrate legacy research artifacts into canonical `source` structures
 - reconcile resource IDs and taxonomy drift
+- audit durable schema contracts such as phase 1 `components` and singular `subCategory` values
 - prune or classify raw lead caches
 - ingest new candidate leads into `_src/leads/`
 

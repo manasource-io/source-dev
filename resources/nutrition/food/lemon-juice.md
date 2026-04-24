@@ -1,7 +1,10 @@
 ---
 title: Lemon Juice
 category: drink
-subCategory: juices
+subCategory: juice
+components:
+- citric-acid
+- vitamin-c
 description: Citrus juice high in vitamin C and citric acid, supporting iron absorption, immune function, and kidney stone prevention
 benefits:
 - id: iron-absorption

@@ -1,6 +1,9 @@
 ---
 title: Kettlebell Training
 category: strength
+components:
+- power
+- conditioning
 description: Functional resistance training using ballistic compound movements that simultaneously develop strength, power, and cardiovascular conditioning
 benefits:
 - id: functional-strength

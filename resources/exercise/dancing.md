@@ -1,6 +1,9 @@
 ---
 title: Dancing
 category: cardio
+components:
+- coordination
+- rhythmic
 description: Aerobic movement combining rhythmic physical activity with coordination, social engagement, and cognitive challenge for broad mind-body benefits
 benefits:
 - id: physical-fitness

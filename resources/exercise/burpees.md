@@ -1,6 +1,9 @@
 ---
 title: Burpees
 category: strength
+components:
+- power
+- aerobic
 description: Full-body bodyweight conditioning exercise that combines strength, power, and aerobic demand in a short time
 credibility: moderate
 lastResearched: '2026-04-14'

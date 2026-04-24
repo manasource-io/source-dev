@@ -1,7 +1,10 @@
 ---
 title: Pumpkin
 category: food
-subCategory: vegetables
+subCategory: vegetable
+components:
+- beta-carotene
+- carotenoid
 description: Nutrient-dense vegetable exceptionally high in beta-carotene and carotenoid antioxidants, supporting immune health and chronic disease prevention
 benefits:
 - id: antioxidant-protection

@@ -1,7 +1,10 @@
 ---
 title: Mushrooms
 category: food
-subCategory: vegetables
+subCategory: vegetable
+components:
+- beta-glucan
+- ergothioneine
 description: Beta-glucan and ergothioneine-rich fungi with evidence for immune modulation, cancer treatment adjunct support, and unique mitochondria-targeted antioxidant protection
 benefits:
 - id: immune-modulation

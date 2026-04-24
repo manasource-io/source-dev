@@ -1,7 +1,10 @@
 ---
 title: Black Pepper
 category: food
-subCategory: spices
+subCategory: spice
+components:
+- piperine
+- bioavailability
 description: Spice containing piperine, which dramatically boosts absorption of curcumin and other fat-soluble compounds, with mild anti-inflammatory properties of its own
 benefits:
 - id: bioavailability-enhancement

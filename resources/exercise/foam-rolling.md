@@ -1,6 +1,9 @@
 ---
 title: Foam Rolling
 category: mobility
+components:
+- myofascial-release
+- range-of-motion
 description: Self-myofascial release technique using body weight on a roller to improve range of motion, reduce DOMS, and support tissue recovery
 benefits:
 - id: range-of-motion

@@ -1,7 +1,10 @@
 ---
 title: Turmeric
 category: food
-subCategory: spices
+subCategory: spice
+components:
+- curcumin
+- anti-inflammatory
 description: Golden spice from the Curcuma longa root with potent anti-inflammatory and anti-cancer properties via curcumin, especially when paired with black pepper
 benefits:
 - id: anti-inflammatory

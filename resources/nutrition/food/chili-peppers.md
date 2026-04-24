@@ -1,7 +1,10 @@
 ---
 title: Chili Peppers
 category: food
-subCategory: spices
+subCategory: spice
+components:
+- capsaicin
+- thermogenesis
 description: Capsaicin-containing spice with evidence for cancer cell apoptosis, metabolic benefits, and cardiovascular support; beneficial in moderate amounts
 benefits:
 - id: cancer-apoptosis

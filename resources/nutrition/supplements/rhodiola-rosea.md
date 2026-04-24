@@ -1,6 +1,9 @@
 ---
 title: Rhodiola Rosea
 category: supplement
+components:
+- salidroside
+- fatigue-resistance
 description: Adaptogenic alpine root used to reduce fatigue, buffer stress hormones, and sustain mental and physical performance under load
 benefits:
 - id: stress-relief

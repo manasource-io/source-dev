@@ -1,6 +1,9 @@
 ---
 title: Coenzyme Q10 (CoQ10)
 category: supplement
+components:
+- mitochondrial
+- antioxidant
 description: Endogenous antioxidant embedded in the mitochondrial membrane; supports cellular energy production, cardiovascular function, and protection against oxidative damage
 benefits:
 - id: cardiovascular-health

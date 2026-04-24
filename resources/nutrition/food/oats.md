@@ -1,7 +1,10 @@
 ---
 title: Oats
 category: food
-subCategory: grains
+subCategory: grain
+components:
+- fiber
+- beta-glucan
 description: Whole grain rich in beta-glucan fiber that supports cholesterol control, satiety, and steadier blood sugar
 benefits:
 - id: cholesterol-lowering

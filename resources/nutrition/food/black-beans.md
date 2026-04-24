@@ -1,7 +1,10 @@
 ---
 title: Black Beans
 category: food
-subCategory: legumes
+subCategory: legume
+components:
+- fiber
+- protein
 credibility: strong
 description: Fiber-dense legume with anthocyanin antioxidants, plant protein, and strong evidence for longevity and cardiometabolic health
 benefits:

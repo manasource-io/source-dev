@@ -1,6 +1,9 @@
 ---
 title: Curcumin (Turmeric Extract)
 category: supplement
+components:
+- anti-inflammatory
+- bioavailability
 description: Polyphenol extracted from turmeric root that reduces inflammation and joint pain and supports mood, requires enhanced bioavailability formulation
 benefits:
 - id: anti-inflammatory

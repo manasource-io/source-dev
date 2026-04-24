@@ -1,7 +1,10 @@
 ---
 title: Cruciferous Vegetables
 category: food
-subCategory: vegetables
+subCategory: vegetable
+components:
+- sulforaphane
+- nrf2
 description: Family of vegetables including broccoli, kale, and Brussels sprouts that produce sulforaphane, a potent NRF2-activating compound
 benefits:
 - id: sulforaphane-cancer-protection

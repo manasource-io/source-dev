@@ -1,7 +1,10 @@
 ---
 title: Legumes
 category: food
-subCategory: legumes
+subCategory: legume
+components:
+- fiber
+- protein
 description: Fiber-rich beans, lentils, chickpeas, and peas that support longevity through improved cardiometabolic health, satiety, and dietary quality
 benefits:
 - id: mortality-reduction

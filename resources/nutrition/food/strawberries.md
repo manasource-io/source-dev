@@ -1,7 +1,10 @@
 ---
 title: Strawberries
 category: food
-subCategory: fruits
+subCategory: fruit
+components:
+- vitamin-c
+- polyphenol
 description: Vitamin C-dense berry with cardiovascular benefits, iron absorption enhancement, and anti-inflammatory polyphenols
 benefits:
 - id: cardiovascular-protection

@@ -1,6 +1,9 @@
 ---
 title: Stair Climbing
 category: cardio
+components:
+- endurance
+- weight-bearing
 description: High-intensity weight-bearing aerobic exercise with strong evidence for cardiovascular mortality reduction, achievable in daily environments
 benefits:
 - id: cardiovascular-mortality

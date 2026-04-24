@@ -1,7 +1,10 @@
 ---
 title: Walnuts
 category: food
-subCategory: seeds-nuts
+subCategory: seed-nut
+components:
+- omega-3
+- polyphenol
 description: The only tree nut rich in plant-based omega-3 ALA, with exceptional antioxidant polyphenols supporting brain, cardiovascular, and gut health
 benefits:
 - id: brain-health

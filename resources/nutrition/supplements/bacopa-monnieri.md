@@ -1,6 +1,9 @@
 ---
 title: Bacopa Monnieri
 category: supplement
+components:
+- bacoside
+- nootropic
 description: Ayurvedic herb containing bacosides that support memory recall, reduce stress reactivity, and protect neurons from oxidative damage
 benefits:
 - id: memory-support

@@ -33,7 +33,8 @@ Each resource is a markdown file with frontmatter fields such as:
 
 - `title`
 - `category`
-- `subCategory`
+- `subCategory` (singular when present)
+- `components` (required for phase 1 food, supplement, and exercise resources)
 - `description`
 - `benefits`
 - `benefitLevel`

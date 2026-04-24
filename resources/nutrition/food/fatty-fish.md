@@ -1,7 +1,10 @@
 ---
 title: Fatty Fish
 category: food
-subCategory: proteins
+subCategory: protein
+components:
+- fatty-acid
+- omega-3
 description: Omega-3-rich fish including salmon, sardines, mackerel, and anchovies; strongly linked to reduced cardiovascular mortality and brain protection
 benefits:
 - id: cardiovascular-protection

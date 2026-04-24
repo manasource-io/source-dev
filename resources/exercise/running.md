@@ -1,6 +1,9 @@
 ---
 title: Running
 category: cardio
+components:
+- endurance
+- weight-bearing
 description: One of the most studied and accessible forms of aerobic exercise, with dose-response data showing 25–40% reduced premature mortality and approximately 3 years of additional life expectancy even at minimal doses
 benefits:
 - id: all-cause-mortality

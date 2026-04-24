@@ -2,6 +2,9 @@
 title: Green Tea
 category: drink
 subCategory: other
+components:
+- catechin
+- theanine
 description: Brewed leaf beverage rich in catechins and a mild caffeine-theanine combination supporting cognition, metabolism, and cardiovascular health
 benefits:
 - id: cognitive-protection

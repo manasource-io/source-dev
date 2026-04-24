@@ -1,6 +1,9 @@
 ---
 title: Strength Training
 category: strength
+components:
+- strength
+- hypertrophy
 description: Resistance-based exercise that builds muscle mass, increases bone density, reduces all-cause mortality, and is one of the most evidence-backed longevity interventions available
 benefits:
 - id: all-cause-mortality

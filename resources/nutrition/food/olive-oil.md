@@ -2,6 +2,9 @@
 title: Olive Oil
 category: food
 subCategory: other
+components:
+- monounsaturated-fat
+- polyphenol
 description: Extra virgin olive oil rich in monounsaturated fats and polyphenols, strongly linked to reduced dementia risk and cardiovascular protection
 benefits:
 - id: dementia-prevention

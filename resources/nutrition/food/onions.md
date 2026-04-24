@@ -1,7 +1,10 @@
 ---
 title: Onions
 category: food
-subCategory: vegetables
+subCategory: vegetable
+components:
+- quercetin
+- organosulfur
 description: Allium vegetable rich in quercetin and organosulfur compounds with evidence for reducing colorectal and breast cancer risk and supporting cardiovascular health
 benefits:
 - id: cancer-prevention

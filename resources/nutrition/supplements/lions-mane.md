@@ -1,6 +1,9 @@
 ---
 title: Lion's Mane Mushroom
 category: supplement
+components:
+- neurotrophic
+- ngf
 description: Medicinal mushroom containing hericenones and erinacines that stimulate nerve growth factor, supporting cognition, mood, and neurological resilience
 benefits:
 - id: cognitive-enhancement

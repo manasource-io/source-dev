@@ -1,6 +1,9 @@
 ---
 title: Melatonin
 category: supplement
+components:
+- circadian
+- sleep-regulation
 description: Hormone that regulates the sleep-wake cycle, most effective for circadian disruption such as jet lag, shift work, and delayed sleep phase
 benefits:
 - id: sleep-onset

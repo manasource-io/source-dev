@@ -1,6 +1,9 @@
 ---
 title: L-Theanine
 category: supplement
+components:
+- relaxation
+- focus
 description: Non-sedating amino acid from green tea that promotes alpha-wave relaxation and enhances cognitive focus especially when combined with caffeine
 benefits:
 - id: relaxation-without-sedation

@@ -1,7 +1,10 @@
 ---
 title: Flaxseeds
 category: snack
-subCategory: seeds-nuts
+subCategory: seed-nut
+components:
+- omega-3
+- lignan
 description: Ground seeds rich in ALA omega-3s, soluble fiber, and lignans for heart, gut, and hormone health
 benefits:
 - id: cholesterol-management

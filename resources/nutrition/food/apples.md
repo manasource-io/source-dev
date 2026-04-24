@@ -1,7 +1,10 @@
 ---
 title: Apples
 category: snack
-subCategory: fruits
+subCategory: fruit
+components:
+- pectin
+- quercetin
 description: Quercetin- and pectin-rich fruit with broad cancer-preventive, cardiovascular, and gut health benefits; most potent consumed with skin on
 benefits:
 - id: cancer-prevention

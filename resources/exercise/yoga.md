@@ -1,6 +1,9 @@
 ---
 title: Yoga
 category: mobility
+components:
+- flexibility
+- parasympathetic
 description: Mind-body exercise combining postures, breathing, and meditation with strong evidence for mental health, flexibility, and cardiovascular benefit
 benefits:
 - id: mental-health

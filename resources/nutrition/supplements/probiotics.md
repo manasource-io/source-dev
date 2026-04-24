@@ -1,6 +1,9 @@
 ---
 title: Probiotics
 category: supplement
+components:
+- probiotic
+- microbiome
 description: Live microorganisms that support gut microbiome diversity, immune function, and, emerging evidence suggests, healthy aging and longevity
 benefits:
 - id: gut-health

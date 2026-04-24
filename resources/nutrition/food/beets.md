@@ -1,7 +1,10 @@
 ---
 title: Beets
 category: food
-subCategory: vegetables
+subCategory: vegetable
+components:
+- nitrate
+- betalain
 description: Betalain-rich root vegetable with emerging cancer-preventive potential and strong evidence for improving cardiovascular function and exercise performance via dietary nitrates
 benefits:
 - id: cancer-chemoprevention

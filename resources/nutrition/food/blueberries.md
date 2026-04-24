@@ -1,7 +1,10 @@
 ---
 title: Blueberries
 category: food
-subCategory: fruits
+subCategory: fruit
+components:
+- anthocyanin
+- polyphenol
 description: Anthocyanin-rich berry with the strongest evidence for cognitive protection, cardiovascular benefits, and cancer-preventive properties among common berries
 benefits:
 - id: cognitive-protection

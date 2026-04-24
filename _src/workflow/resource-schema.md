@@ -15,6 +15,7 @@ Typical frontmatter fields include:
 - `title`
 - `category`
 - `subCategory`
+- `components`
 - `description`
 - `benefits`
 - `benefitLevel`
@@ -25,6 +26,38 @@ Typical frontmatter fields include:
 - `references`
 
 ## Frontmatter expectations
+
+### `subCategory`
+
+`subCategory` remains an editorial/display field.
+
+When present, keep it singular and lower-case kebab-case.
+
+Examples:
+
+- `vegetable`
+- `fruit`
+- `legume`
+- `seed-nut`
+
+### `components`
+
+For phase 1 food, supplement, and exercise resources, `components` is required.
+
+Use an ordered `components` list as the machine-readable taxonomy layer.
+
+See [`resource-components.md`](./resource-components.md) for:
+
+- ordering rules
+- required scope
+- examples
+- authoring guidance
+
+Do not start `components` with a broad family tag that simply repeats what `category` or `subCategory` already says.
+
+When adding or backfilling phase 1 resources, verify the field with:
+
+`python3 _src/scripts/sourcing/audit_resource_components.py`
 
 ### `description`
 

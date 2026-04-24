@@ -76,6 +76,8 @@ Typical updates include:
 
 - replacing weak references with better ones
 - improving frontmatter completeness
+- adding or correcting `components` for phase 1 food, supplement, and exercise resources
+- normalizing any `subCategory` values to singular form
 - clarifying benefits, caveats, or mechanism sections
 - tightening unsupported language
 - updating `lastResearched`
@@ -98,6 +100,8 @@ The goal is that a later editor can understand **what changed, why it changed, a
 Before concluding work, verify:
 
 - the resource still parses as valid markdown + frontmatter
+- phase 1 resources touched still satisfy the `components` contract
+- any `subCategory` values touched remain singular
 - every new reference was actually checked
 - the sourcing notes match the resource changes
 - no raw lead artifact was mistaken for validated evidence
@@ -127,5 +131,7 @@ Rules, contracts, and operating docs belong here.
 - checked existing references before adding new ones
 - validated all new evidence directly
 - updated the publishable resource only after validation
+- added or preserved `components` on any phase 1 resource touched
+- kept `subCategory` singular anywhere it is present
 - recorded provenance in `_src/sourcing/`
 - left the corpus clearer than it was before the run

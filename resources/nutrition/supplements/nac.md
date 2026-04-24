@@ -1,6 +1,9 @@
 ---
 title: NAC (N-Acetyl-Cysteine)
 category: supplement
+components:
+- glutathione
+- antioxidant
 description: Stable cysteine precursor that raises intracellular glutathione, supporting antioxidant defense, liver detoxification, and respiratory health
 benefits:
 - id: glutathione-support

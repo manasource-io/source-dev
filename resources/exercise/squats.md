@@ -1,6 +1,9 @@
 ---
 title: Squats
 category: strength
+components:
+- strength
+- lower-body
 description: Foundational lower-body compound exercise that builds leg strength, mobility, and overall force production
 credibility: moderate
 lastResearched: '2026-04-14'

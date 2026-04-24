@@ -1,7 +1,10 @@
 ---
 title: Pomegranate
 category: snack
-subCategory: fruits
+subCategory: fruit
+components:
+- ellagitannin
+- urolithin
 description: Polyphenol-rich fruit with among the highest antioxidant activity of any food, linked to blood pressure reduction and cellular longevity via urolithin A
 benefits:
 - id: blood-pressure

@@ -1,6 +1,9 @@
 ---
 title: Lunges
 category: strength
+components:
+- unilateral-strength
+- balance
 description: Unilateral lower-body strength exercise that improves leg power, balance, and functional movement patterns
 credibility: moderate
 lastResearched: '2026-04-14'

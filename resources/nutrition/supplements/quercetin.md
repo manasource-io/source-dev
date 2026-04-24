@@ -1,6 +1,9 @@
 ---
 title: Quercetin
 category: supplement
+components:
+- flavonoid
+- senolytic
 description: Flavonoid polyphenol used as a senolytic agent (with dasatinib) to clear senescent cells; also provides general antioxidant and anti-inflammatory effects
 benefits:
 - id: senolytic-activity

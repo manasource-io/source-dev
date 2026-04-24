@@ -1,7 +1,10 @@
 ---
 title: Quinoa
 category: food
-subCategory: grains
+subCategory: grain
+components:
+- protein
+- fiber
 description: Andean pseudocereal and rare complete plant protein, rich in fiber, magnesium, and anti-inflammatory flavonoids
 benefits:
 - id: complete-protein

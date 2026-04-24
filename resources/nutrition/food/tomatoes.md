@@ -1,7 +1,10 @@
 ---
 title: Tomatoes
 category: food
-subCategory: vegetables
+subCategory: vegetable
+components:
+- lycopene
+- carotenoid
 description: Lycopene-rich fruit whose cancer-protective potential increases significantly when cooked with olive oil, linked to reduced prostate and breast cancer risk
 benefits:
 - id: cancer-prevention

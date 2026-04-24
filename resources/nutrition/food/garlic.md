@@ -1,7 +1,10 @@
 ---
 title: Garlic
 category: food
-subCategory: vegetables
+subCategory: vegetable
+components:
+- organosulfur
+- allicin
 description: Allium vegetable containing allicin and organosulfur compounds with evidence for blood pressure reduction, antimicrobial activity, and gut microbiome support
 benefits:
 - id: cardiovascular-health

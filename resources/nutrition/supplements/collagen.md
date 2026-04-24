@@ -1,6 +1,9 @@
 ---
 title: Collagen
 category: supplement
+components:
+- connective-tissue
+- glycine
 description: Hydrolyzed structural protein providing bioavailable glycine and proline to support skin elasticity, joint health, and connective tissue repair
 benefits:
 - id: skin-elasticity

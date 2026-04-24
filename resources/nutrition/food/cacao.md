@@ -2,6 +2,9 @@
 title: Cacao
 category: snack
 subCategory: other
+components:
+- flavanol
+- polyphenol
 description: Raw or minimally processed cocoa bean concentrate, dense in flavanols; studied for cardiovascular protection, metabolic health, and age-related cognitive enhancement
 benefits:
 - id: cardiovascular-protection

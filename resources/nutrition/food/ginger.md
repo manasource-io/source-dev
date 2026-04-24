@@ -1,7 +1,10 @@
 ---
 title: Ginger
 category: food
-subCategory: vegetables
+subCategory: vegetable
+components:
+- gingerol
+- anti-inflammatory
 description: Flowering root with potent anti-nausea, anti-inflammatory, and blood sugar-lowering properties backed by clinical trials
 benefits:
 - id: nausea-relief

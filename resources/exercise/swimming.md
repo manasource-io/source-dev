@@ -1,6 +1,9 @@
 ---
 title: Swimming
 category: cardio
+components:
+- endurance
+- low-impact
 description: Full-body low-impact aerobic exercise uniquely accessible to joint-limited individuals, with strong cardiovascular and functional fitness benefits
 benefits:
 - id: cardiovascular-fitness

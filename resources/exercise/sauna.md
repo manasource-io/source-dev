@@ -1,6 +1,9 @@
 ---
 title: Sauna Usage
 category: misc
+components:
+- heat
+- recovery
 description: Regular Finnish-style sauna bathing is associated with dose-dependent reductions in cardiovascular and all-cause mortality, with the strongest effects at 4–7 sessions per week
 benefits:
 - id: cardiovascular-mortality

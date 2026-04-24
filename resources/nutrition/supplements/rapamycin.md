@@ -1,6 +1,9 @@
 ---
 title: Rapamycin
 category: supplement
+components:
+- drug
+- mtor
 description: Prescription mTOR inhibitor with robust animal longevity data; used off-label for aging, human evidence is limited and emerging
 benefits:
 - id: mtor-inhibition

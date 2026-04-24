@@ -1,6 +1,9 @@
 ---
 title: Creatine Monohydrate
 category: supplement
+components:
+- phosphocreatine
+- strength
 description: Naturally occurring compound stored in muscle cells, widely used to boost strength, power output, and support brain health
 benefits:
 - id: strength-and-power

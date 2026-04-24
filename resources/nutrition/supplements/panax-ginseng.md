@@ -1,6 +1,9 @@
 ---
 title: Panax Ginseng
 category: supplement
+components:
+- ginsenoside
+- cognition
 description: East Asian adaptogen root with ginsenosides that support cognition, mood, immune function, and blood sugar regulation
 benefits:
 - id: cognitive-performance

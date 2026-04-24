@@ -1,6 +1,9 @@
 ---
 title: High-Intensity Interval Training (HIIT)
 category: cardio
+components:
+- vo2max
+- interval
 description: Alternating bursts of near-maximal effort with recovery periods; highly time-efficient way to build cardiorespiratory fitness, improve VO2max, and enhance cardiometabolic health
 benefits:
 - id: vo2max

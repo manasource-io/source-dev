@@ -1,6 +1,9 @@
 ---
 title: Walking
 category: cardio
+components:
+- endurance
+- low-impact
 description: Foundational low-impact aerobic exercise with dose-response mortality benefits from 3000 steps upward, accessible at any fitness level
 benefits:
 - id: mortality-reduction

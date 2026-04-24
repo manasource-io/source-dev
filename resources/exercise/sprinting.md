@@ -1,6 +1,9 @@
 ---
 title: Sprinting
 category: cardio
+components:
+- anaerobic
+- power
 description: Maximal-effort anaerobic bursts that drive hormonal adaptation, fast-twitch recruitment, and metabolic benefits in minimal time
 benefits:
 - id: aerobic-capacity

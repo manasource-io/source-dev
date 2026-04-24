@@ -1,6 +1,9 @@
 ---
 title: Calisthenics
 category: strength
+components:
+- strength
+- bodyweight
 description: Bodyweight resistance training using compound movements to build functional strength, muscular endurance, and coordination without equipment
 benefits:
 - id: muscle-strength

@@ -1,7 +1,10 @@
 ---
 title: Apple Cider Vinegar
 category: drink
-subCategory: juices
+subCategory: juice
+components:
+- acetic-acid
+- fermentation
 description: Fermented apple liquid high in acetic acid, used to support blood sugar control and digestion
 benefits:
 - id: blood-sugar-control

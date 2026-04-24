@@ -2,6 +2,9 @@
 title: Coffee
 category: drink
 subCategory: other
+components:
+- caffeine
+- chlorogenic-acid
 description: Brewed beverage rich in caffeine, chlorogenic acids, and polyphenols, associated with reduced risk of metabolic, cardiovascular, and neurodegenerative disease
 benefits:
 - id: alertness-and-focus

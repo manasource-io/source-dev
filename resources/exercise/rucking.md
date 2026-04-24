@@ -1,6 +1,9 @@
 ---
 title: Rucking
 category: cardio
+components:
+- load-bearing
+- endurance
 description: Walking with a weighted backpack combining aerobic conditioning with load-bearing musculoskeletal stress for superior caloric burn and bone density
 benefits:
 - id: cardiovascular-conditioning

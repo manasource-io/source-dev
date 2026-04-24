@@ -23,6 +23,9 @@ references:
   title: 'Dietary fiber intake and total mortality: a meta-analysis of prospective cohort studies.'
   date: '2014-09-15'
 category: supplement
+components:
+- soluble-fiber
+- cholesterol
 ---
 
 Psyllium husk is one of the most evidence-backed fiber supplements available. Derived from the husks of Plantago ovata seeds, it absorbs water and forms a viscous gel in the gut, which gives it several clinically useful effects that are directly relevant to longevity-focused nutrition. Unlike many supplements with flashy claims and weak evidence, psyllium earns its place through repeatable benefits that are straightforward, measurable, and practical.

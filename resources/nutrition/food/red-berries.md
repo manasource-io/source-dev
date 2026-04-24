@@ -1,7 +1,10 @@
 ---
 title: Red Berries (deprecated)
 category: food
-subCategory: fruits
+subCategory: fruit
+components:
+- anthocyanin
+- polyphenol
 description: Replaced by individual berry resources; see blueberries, strawberries,
   raspberries, and cranberries
 readiness: stub

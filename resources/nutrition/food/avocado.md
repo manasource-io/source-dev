@@ -1,7 +1,10 @@
 ---
 title: Avocado
 category: food
-subCategory: fruits
+subCategory: fruit
+components:
+- monounsaturated-fat
+- fiber
 description: Nutrient-dense fruit rich in monounsaturated fats, fiber, potassium, and fat-soluble vitamins that supports cardiovascular and metabolic health
 benefits:
 - id: cardiovascular-health

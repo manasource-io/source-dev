@@ -1,7 +1,10 @@
 ---
 title: Sweet Potatoes
 category: food
-subCategory: vegetables
+subCategory: vegetable
+components:
+- beta-carotene
+- fiber
 description: Starchy root vegetable rich in beta-carotene, fiber, and antioxidants with a low glycemic index when boiled
 benefits:
 - id: antioxidant-protection

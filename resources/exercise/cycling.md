@@ -1,6 +1,9 @@
 ---
 title: Cycling
 category: cardio
+components:
+- endurance
+- low-impact
 description: Low-impact aerobic exercise with strong all-cause and cardiovascular mortality evidence, achievable as sport or daily transport
 benefits:
 - id: mortality-reduction

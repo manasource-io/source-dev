@@ -1,7 +1,10 @@
 ---
 title: Buckwheat
 category: food
-subCategory: grains
+subCategory: grain
+components:
+- rutin
+- fiber
 description: Gluten-free pseudocereal rich in rutin, fiber, and antioxidants with cardiovascular and metabolic benefits
 benefits:
 - id: blood-sugar-control

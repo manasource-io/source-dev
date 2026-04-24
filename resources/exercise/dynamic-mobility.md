@@ -1,6 +1,9 @@
 ---
 title: Dynamic Mobility Drills
 category: mobility
+components:
+- movement-prep
+- range-of-motion
 description: Controlled active movements through full joint range of motion used to warm up, prevent injury, and maintain functional movement quality
 benefits:
 - id: warm-up-performance

@@ -1,7 +1,10 @@
 ---
 title: Chia Seeds
 category: snack
-subCategory: seeds-nuts
+subCategory: seed-nut
+components:
+- fiber
+- omega-3
 description: Fiber-dense edible seed that supports satiety, gut health, and steadier blood sugar while adding plant omega-3s and minerals
 benefits:
 - id: fiber-density

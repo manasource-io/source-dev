@@ -1,6 +1,9 @@
 ---
 title: Rowing
 category: cardio
+components:
+- endurance
+- full-body
 description: Full-body low-impact aerobic exercise engaging legs, core, and back simultaneously, with high cardiovascular demand and minimal joint stress
 benefits:
 - id: cardiovascular-fitness

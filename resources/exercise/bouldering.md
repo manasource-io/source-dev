@@ -1,6 +1,9 @@
 ---
 title: Bouldering
 category: strength
+components:
+- grip-strength
+- coordination
 description: Rope-free rock climbing on short walls that combines full-body strength, problem-solving, and spatial reasoning with uniquely strong mental health benefits
 benefits:
 - id: functional-strength

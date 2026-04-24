@@ -1,6 +1,9 @@
 ---
 title: Stretching
 category: mobility
+components:
+- flexibility
+- recovery
 description: Structured flexibility practice using static or dynamic techniques to maintain range of motion, support recovery, and reduce musculoskeletal pain
 benefits:
 - id: range-of-motion

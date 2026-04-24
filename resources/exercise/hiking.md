@@ -1,6 +1,9 @@
 ---
 title: Hiking
 category: cardio
+components:
+- endurance
+- nature-exposure
 description: Sustained outdoor walking over natural terrain combining aerobic conditioning with nature exposure, balance challenge, and mental restoration
 benefits:
 - id: cardiovascular-health

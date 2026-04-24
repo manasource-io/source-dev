@@ -1,6 +1,9 @@
 ---
 title: Push-ups
 category: strength
+components:
+- pressing-strength
+- bodyweight
 description: Foundational bodyweight pressing exercise that builds upper-body strength, endurance, and trunk stability
 credibility: moderate
 lastResearched: '2026-04-14'

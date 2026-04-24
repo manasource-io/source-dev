@@ -1,6 +1,9 @@
 ---
 title: Planks
 category: strength
+components:
+- core-stability
+- isometric
 description: Isometric core exercise that builds trunk stability, endurance, and anti-extension control
 credibility: moderate
 lastResearched: '2026-04-14'

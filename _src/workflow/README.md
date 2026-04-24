@@ -7,6 +7,7 @@ Current docs:
 - `research-workflow.md`
 - `evidence-standards.md`
 - `resource-schema.md`
+- `resource-components.md`
 - `taxonomy-map.md`
 - `pruning-policy.md`
 - `migration-plan.md`

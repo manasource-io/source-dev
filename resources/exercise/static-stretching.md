@@ -1,6 +1,9 @@
 ---
 title: Static Stretching
 category: mobility
+components:
+- flexibility
+- recovery
 description: Sustained passive muscle lengthening that builds long-term flexibility, reduces chronic tightness, and promotes recovery and relaxation
 benefits:
 - id: flexibility-gains

@@ -2,6 +2,9 @@
 title: Fermented Foods
 category: food
 subCategory: other
+components:
+- probiotic
+- microbiome
 description: Foods transformed by live microorganisms, kefir, kimchi, sauerkraut, miso, yogurt, that diversify the gut microbiome
 benefits:
 - id: gut-microbiome

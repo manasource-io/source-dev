@@ -1,7 +1,10 @@
 ---
 title: Leafy Greens
 category: food
-subCategory: vegetables
+subCategory: vegetable
+components:
+- folate
+- nitrate
 description: Dark leafy vegetables including spinach and arugula packed with folate, carotenoids, and nitrates that protect DNA, support cellular health, and reduce cancer risk
 benefits:
 - id: dna-protection

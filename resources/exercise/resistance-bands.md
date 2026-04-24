@@ -1,6 +1,9 @@
 ---
 title: Resistance Bands
 category: strength
+components:
+- strength
+- elastic-resistance
 description: Elastic band resistance training producing strength and muscle gains comparable to free weights with minimal equipment and reduced joint stress
 benefits:
 - id: strength-gains

@@ -1,7 +1,10 @@
 ---
 title: Nuts
 category: food
-subCategory: seeds-nuts
+subCategory: seed-nut
+components:
+- unsaturated-fat
+- fiber
 description: Calorie-dense whole foods rich in healthy fats, fiber, plant protein, and antioxidants; associated with reduced mortality and improved cardiometabolic health
 benefits:
 - id: mortality-reduction

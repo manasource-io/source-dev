@@ -1,6 +1,9 @@
 ---
 title: Aerobic Exercise
 category: cardio
+components:
+- endurance
+- aerobic
 description: Rhythmic, sustained physical activity that trains the heart and lungs, dramatically reduces all-cause mortality, and is among the most powerful longevity interventions available
 benefits:
 - id: all-cause-mortality

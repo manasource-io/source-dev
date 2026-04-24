@@ -1,6 +1,9 @@
 ---
 title: Taurine
 category: supplement
+components:
+- osmolyte
+- cardiometabolic
 description: Conditionally essential amino acid involved in cardiovascular health, metabolic function, and cellular protection; may support healthy aging
 benefits:
 - id: longevity-aging

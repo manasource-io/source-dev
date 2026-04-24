@@ -1,6 +1,9 @@
 ---
 title: Breathwork
 category: mobility
+components:
+- parasympathetic
+- hrv
 description: Deliberate slow-paced or diaphragmatic breathing practice that improves HRV, reduces blood pressure, and builds parasympathetic resilience
 benefits:
 - id: hrv-improvement

@@ -1,6 +1,9 @@
 ---
 title: Pull-ups
 category: strength
+components:
+- pulling-strength
+- grip-strength
 description: Compound upper-body pulling exercise that develops back strength, grip endurance, and bodyweight control
 credibility: moderate
 lastResearched: '2026-04-14'

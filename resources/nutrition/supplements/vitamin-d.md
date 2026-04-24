@@ -1,6 +1,9 @@
 ---
 title: Vitamin D
 category: supplement
+components:
+- vitamin
+- fat-soluble
 description: Fat-soluble vitamin essential for bone health, immune regulation, and hormonal function; commonly deficient in modern populations
 benefits:
 - id: mortality-reduction

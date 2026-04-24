@@ -1,7 +1,10 @@
 ---
 title: Cranberries
 category: food
-subCategory: fruits
+subCategory: fruit
+components:
+- proanthocyanidin
+- urinary-tract
 description: Tart berry with uniquely structured A-type proanthocyanidins that prevent bacterial adhesion in the urinary tract, reducing recurrent UTI risk
 benefits:
 - id: uti-prevention

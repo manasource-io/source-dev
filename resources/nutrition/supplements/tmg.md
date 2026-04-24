@@ -1,6 +1,9 @@
 ---
 title: TMG (Trimethylglycine)
 category: supplement
+components:
+- methylation
+- homocysteine
 description: Methyl donor derived from glycine and found in beets; lowers homocysteine, supports liver health, and aids methylation reactions throughout the body
 benefits:
 - id: homocysteine-reduction

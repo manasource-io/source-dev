@@ -1,6 +1,9 @@
 ---
 title: Glycine
 category: supplement
+components:
+- sleep-regulation
+- thermoregulation
 description: Conditionally essential amino acid taken before bed to improve sleep onset, sleep quality, and next-day alertness via core body temperature reduction
 benefits:
 - id: sleep-quality

@@ -1,6 +1,9 @@
 ---
 title: Ashwagandha
 category: supplement
+components:
+- withanolide
+- cortisol-modulation
 description: Adaptogenic herb used in Ayurvedic medicine that reduces cortisol, stress, and anxiety while supporting sleep quality
 benefits:
 - id: cortisol-reduction

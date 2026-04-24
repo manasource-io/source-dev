@@ -1,6 +1,9 @@
 ---
 title: Whey Protein
 category: supplement
+components:
+- muscle-protein
+- leucine
 description: Fast-absorbing complete protein derived from dairy, widely used to support muscle synthesis, recovery, satiety, and body composition
 benefits:
 - id: muscle-protein-synthesis
