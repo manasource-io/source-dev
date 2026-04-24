@@ -5,7 +5,7 @@ components:
 - grip-strength
 - coordination
 description: Rope-free rock climbing on short walls that combines full-body strength, problem-solving, and spatial reasoning with uniquely strong mental health benefits
-benefits:
+claims:
 - id: functional-strength
   label: Develops grip, upper body, and full kinetic chain strength through climbing
 - id: mental-health

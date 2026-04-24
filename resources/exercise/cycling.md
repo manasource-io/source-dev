@@ -5,7 +5,7 @@ components:
 - endurance
 - low-impact
 description: Low-impact aerobic exercise with strong all-cause and cardiovascular mortality evidence, achievable as sport or daily transport
-benefits:
+claims:
 - id: mortality-reduction
   label: 41% lower all-cause mortality; 23% reduction in dose-response meta-analysis
 - id: cardiovascular-fitness

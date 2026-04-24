@@ -5,13 +5,13 @@ components:
 - phosphocreatine
 - strength
 description: Naturally occurring compound stored in muscle cells, widely used to boost strength, power output, and support brain health
-benefits:
+claims:
 - id: strength-and-power
-  label: Increases strength and peak power output
+  label: Creatine increases strength and peak power output in training
 - id: muscle-recovery
-  label: Speeds recovery between training sessions
+  label: Creatine speeds recovery between repeated training sessions
 - id: cognitive-support
-  label: Supports short-term memory and reasoning
+  label: Creatine supports short-term memory and reasoning under stress
 benefitLevel: 8
 overallScore: 8
 credibility: strong

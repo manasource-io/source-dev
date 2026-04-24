@@ -1,15 +1,15 @@
 ---
 title: Mindfulness Meditation
 description: A structured mental training practice with robust evidence for reducing anxiety, depression, and stress, with effects comparable to antidepressant medication, accessible to anyone, at any time
-benefits:
+claims:
 - id: anxiety-reduction
-  label: Moderate reduction in anxiety symptoms across 47 RCTs (effect size 0.38 at 8 weeks)
+  label: Meditation produces moderate anxiety reduction across many RCTs
 - id: depression-reduction
-  label: Significant reduction in depression symptoms; effect maintained at 3–6 month follow-up
+  label: Meditation reduces depression symptoms with durable follow-up effects
 - id: stress-resilience
   label: Reduces stress reactivity and improves emotional regulation under pressure
 - id: pain-management
-  label: Moderate evidence for reduction in chronic pain perception and pain-related distress
+  label: Meditation has moderate evidence for reducing chronic pain distress
 benefitLevel: 7
 overallScore: 6
 credibility: moderate

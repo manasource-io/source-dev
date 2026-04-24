@@ -5,7 +5,7 @@ components:
 - connective-tissue
 - glycine
 description: Hydrolyzed structural protein providing bioavailable glycine and proline to support skin elasticity, joint health, and connective tissue repair
-benefits:
+claims:
 - id: skin-elasticity
   label: Improves skin hydration, elasticity, and wrinkle depth
 - id: joint-support

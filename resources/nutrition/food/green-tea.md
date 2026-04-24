@@ -6,17 +6,17 @@ components:
 - catechin
 - theanine
 description: Brewed leaf beverage rich in catechins and a mild caffeine-theanine combination supporting cognition, metabolism, and cardiovascular health
-benefits:
+claims:
 - id: cognitive-protection
-  label: Reduces risk of cognitive decline and dementia
+  label: Green tea is linked to lower cognitive decline and dementia risk
 - id: cardiovascular-health
-  label: Supports healthy cholesterol and blood pressure
+  label: Green tea supports healthier cholesterol and blood pressure levels
 - id: antioxidant-activity
-  label: High antioxidant content reduces oxidative stress
+  label: Green tea catechins reduce oxidative stress and lipid oxidation
 - id: metabolic-support
-  label: Modest support for glucose metabolism
+  label: Green tea shows modest support for glucose metabolism in trials
 - id: cancer-prevention
-  label: EGCG interferes with tumor growth, halts cancer spread, and supports immune cleanup
+  label: EGCG may slow tumor growth and support immune surveillance
 benefitLevel: 8
 overallScore: 7
 credibility: moderate

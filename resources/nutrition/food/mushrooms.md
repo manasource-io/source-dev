@@ -6,13 +6,13 @@ components:
 - beta-glucan
 - ergothioneine
 description: Beta-glucan and ergothioneine-rich fungi with evidence for immune modulation, cancer treatment adjunct support, and unique mitochondria-targeted antioxidant protection
-benefits:
+claims:
 - id: immune-modulation
-  label: Beta-glucans activate macrophages, NK cells, and T cells against pathogens and cancer
+  label: Mushroom beta-glucans activate innate immune cells and NK cells
 - id: cancer-adjunct
   label: Lentinan and beta-glucans improve cancer treatment outcomes as adjunct therapy
 - id: antioxidant
-  label: Ergothioneine is a rare mitochondria-targeted antioxidant produced almost exclusively by fungi
+  label: Mushrooms provide ergothioneine, a rare mitochondria-focused antioxidant
 - id: cognitive-support
   label: Hericenones in lion's mane mushrooms stimulate nerve growth factor production
 benefitLevel: 7

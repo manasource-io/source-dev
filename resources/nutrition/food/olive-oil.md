@@ -6,7 +6,7 @@ components:
 - monounsaturated-fat
 - polyphenol
 description: Extra virgin olive oil rich in monounsaturated fats and polyphenols, strongly linked to reduced dementia risk and cardiovascular protection
-benefits:
+claims:
 - id: dementia-prevention
   label: Reduces risk of dementia-related death by up to 28%
 - id: cognitive-function

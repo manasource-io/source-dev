@@ -6,7 +6,7 @@ components:
 - protein
 - fiber
 description: Andean pseudocereal and rare complete plant protein, rich in fiber, magnesium, and anti-inflammatory flavonoids
-benefits:
+claims:
 - id: complete-protein
   label: Complete protein with all nine essential amino acids
 - id: fiber-and-gut-health
@@ -14,7 +14,7 @@ benefits:
 - id: micronutrient-density
   label: Exceptional source of magnesium, folate, and manganese
 - id: blood-sugar-stability
-  label: Low glycemic index for stable blood glucose
+  label: Quinoa's low glycemic load supports steadier blood glucose control
 benefitLevel: 6
 overallScore: 6
 credibility: strong

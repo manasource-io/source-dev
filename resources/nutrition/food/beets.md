@@ -6,11 +6,11 @@ components:
 - nitrate
 - betalain
 description: Betalain-rich root vegetable with emerging cancer-preventive potential and strong evidence for improving cardiovascular function and exercise performance via dietary nitrates
-benefits:
+claims:
 - id: cancer-chemoprevention
   label: Betalains inhibit tumor proliferation, angiogenesis, and induce apoptosis
 - id: cardiovascular-health
-  label: Dietary nitrates boost nitric oxide, lowering blood pressure and improving blood flow
+  label: Dietary nitrates raise nitric oxide and improve blood flow dynamics
 - id: exercise-performance
   label: Nitrate-driven improvements in oxygen efficiency and endurance capacity
 - id: anti-inflammatory

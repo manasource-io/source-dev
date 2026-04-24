@@ -6,7 +6,7 @@ components:
 - lycopene
 - carotenoid
 description: Lycopene-rich fruit whose cancer-protective potential increases significantly when cooked with olive oil, linked to reduced prostate and breast cancer risk
-benefits:
+claims:
 - id: cancer-prevention
   label: Lycopene reduces prostate and breast cancer risk in multiple meta-analyses
 - id: cardiovascular-protection

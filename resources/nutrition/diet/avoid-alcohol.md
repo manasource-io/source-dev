@@ -2,15 +2,15 @@
 title: Alcohol
 inputType: score
 description: Eliminating alcohol to reduce cancer risk, liver damage, sleep disruption, and cognitive decline across multiple disease categories
-benefits:
+claims:
 - id: cancer-risk-reduction
-  label: Alcohol is a Group 1 carcinogen , no safe level for cancer; causally linked to 7 cancer types
+  label: Alcohol is a Group 1 carcinogen linked causally to seven cancers
 - id: liver-health
-  label: Eliminating alcohol halts dose-dependent liver progression from steatosis through cirrhosis
+  label: Eliminating alcohol stops progressive liver injury from getting worse
 - id: sleep-quality
-  label: Removing alcohol restores normal sleep architecture, REM duration, and overnight consolidation
+  label: Stopping alcohol restores REM sleep and overnight sleep continuity
 - id: cognitive-protection
-  label: Even moderate alcohol use associated with smaller hippocampal volume and impaired memory formation
+  label: Even moderate alcohol use is linked to smaller hippocampal volume
 benefitLevel: 9
 overallScore: 9
 credibility: strong

@@ -3,15 +3,15 @@ title: Fasting
 inputType: hours
 credibility: moderate
 description: Time-restricted eating and periodic fasting improve insulin sensitivity, weight regulation, and cardiometabolic markers in overweight adults
-benefits:
+claims:
 - id: metabolic-flexibility
-  label: Improved insulin sensitivity
+  label: Time-restricted eating improves insulin sensitivity in trials
 - id: cardiovascular-markers
-  label: LDL and blood pressure reduction
+  label: Time-restricted eating lowers LDL and blood pressure modestly
 - id: weight-management
-  label: Body fat reduction
+  label: Time-restricted eating supports modest body fat reduction
 - id: autophagy-cellular-repair
-  label: Cellular autophagy (extended fasts)
+  label: Extended fasts, not daily TRE, more strongly activate autophagy
 benefitLevel: 7
 overallScore: 6
 lastResearched: '2026-04-09'

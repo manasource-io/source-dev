@@ -5,13 +5,13 @@ components:
 - anti-inflammatory
 - bioavailability
 description: Polyphenol extracted from turmeric root that reduces inflammation and joint pain and supports mood, requires enhanced bioavailability formulation
-benefits:
+claims:
 - id: anti-inflammatory
   label: Inhibits pro-inflammatory cytokines (IL-6, TNF-α, COX-2)
 - id: joint-pain-relief
   label: Reduces joint pain in osteoarthritis; comparable to NSAIDs in trials
 - id: mood-and-depression
-  label: Reduces depressive symptoms as adjunctive therapy
+  label: Curcumin reduces depressive symptoms when used adjunctively
 - id: antioxidant
   label: Reduces oxidative stress markers and increases antioxidant enzyme activity
 - id: cancer-prevention

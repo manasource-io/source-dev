@@ -5,7 +5,7 @@ components:
 - flavonoid
 - senolytic
 description: Flavonoid polyphenol used as a senolytic agent (with dasatinib) to clear senescent cells; also provides general antioxidant and anti-inflammatory effects
-benefits:
+claims:
 - id: senolytic-activity
   label: Clears senescent cells via D+Q hit-and-run protocol
 - id: antioxidant-anti-inflammatory

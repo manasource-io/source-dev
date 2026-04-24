@@ -6,7 +6,7 @@ components:
 - fatty-acid
 - omega-3
 description: Omega-3-rich fish including salmon, sardines, mackerel, and anchovies; strongly linked to reduced cardiovascular mortality and brain protection
-benefits:
+claims:
 - id: cardiovascular-protection
   label: Reduces cardiovascular disease mortality risk by 9-13% per serving increment
 - id: brain-and-cognitive-health

@@ -5,9 +5,9 @@ components:
 - flexibility
 - parasympathetic
 description: Mind-body exercise combining postures, breathing, and meditation with strong evidence for mental health, flexibility, and cardiovascular benefit
-benefits:
+claims:
 - id: mental-health
-  label: Reduces depression, anxiety, and perceived stress
+  label: Yoga reduces depression, anxiety, and perceived stress in trials
 - id: flexibility-and-mobility
   label: Improves range of motion, balance, and functional movement
 - id: cardiovascular-markers

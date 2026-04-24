@@ -5,15 +5,15 @@ components:
 - endurance
 - weight-bearing
 description: One of the most studied and accessible forms of aerobic exercise, with dose-response data showing 25–40% reduced premature mortality and approximately 3 years of additional life expectancy even at minimal doses
-benefits:
+claims:
 - id: all-cause-mortality
-  label: 25–40% lower premature mortality in runners vs non-runners; persistent runners show 29% reduction
+  label: Regular runners show substantially lower premature mortality risk
 - id: cardiovascular-health
   label: 45% lower cardiovascular mortality; strong dose-response even at <51 min/week
 - id: mental-health
   label: Reduces anxiety and depression; runners' high is real (endocannabinoid-mediated)
 - id: accessibility
-  label: Even <51 min/week or <6 miles/week provides significant mortality benefit , lowest effective dose of any aerobic exercise
+  label: Very low weekly running doses still deliver meaningful mortality benefit
 benefitLevel: 8
 overallScore: 8
 credibility: strong

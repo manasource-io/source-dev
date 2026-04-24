@@ -5,7 +5,7 @@ components:
 - flexibility
 - recovery
 description: Sustained passive muscle lengthening that builds long-term flexibility, reduces chronic tightness, and promotes recovery and relaxation
-benefits:
+claims:
 - id: flexibility-gains
   label: Progressively increases range of motion with consistent practice
 - id: muscle-recovery

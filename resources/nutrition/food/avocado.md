@@ -6,7 +6,7 @@ components:
 - monounsaturated-fat
 - fiber
 description: Nutrient-dense fruit rich in monounsaturated fats, fiber, potassium, and fat-soluble vitamins that supports cardiovascular and metabolic health
-benefits:
+claims:
 - id: cardiovascular-health
   label: Reduces LDL cholesterol and cardiovascular disease risk
 - id: nutrient-absorption

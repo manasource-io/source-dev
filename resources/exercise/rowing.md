@@ -5,7 +5,7 @@ components:
 - endurance
 - full-body
 description: Full-body low-impact aerobic exercise engaging legs, core, and back simultaneously, with high cardiovascular demand and minimal joint stress
-benefits:
+claims:
 - id: cardiovascular-fitness
   label: Develops high aerobic capacity and VO2 max through sustained full-body effort
 - id: full-body-strength

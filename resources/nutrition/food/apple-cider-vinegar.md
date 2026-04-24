@@ -6,13 +6,13 @@ components:
 - acetic-acid
 - fermentation
 description: Fermented apple liquid high in acetic acid, used to support blood sugar control and digestion
-benefits:
+claims:
 - id: blood-sugar-control
   label: Reduces post-meal blood glucose and glycemic response
 - id: weight-management
   label: Associated with modest reductions in body weight and fat
 - id: antimicrobial
-  label: Inhibits bacterial growth; mild food preservative
+  label: Shows mild antibacterial effects and limited food-preservation value
 benefitLevel: 4
 overallScore: 3
 credibility: moderate

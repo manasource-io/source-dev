@@ -5,7 +5,7 @@ components:
 - endurance
 - aerobic
 description: Rhythmic, sustained physical activity that trains the heart and lungs, dramatically reduces all-cause mortality, and is among the most powerful longevity interventions available
-benefits:
+claims:
 - id: all-cause-mortality
   label: Reduces all-cause and cardiovascular mortality by up to 53%
 - id: cardiovascular-health

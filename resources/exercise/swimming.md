@@ -5,7 +5,7 @@ components:
 - endurance
 - low-impact
 description: Full-body low-impact aerobic exercise uniquely accessible to joint-limited individuals, with strong cardiovascular and functional fitness benefits
-benefits:
+claims:
 - id: cardiovascular-fitness
   label: Improves VO2 max, reduces blood pressure, and arterial stiffness
 - id: vascular-health

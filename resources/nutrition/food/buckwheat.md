@@ -6,13 +6,13 @@ components:
 - rutin
 - fiber
 description: Gluten-free pseudocereal rich in rutin, fiber, and antioxidants with cardiovascular and metabolic benefits
-benefits:
+claims:
 - id: blood-sugar-control
   label: Lowers post-meal blood glucose and insulin response
 - id: cardiovascular-health
-  label: Reduces total cholesterol and triglycerides
+  label: Buckwheat lowers total cholesterol and triglycerides in trials
 - id: antioxidant-protection
-  label: Rich in rutin, a potent flavonoid antioxidant
+  label: Buckwheat is rich in rutin, a flavonoid with antioxidant activity
 - id: anti-inflammatory
   label: Reduces inflammatory markers including IL-6 and TNF
 benefitLevel: 6

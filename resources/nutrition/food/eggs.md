@@ -6,7 +6,7 @@ components:
 - choline
 - protein
 description: Complete protein whole food uniquely dense in choline, lutein, and zeaxanthin with strong evidence for neuroprotection and brain health
-benefits:
+claims:
 - id: neuroprotection
   label: Choline and lutein reduce Alzheimer's risk and support memory
 - id: complete-protein

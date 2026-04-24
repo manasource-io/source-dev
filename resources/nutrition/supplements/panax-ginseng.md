@@ -5,7 +5,7 @@ components:
 - ginsenoside
 - cognition
 description: East Asian adaptogen root with ginsenosides that support cognition, mood, immune function, and blood sugar regulation
-benefits:
+claims:
 - id: cognitive-performance
   label: Improves working memory, processing speed, and attention
 - id: mood-and-vitality

@@ -2,7 +2,7 @@
 title: Avoid Sun Damage
 category: abstinence
 description: Protecting skin from sunburns and excessive unprotected UV exposure to prevent melanoma and photoaging while preserving moderate sun benefits
-benefits:
+claims:
 - id: melanoma-prevention
   label: Sunburns and intermittent high-UV exposure are the primary melanoma drivers
 - id: skin-aging-prevention

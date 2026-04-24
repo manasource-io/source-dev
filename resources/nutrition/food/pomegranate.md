@@ -6,9 +6,9 @@ components:
 - ellagitannin
 - urolithin
 description: Polyphenol-rich fruit with among the highest antioxidant activity of any food, linked to blood pressure reduction and cellular longevity via urolithin A
-benefits:
+claims:
 - id: blood-pressure
-  label: Reduces systolic and diastolic blood pressure
+  label: Pomegranate lowers systolic and diastolic blood pressure modestly
 - id: anti-inflammatory
   label: Punicalagins reduce inflammatory markers systemically
 - id: mitochondrial-health

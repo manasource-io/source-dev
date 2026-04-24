@@ -5,7 +5,7 @@ components:
 - osmolyte
 - cardiometabolic
 description: Conditionally essential amino acid involved in cardiovascular health, metabolic function, and cellular protection; may support healthy aging
-benefits:
+claims:
 - id: longevity-aging
   label: May slow aging-related decline; extends lifespan in animal models
 - id: cardiovascular-health

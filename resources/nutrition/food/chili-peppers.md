@@ -6,7 +6,7 @@ components:
 - capsaicin
 - thermogenesis
 description: Capsaicin-containing spice with evidence for cancer cell apoptosis, metabolic benefits, and cardiovascular support; beneficial in moderate amounts
-benefits:
+claims:
 - id: cancer-apoptosis
   label: Capsaicin induces apoptosis and cell cycle arrest across multiple cancer types
 - id: metabolic-boost

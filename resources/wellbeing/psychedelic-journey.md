@@ -2,7 +2,7 @@
 title: Psychedelic Journey Session
 category: wellbeing
 description: Intentional psilocybin session with deliberate set, setting, and integration support for lasting mental health benefits
-benefits:
+claims:
 - id: depression-and-anxiety
   label: Dramatically reduces depression and anxiety symptoms
 - id: end-of-life-anxiety

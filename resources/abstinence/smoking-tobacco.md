@@ -1,15 +1,15 @@
 ---
 title: Smoking Tobacco
 description: Tobacco smoking is the single largest modifiable cause of premature death globally, costing an average of 10 years of life, while cessation benefits begin within hours and compound substantially for decades
-benefits:
+claims:
 - id: life-expectancy
-  label: Quitting at 35 recovers ~10 years of life lost; cessation at any age provides meaningful benefit
+  label: Quitting smoking by 35 can recover about a decade of lost life
 - id: all-cause-mortality
-  label: Current smokers have 2× all-cause mortality vs never-smokers; quitting halves that excess risk over time
+  label: Smoking doubles all-cause mortality; quitting meaningfully lowers risk
 - id: cardiovascular-health
-  label: CVD risk begins falling within 1 year of quitting; matches never-smoker risk within 10–15 years
+  label: Cardiovascular risk drops within a year and keeps falling after cessation
 - id: cancer-risk
-  label: Lung cancer risk falls 50% within 10 years of cessation; multiple cancer risks continue declining over decades
+  label: Lung cancer risk falls sharply after quitting and keeps declining
 benefitLevel: 10
 overallScore: 10
 credibility: strong

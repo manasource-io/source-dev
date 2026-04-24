@@ -5,11 +5,11 @@ components:
 - probiotic
 - microbiome
 description: Live microorganisms that support gut microbiome diversity, immune function, and, emerging evidence suggests, healthy aging and longevity
-benefits:
+claims:
 - id: gut-health
   label: Reduces risk of antibiotic-associated diarrhea and IBS symptoms
 - id: immune-support
-  label: Enhances immune resilience and NK cell activity
+  label: Probiotics enhance immune resilience and natural killer activity
 - id: microbiome-diversity
   label: Increases beneficial bacteria abundance and microbial diversity
 - id: inflammation-reduction

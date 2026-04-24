@@ -5,13 +5,13 @@ components:
 - strength
 - hypertrophy
 description: Resistance-based exercise that builds muscle mass, increases bone density, reduces all-cause mortality, and is one of the most evidence-backed longevity interventions available
-benefits:
+claims:
 - id: all-cause-mortality
   label: Reduces all-cause, cardiovascular, and cancer mortality
 - id: muscle-mass
   label: Builds and preserves muscle mass across the lifespan
 - id: bone-density
-  label: Increases bone density and reduces fracture risk
+  label: Raises bone density and lowers fracture risk across aging adults
 - id: metabolic-health
   label: Improves insulin sensitivity and metabolic markers
 benefitLevel: 9

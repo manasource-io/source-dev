@@ -5,9 +5,9 @@ components:
 - anaerobic
 - power
 description: Maximal-effort anaerobic bursts that drive hormonal adaptation, fast-twitch recruitment, and metabolic benefits in minimal time
-benefits:
+claims:
 - id: aerobic-capacity
-  label: Sprint interval training produces VO2 max gains comparable to hours of endurance work
+  label: Sprint interval training can raise VO2 max with very low time cost
 - id: metabolic-adaptation
   label: Improves insulin sensitivity and skeletal muscle mitochondrial content
 - id: hormonal-response

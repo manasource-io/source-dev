@@ -6,7 +6,7 @@ components:
 - piperine
 - bioavailability
 description: Spice containing piperine, which dramatically boosts absorption of curcumin and other fat-soluble compounds, with mild anti-inflammatory properties of its own
-benefits:
+claims:
 - id: bioavailability-enhancement
   label: Piperine increases curcumin bioavailability by up to 20x
 - id: anti-inflammatory

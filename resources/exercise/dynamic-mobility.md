@@ -5,7 +5,7 @@ components:
 - movement-prep
 - range-of-motion
 description: Controlled active movements through full joint range of motion used to warm up, prevent injury, and maintain functional movement quality
-benefits:
+claims:
 - id: warm-up-performance
   label: Outperforms static stretching for pre-exercise power and agility
 - id: range-of-motion

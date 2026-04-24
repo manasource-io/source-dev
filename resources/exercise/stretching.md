@@ -5,7 +5,7 @@ components:
 - flexibility
 - recovery
 description: Structured flexibility practice using static or dynamic techniques to maintain range of motion, support recovery, and reduce musculoskeletal pain
-benefits:
+claims:
 - id: range-of-motion
   label: Improves and maintains joint flexibility across all major joints
 - id: injury-prevention

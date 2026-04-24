@@ -2,7 +2,7 @@
 title: Sleep Quality
 inputType: score
 description: Consistent, restorative sleep is one of the four foundational pillars of longevity, affecting cardiovascular health, metabolic function, immune activity, cognitive performance, and all-cause mortality
-benefits:
+claims:
 - id: all-cause-mortality
   label: Optimal 7–8hrs reduces mortality; short and long sleep both elevate risk 14–34%
 - id: cardiovascular-health

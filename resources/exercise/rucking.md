@@ -5,9 +5,9 @@ components:
 - load-bearing
 - endurance
 description: Walking with a weighted backpack combining aerobic conditioning with load-bearing musculoskeletal stress for superior caloric burn and bone density
-benefits:
+claims:
 - id: cardiovascular-conditioning
-  label: Elevates heart rate and caloric expenditure significantly above unweighted walking
+  label: Raises heart rate and energy expenditure beyond unweighted walking
 - id: bone-density
   label: Weighted load increases ground reaction force, stimulating bone remodeling
 - id: functional-strength

@@ -12,6 +12,7 @@ Planned responsibilities:
 
 Current scripts include:
 
+- `audit_resource_claims.py`
 - `reconcile_resource_ids.py`
 - `audit_sourcing_coverage.py`
 - `audit_resource_components.py`

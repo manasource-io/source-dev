@@ -5,7 +5,7 @@ components:
 - electrolyte
 - enzymatic
 description: Essential mineral involved in 300+ enzymatic reactions, critical for cardiovascular health, sleep, energy, and metabolic function
-benefits:
+claims:
 - id: cardiovascular-health
   label: Reduces risk of hypertension and cardiovascular disease
 - id: blood-sugar
@@ -15,7 +15,7 @@ benefits:
 - id: bone-health
   label: Supports bone density and reduces osteoporosis risk
 - id: muscle-function
-  label: Reduces muscle cramps and supports recovery
+  label: Magnesium reduces muscle cramps and supports exercise recovery
 benefitLevel: 8
 overallScore: 8
 credibility: strong

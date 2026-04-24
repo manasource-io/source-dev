@@ -6,7 +6,7 @@ components:
 - omega-3
 - polyphenol
 description: The only tree nut rich in plant-based omega-3 ALA, with exceptional antioxidant polyphenols supporting brain, cardiovascular, and gut health
-benefits:
+claims:
 - id: brain-health
   label: ALA omega-3 and polyphenols support cognition and reduce dementia risk
 - id: cardiovascular-health
@@ -14,7 +14,7 @@ benefits:
 - id: gut-microbiome
   label: Prebiotic polyphenols enrich beneficial gut bacteria and produce urolithin A
 - id: anti-inflammatory
-  label: Highest antioxidant activity among common nuts
+  label: Walnuts show unusually high antioxidant activity among common nuts
 - id: cancer-prevention
   label: Omega-3s and polyphenols suppress tumor growth and reduce cancer biomarkers
 benefitLevel: 8

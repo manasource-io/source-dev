@@ -5,7 +5,7 @@ components:
 - coordination
 - plyometric
 description: High-intensity low-equipment cardio that simultaneously develops cardiovascular fitness, coordination, bone density, and agility
-benefits:
+claims:
 - id: cardiovascular-efficiency
   label: Matches running in cardiovascular intensity; 10 min equals 30 min of jogging
 - id: bone-density

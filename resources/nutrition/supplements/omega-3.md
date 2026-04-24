@@ -5,9 +5,9 @@ components:
 - fatty-acid
 - omega-3
 description: Essential polyunsaturated fats (EPA and DHA) from marine sources that reduce inflammation, lower triglycerides, and support brain structure and function
-benefits:
+claims:
 - id: triglyceride-reduction
-  label: Substantially lowers elevated triglyceride levels
+  label: Omega-3s substantially lower elevated triglyceride levels in trials
 - id: anti-inflammatory
   label: Reduces systemic inflammation via eicosanoid modulation
 - id: brain-health

@@ -5,7 +5,7 @@ components:
 - parasympathetic
 - hrv
 description: Deliberate slow-paced or diaphragmatic breathing practice that improves HRV, reduces blood pressure, and builds parasympathetic resilience
-benefits:
+claims:
 - id: hrv-improvement
   label: Significantly increases vagally-mediated HRV and parasympathetic tone
 - id: blood-pressure-reduction

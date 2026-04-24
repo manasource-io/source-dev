@@ -6,9 +6,9 @@ components:
 - probiotic
 - microbiome
 description: Foods transformed by live microorganisms, kefir, kimchi, sauerkraut, miso, yogurt, that diversify the gut microbiome
-benefits:
+claims:
 - id: gut-microbiome
-  label: Increases gut microbial diversity and abundance
+  label: Fermented foods increase gut microbial diversity and abundance
 - id: immune-health
   label: Reduces inflammatory proteins and supports immune tolerance
 - id: mental-wellbeing

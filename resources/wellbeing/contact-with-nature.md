@@ -1,11 +1,11 @@
 ---
 title: Contact with Nature
 description: Regular exposure to natural environments measurably lowers cortisol, blood pressure, and anxiety, with consistent effects across forest bathing, green space access, and urban park use
-benefits:
+claims:
 - id: stress-reduction
-  label: Forest bathing and green space exposure reduce cortisol, heart rate, and subjective stress
+  label: Forest bathing lowers cortisol, heart rate, and perceived stress
 - id: mental-health
-  label: Green space access associated with lower odds of depression, anxiety, and psychiatric disorders
+  label: Green space access is linked to lower depression and anxiety risk
 - id: cardiovascular-health
   label: Nature exposure reduces diastolic blood pressure and cardiovascular mortality
 - id: immune-function

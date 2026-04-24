@@ -2,15 +2,15 @@
 title: Avoid Highly Processed Food
 inputType: score
 description: Ultra-processed foods (UPFs) are independently linked to 15% higher all-cause mortality and convincing evidence of harm across cardiovascular, metabolic, and mental health outcomes, the single most impactful dietary pattern change for longevity
-benefits:
+claims:
 - id: all-cause-mortality
-  label: Highest UPF consumption linked to 15% increased all-cause mortality; each 10% increment adds 10% risk
+  label: Highest UPF intake is linked to meaningfully higher mortality risk
 - id: cardiovascular-health
-  label: Reducing UPF intake cuts CVD mortality risk; dose-response confirmed across large cohorts
+  label: Reducing UPF intake lowers cardiovascular mortality across cohorts
 - id: metabolic-health
   label: UPF reduction reduces T2D risk (RR 1.12), obesity, and metabolic syndrome
 - id: mental-health
-  label: UPF exposure associated with 48–53% increased odds of anxiety and common mental disorders
+  label: UPF exposure is linked to markedly higher anxiety disorder risk
 benefitLevel: 9
 overallScore: 9
 credibility: strong

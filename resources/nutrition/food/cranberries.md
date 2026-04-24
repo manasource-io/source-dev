@@ -6,7 +6,7 @@ components:
 - proanthocyanidin
 - urinary-tract
 description: Tart berry with uniquely structured A-type proanthocyanidins that prevent bacterial adhesion in the urinary tract, reducing recurrent UTI risk
-benefits:
+claims:
 - id: uti-prevention
   label: A-type proanthocyanidins reduce recurrent urinary tract infection risk
 - id: cardiovascular-protection

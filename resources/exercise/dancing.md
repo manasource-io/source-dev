@@ -5,11 +5,11 @@ components:
 - coordination
 - rhythmic
 description: Aerobic movement combining rhythmic physical activity with coordination, social engagement, and cognitive challenge for broad mind-body benefits
-benefits:
+claims:
 - id: physical-fitness
   label: Improves balance, aerobic capacity, flexibility, and muscular endurance
 - id: cognitive-protection
-  label: Learning choreography challenges memory and spatial cognition; reduces dementia risk
+  label: Learning choreography challenges memory and supports spatial cognition
 - id: mental-health
   label: Reduces depression and anxiety; strong mood and wellbeing effects
 - id: social-engagement

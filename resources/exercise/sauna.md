@@ -5,13 +5,13 @@ components:
 - heat
 - recovery
 description: Regular Finnish-style sauna bathing is associated with dose-dependent reductions in cardiovascular and all-cause mortality, with the strongest effects at 4–7 sessions per week
-benefits:
+claims:
 - id: cardiovascular-mortality
   label: Up to 50% lower cardiovascular mortality at 4–7x/week frequency
 - id: all-cause-mortality
   label: 40% lower all-cause mortality with frequent use vs once weekly
 - id: inflammation-reduction
-  label: Reduces systemic inflammation markers; protective effect amplified in low-CRP individuals
+  label: Sauna use lowers inflammatory markers, especially with elevated CRP
 - id: blood-pressure
   label: Repeated heat exposure lowers blood pressure and improves vascular function
 benefitLevel: 8

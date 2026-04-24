@@ -6,9 +6,9 @@ components:
 - unsaturated-fat
 - fiber
 description: Calorie-dense whole foods rich in healthy fats, fiber, plant protein, and antioxidants; associated with reduced mortality and improved cardiometabolic health
-benefits:
+claims:
 - id: mortality-reduction
-  label: Associated with reduced all-cause mortality
+  label: Regular nut intake is associated with lower all-cause mortality
 - id: cardiovascular-health
   label: Reduces cardiovascular disease risk and improves lipid profiles
 - id: healthy-aging

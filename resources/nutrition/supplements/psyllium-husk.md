@@ -1,7 +1,7 @@
 ---
 title: Psyllium Husk
 description: Soluble fiber supplement that lowers LDL cholesterol, improves bowel regularity, and helps close the gap between actual and recommended fiber intake
-benefits:
+claims:
 - id: cholesterol-lowering
   label: Clinically validated soluble fiber for lowering LDL cholesterol
 - id: blood-sugar-control

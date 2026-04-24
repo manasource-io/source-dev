@@ -5,7 +5,7 @@ components:
 - vo2max
 - interval
 description: Alternating bursts of near-maximal effort with recovery periods; highly time-efficient way to build cardiorespiratory fitness, improve VO2max, and enhance cardiometabolic health
-benefits:
+claims:
 - id: vo2max
   label: Superior VO2max gains vs moderate-intensity training, especially in older adults
 - id: cardiometabolic-health

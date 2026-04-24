@@ -6,7 +6,7 @@ components:
 - anthocyanin
 - polyphenol
 description: Anthocyanin-rich berry with the strongest evidence for cognitive protection, cardiovascular benefits, and cancer-preventive properties among common berries
-benefits:
+claims:
 - id: cognitive-protection
   label: Emerging evidence for memory and neuroprotective effects
 - id: cardiovascular-protection

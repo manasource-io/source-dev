@@ -5,13 +5,13 @@ components:
 - glutathione
 - antioxidant
 description: Stable cysteine precursor that raises intracellular glutathione, supporting antioxidant defense, liver detoxification, and respiratory health
-benefits:
+claims:
 - id: glutathione-support
-  label: Raises glutathione and total antioxidant capacity
+  label: NAC raises glutathione and total antioxidant capacity in trials
 - id: exercise-recovery
   label: Reduces muscle soreness, lactate, and inflammation after exercise
 - id: respiratory-health
-  label: Thins mucus and supports airway clearance
+  label: NAC thins mucus and supports airway clearance in lung disease
 benefitLevel: 6
 overallScore: 5
 credibility: moderate

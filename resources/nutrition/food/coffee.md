@@ -6,7 +6,7 @@ components:
 - caffeine
 - chlorogenic-acid
 description: Brewed beverage rich in caffeine, chlorogenic acids, and polyphenols, associated with reduced risk of metabolic, cardiovascular, and neurodegenerative disease
-benefits:
+claims:
 - id: alertness-and-focus
   label: Rapidly improves alertness, attention, and reaction time
 - id: metabolic-protection

@@ -5,13 +5,13 @@ components:
 - salidroside
 - fatigue-resistance
 description: Adaptogenic alpine root used to reduce fatigue, buffer stress hormones, and sustain mental and physical performance under load
-benefits:
+claims:
 - id: stress-relief
   label: Reduces perceived stress and cortisol-driven fatigue
 - id: fatigue-reduction
-  label: Combats physical and mental fatigue
+  label: Rhodiola combats physical and mental fatigue under stress
 - id: exercise-performance
-  label: May extend endurance and time to exhaustion
+  label: Rhodiola may extend endurance and time to exhaustion modestly
 - id: cognitive-support
   label: Supports attention and cognitive function under stress
 benefitLevel: 6

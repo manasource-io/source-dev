@@ -5,15 +5,15 @@ components:
 - mitochondrial
 - antioxidant
 description: Endogenous antioxidant embedded in the mitochondrial membrane; supports cellular energy production, cardiovascular function, and protection against oxidative damage
-benefits:
+claims:
 - id: cardiovascular-health
   label: Reduces cardiovascular mortality and major cardiac events
 - id: mitochondrial-energy
   label: Supports cellular ATP production and mitochondrial function
 - id: blood-pressure
-  label: Modestly reduces systolic blood pressure
+  label: CoQ10 modestly lowers systolic blood pressure in trials
 - id: statin-protection
-  label: May reduce statin-associated muscle symptoms
+  label: CoQ10 may reduce statin-associated muscle symptoms in some users
 benefitLevel: 7
 overallScore: 6
 credibility: moderate

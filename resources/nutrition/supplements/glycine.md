@@ -5,9 +5,9 @@ components:
 - sleep-regulation
 - thermoregulation
 description: Conditionally essential amino acid taken before bed to improve sleep onset, sleep quality, and next-day alertness via core body temperature reduction
-benefits:
+claims:
 - id: sleep-quality
-  label: Improves sleep onset and subjective sleep quality
+  label: Glycine improves sleep onset and subjective sleep quality in trials
 - id: collagen-synthesis
   label: Supports collagen production for joints, skin, and tendons
 - id: metabolic-health

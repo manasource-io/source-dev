@@ -5,7 +5,7 @@ components:
 - antioxidant
 - mitochondrial
 description: Marine carotenoid and potent antioxidant with the strongest animal lifespan-extension data of any carotenoid; human evidence limited to intermediate outcomes
-benefits:
+claims:
 - id: longevity-lifespan
   label: 12% male lifespan extension in rigorous ITP animal study
 - id: antioxidant-activity

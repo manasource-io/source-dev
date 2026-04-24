@@ -1,7 +1,7 @@
 ---
 title: Social Connection
 description: The quality and quantity of relationships with other people, one of the most powerful and underrecognized predictors of longevity, with effect sizes comparable to smoking cessation
-benefits:
+claims:
 - id: all-cause-mortality
   label: 50% increased survival odds with stronger social ties (148 studies)
 - id: mental-health
@@ -9,7 +9,7 @@ benefits:
 - id: immune-function
   label: Supports immune resilience; loneliness drives chronic inflammation
 - id: longevity-aging
-  label: Protective against functional decline, frailty, and cognitive deterioration in aging
+  label: Social ties protect against frailty, decline, and cognitive deterioration
 benefitLevel: 9
 overallScore: 9
 credibility: strong

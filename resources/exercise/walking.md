@@ -5,7 +5,7 @@ components:
 - endurance
 - low-impact
 description: Foundational low-impact aerobic exercise with dose-response mortality benefits from 3000 steps upward, accessible at any fitness level
-benefits:
+claims:
 - id: mortality-reduction
   label: 47% lower all-cause mortality at 7000 steps vs 2000 per day
 - id: cardiovascular-health

@@ -5,13 +5,13 @@ components:
 - muscle-protein
 - leucine
 description: Fast-absorbing complete protein derived from dairy, widely used to support muscle synthesis, recovery, satiety, and body composition
-benefits:
+claims:
 - id: muscle-protein-synthesis
   label: Enhances muscle protein synthesis with resistance training
 - id: sarcopenia-prevention
   label: Helps preserve lean mass and strength in aging adults
 - id: satiety
-  label: Supports appetite control and body composition
+  label: Whey protein supports appetite control and lean body composition
 benefitLevel: 8
 overallScore: 8
 credibility: strong

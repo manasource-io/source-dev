@@ -6,15 +6,15 @@ components:
 - fiber
 - beta-glucan
 description: Whole grain rich in beta-glucan fiber that supports cholesterol control, satiety, and steadier blood sugar
-benefits:
+claims:
 - id: cholesterol-lowering
   label: Beta-glucan reliably lowers LDL cholesterol and improves heart-health markers
 - id: blood-sugar-control
   label: Soluble fiber slows digestion and reduces post-meal glucose response
 - id: gut-health
-  label: Fermentable fiber supports fullness, bowel regularity, and beneficial gut bacteria
+  label: Oat fiber supports fullness, bowel regularity, and gut bacteria
 - id: anti-inflammatory-compounds
-  label: Avenanthramides add antioxidant and anti-inflammatory support beyond basic grain nutrition
+  label: Avenanthramides add antioxidant and anti-inflammatory activity
 benefitLevel: 7
 overallScore: 7
 credibility: strong

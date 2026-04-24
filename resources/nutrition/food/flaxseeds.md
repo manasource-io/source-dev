@@ -6,19 +6,19 @@ components:
 - omega-3
 - lignan
 description: Ground seeds rich in ALA omega-3s, soluble fiber, and lignans for heart, gut, and hormone health
-benefits:
+claims:
 - id: cholesterol-management
-  label: Lowers LDL cholesterol and triglycerides
+  label: Flaxseed lowers LDL cholesterol and triglycerides in trials
 - id: blood-pressure
-  label: Reduces systolic and diastolic blood pressure
+  label: Flaxseed lowers systolic and diastolic blood pressure modestly
 - id: gut-health
-  label: Feeds gut microbiome and supports regularity
+  label: Flaxseed feeds beneficial gut microbes and supports bowel regularity
 - id: cancer-risk-reduction
-  label: Lignan phytoestrogens inhibit tumor proliferation
+  label: Flaxseed lignans may inhibit tumor growth in hormone-sensitive tissue
 - id: blood-sugar-control
-  label: Improves fasting glucose and insulin sensitivity
+  label: Flaxseed improves fasting glucose and insulin sensitivity modestly
 - id: inflammation
-  label: Modest reduction in CRP and systemic inflammation
+  label: Flaxseed can modestly lower CRP and other inflammation markers
 benefitLevel: 8
 overallScore: 7
 credibility: moderate

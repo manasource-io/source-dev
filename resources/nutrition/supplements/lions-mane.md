@@ -5,15 +5,15 @@ components:
 - neurotrophic
 - ngf
 description: Medicinal mushroom containing hericenones and erinacines that stimulate nerve growth factor, supporting cognition, mood, and neurological resilience
-benefits:
+claims:
 - id: cognitive-enhancement
   label: Improves processing speed and cognitive performance
 - id: neuroprotection
   label: Supports nerve growth factor synthesis and neuroplasticity
 - id: mood-support
-  label: Reduces symptoms of anxiety and depression
+  label: Lion's mane reduces symptoms of anxiety and depression in trials
 - id: alzheimers-potential
-  label: Emerging evidence for slowing cognitive decline
+  label: Lion's mane has emerging evidence for slowing cognitive decline
 benefitLevel: 7
 overallScore: 5
 credibility: emerging

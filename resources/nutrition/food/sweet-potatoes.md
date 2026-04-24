@@ -6,7 +6,7 @@ components:
 - beta-carotene
 - fiber
 description: Starchy root vegetable rich in beta-carotene, fiber, and antioxidants with a low glycemic index when boiled
-benefits:
+claims:
 - id: antioxidant-protection
   label: High beta-carotene content supports immune and vision health
 - id: gut-health

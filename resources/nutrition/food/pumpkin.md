@@ -6,15 +6,15 @@ components:
 - beta-carotene
 - carotenoid
 description: Nutrient-dense vegetable exceptionally high in beta-carotene and carotenoid antioxidants, supporting immune health and chronic disease prevention
-benefits:
+claims:
 - id: antioxidant-protection
-  label: Rich in beta-carotene and carotenoid antioxidants
+  label: Pumpkin is rich in beta-carotene and other carotenoid antioxidants
 - id: immune-support
   label: Supports immune function through vitamin A synthesis
 - id: blood-sugar-management
-  label: May help regulate blood glucose levels
+  label: Pumpkin may modestly improve blood glucose regulation markers
 - id: cardiovascular-health
-  label: Supports healthy cholesterol and heart function
+  label: Pumpkin supports healthier cholesterol levels and heart function
 benefitLevel: 6
 overallScore: 5
 credibility: moderate

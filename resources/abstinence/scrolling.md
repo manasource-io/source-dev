@@ -2,7 +2,7 @@
 title: Scrolling Abstinence
 category: abstinence
 description: Freedom from compulsive doomscrolling and social media feeds, reducing anxiety, sleep disruption, and attentional fragmentation
-benefits:
+claims:
 - id: mental-health
   label: Reduces anxiety, depression, and secondary traumatic stress
 - id: sleep-quality

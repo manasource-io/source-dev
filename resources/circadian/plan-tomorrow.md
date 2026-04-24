@@ -2,13 +2,13 @@
 title: Plan Tomorrow
 category: circadian
 description: Writing a concrete to-do list for the next day before bed reduces pre-sleep cognitive arousal, shortens time to fall asleep, and supports a calmer, more intentional start to the day
-benefits:
+claims:
 - id: faster-sleep-onset
-  label: Writing a specific to-do list cut sleep onset latency by ~9 minutes in a controlled RCT
+  label: Bedtime to-do lists shortened sleep onset by about 9 minutes in an RCT
 - id: pre-sleep-worry-reduction
   label: Externalizing pending tasks reduces rumination and cognitive arousal at bedtime
 - id: morning-readiness
-  label: Pre-planned day reduces decision fatigue and supports goal-directed behavior from wake-up
+  label: Planning tomorrow in advance reduces decision fatigue after waking
 - id: circadian-wind-down
   label: Consistent evening planning ritual signals the brain that the day is complete
 benefitLevel: 5

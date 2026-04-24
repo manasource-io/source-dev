@@ -5,7 +5,7 @@ components:
 - power
 - conditioning
 description: Functional resistance training using ballistic compound movements that simultaneously develop strength, power, and cardiovascular conditioning
-benefits:
+claims:
 - id: functional-strength
   label: Builds grip, core, and lower-body functional strength via compound lifts
 - id: cardiovascular-conditioning
@@ -13,7 +13,7 @@ benefits:
 - id: power-and-explosiveness
   label: Ballistic movements like swings develop hip power and fast-twitch recruitment
 - id: older-adult-fitness
-  label: Improves grip strength and aerobic capacity in insufficiently active older adults
+  label: Improves grip strength and aerobic fitness in older inactive adults
 benefitLevel: 6
 overallScore: 5
 credibility: moderate

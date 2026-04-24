@@ -5,7 +5,7 @@ components:
 - methylation
 - homocysteine
 description: Methyl donor derived from glycine and found in beets; lowers homocysteine, supports liver health, and aids methylation reactions throughout the body
-benefits:
+claims:
 - id: homocysteine-reduction
   label: Reliably lowers elevated homocysteine via BHMT pathway
 - id: liver-health

@@ -6,7 +6,7 @@ components:
 - fiber
 - omega-3
 description: Fiber-dense edible seed that supports satiety, gut health, and steadier blood sugar while adding plant omega-3s and minerals
-benefits:
+claims:
 - id: fiber-density
   label: Exceptional soluble fiber density for satiety and gut support
 - id: blood-sugar-control
@@ -14,7 +14,7 @@ benefits:
 - id: cholesterol-support
   label: Soluble fiber intake helps improve LDL cholesterol and cardiometabolic risk
 - id: mineral-density
-  label: Concentrated source of calcium, magnesium, and phosphorus for overall dietary quality
+  label: Provides calcium, magnesium, and phosphorus that lift diet quality
 benefitLevel: 6
 overallScore: 5
 credibility: moderate

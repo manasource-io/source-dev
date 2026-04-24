@@ -5,7 +5,7 @@ components:
 - vitamin
 - calcium-transport
 description: Fat-soluble vitamin that directs calcium into bones and away from arteries; supports cardiovascular health, bone density, and synergizes strongly with vitamin D3
-benefits:
+claims:
 - id: arterial-health
   label: Reduces aortic calcification and cardiovascular mortality risk
 - id: bone-health

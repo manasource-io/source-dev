@@ -17,7 +17,7 @@ Typical frontmatter fields include:
 - `subCategory`
 - `components`
 - `description`
-- `benefits`
+- `claims`
 - `benefitLevel`
 - `overallScore`
 - `credibility`
@@ -66,19 +66,24 @@ When adding or backfilling phase 1 resources, verify the field with:
 - focused on what the resource is and does
 - should not become a long disclaimer block
 
-### `benefits`
+### `claims`
 
-Benefits should be structured entries with stable IDs that map to headings in the body.
+Claims should be structured entries with stable IDs that map to headings in the body.
 
 Expected shape:
 
 ```yaml
-benefits:
+claims:
   - id: blood-sugar-control
-    label: Improves post-meal blood sugar response
+    label: Improves post-meal glucose control in randomized feeding trials
 ```
 
-Each benefit ID should have a matching body section anchor.
+Rules:
+
+- use stable kebab-case IDs
+- keep each `label` between 50 and 80 characters inclusive
+- each claim ID should have a matching body section anchor
+- `benefits` is a legacy field name and should not be used in new or updated files
 
 ### `benefitLevel`
 
@@ -125,9 +130,9 @@ references:
 A resource body should:
 
 - explain the resource in readable terms
-- map clearly to the declared benefits
+- map clearly to the declared claims
 - avoid overstating evidence
-- maintain section anchors that match benefit IDs when benefit deep-linking is used
+- maintain section anchors that match claim IDs when claim deep-linking is used
 
 ## YAML safety
 

@@ -6,7 +6,7 @@ components:
 - resveratrol
 - polyphenol
 description: Anthocyanin and resveratrol-rich fruits that signal abnormal cells to stop growing and begin dying, with cardiovascular and anti-inflammatory benefits
-benefits:
+claims:
 - id: cancer-suppression
   label: Resveratrol triggers apoptosis and blocks abnormal cell proliferation
 - id: cardiovascular-health

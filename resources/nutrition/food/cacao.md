@@ -6,7 +6,7 @@ components:
 - flavanol
 - polyphenol
 description: Raw or minimally processed cocoa bean concentrate, dense in flavanols; studied for cardiovascular protection, metabolic health, and age-related cognitive enhancement
-benefits:
+claims:
 - id: cardiovascular-protection
   label: Reduces cardiovascular mortality (27% in large RCT)
 - id: vascular-function
@@ -14,7 +14,7 @@ benefits:
 - id: blood-pressure
   label: Flavanols lower blood pressure, especially in hypertensive adults
 - id: insulin-sensitivity
-  label: Improves insulin sensitivity and lipid profile
+  label: Cacao improves insulin sensitivity and blood lipid markers in trials
 - id: cognitive-health
   label: May reverse age-related memory decline via hippocampal flavanol activity
 benefitLevel: 8

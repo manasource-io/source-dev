@@ -5,15 +5,15 @@ components:
 - strength
 - elastic-resistance
 description: Elastic band resistance training producing strength and muscle gains comparable to free weights with minimal equipment and reduced joint stress
-benefits:
+claims:
 - id: strength-gains
-  label: Systematic review confirms comparable strength gains to conventional resistance training
+  label: Systematic reviews show strength gains comparable to free weights
 - id: portability
   label: Full resistance training capability without gym, bars, or heavy equipment
 - id: rehabilitation
-  label: Variable resistance and low joint loading ideal for injury recovery and older adults
+  label: Low joint loading makes bands useful for rehab and older adults
 - id: full-range-loading
-  label: Increasing resistance through ROM challenges muscles differently than free weights
+  label: Variable resistance challenges muscles differently than free weights
 benefitLevel: 6
 overallScore: 5
 credibility: moderate

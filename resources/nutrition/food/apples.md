@@ -6,9 +6,9 @@ components:
 - pectin
 - quercetin
 description: Quercetin- and pectin-rich fruit with broad cancer-preventive, cardiovascular, and gut health benefits; most potent consumed with skin on
-benefits:
+claims:
 - id: cancer-prevention
-  label: Quercetin, procyanidins, and pectin reduce cancer cell proliferation and colon risk
+  label: Apple polyphenols and pectin may reduce colon cancer risk signals
 - id: gut-health
   label: Pectin fiber selectively feeds beneficial gut bacteria and supports regularity
 - id: cardiovascular-health

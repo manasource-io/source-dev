@@ -1,15 +1,15 @@
 ---
 title: Sunlight Exposure
 description: Daily morning sunlight is the most powerful natural signal for synchronizing circadian rhythms, regulating mood via serotonin, and initiating vitamin D synthesis, with measurable effects on sleep, mental health, and energy
-benefits:
+claims:
 - id: circadian-alignment
-  label: Morning light is the primary zeitgeber that synchronizes the internal clock to a 24-hour cycle
+  label: Morning light is the main zeitgeber that anchors circadian timing
 - id: mood-and-mental-health
-  label: Outdoor light associated with lower depression, anxiety, and self-harm risk in 400,000-person study
+  label: Outdoor light exposure is linked to lower depression and anxiety risk
 - id: sleep-quality
-  label: Morning sunlight predicts better sleep quality the following night; shifts sleep midpoint earlier
+  label: Morning sunlight predicts better sleep quality and earlier sleep timing
 - id: vitamin-d-synthesis
-  label: UVB exposure triggers cutaneous vitamin D synthesis; 10–30 min midday sun several times/week sufficient for most
+  label: UVB exposure can produce vitamin D with brief regular midday sun
 benefitLevel: 7
 overallScore: 6
 credibility: moderate

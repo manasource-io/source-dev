@@ -6,7 +6,7 @@ components:
 - vitamin-c
 - polyphenol
 description: Vitamin C-dense berry with cardiovascular benefits, iron absorption enhancement, and anti-inflammatory polyphenols
-benefits:
+claims:
 - id: cardiovascular-protection
   label: Reduces LDL oxidation and supports healthy lipid profiles
 - id: vitamin-c-boost

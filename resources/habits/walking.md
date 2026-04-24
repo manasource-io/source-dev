@@ -2,7 +2,7 @@
 title: Go for a walk
 category: habit
 description: Daily walking habit with dose-response mortality benefits starting at 3000 steps and peaking around 7000–9000 steps per day
-benefits:
+claims:
 - id: mortality-reduction
   label: 47% lower all-cause mortality risk at 7000 steps vs 2000
 - id: cardiovascular-health

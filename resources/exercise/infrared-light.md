@@ -5,7 +5,7 @@ components:
 - recovery
 - mitochondrial
 description: Photobiomodulation using 660–850nm wavelengths to stimulate mitochondrial ATP production, reduce inflammation, and support tissue recovery
-benefits:
+claims:
 - id: mitochondrial-stimulation
   label: Activates cytochrome c oxidase; increases cellular ATP production
 - id: anti-inflammatory

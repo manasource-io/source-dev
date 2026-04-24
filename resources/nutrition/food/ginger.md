@@ -6,15 +6,15 @@ components:
 - gingerol
 - anti-inflammatory
 description: Flowering root with potent anti-nausea, anti-inflammatory, and blood sugar-lowering properties backed by clinical trials
-benefits:
+claims:
 - id: nausea-relief
   label: Relieves nausea in pregnancy, post-surgery, and chemo
 - id: anti-inflammatory
-  label: Reduces CRP, TNF-α, and osteoarthritis pain
+  label: Ginger lowers CRP, TNF-alpha, and osteoarthritis pain in trials
 - id: blood-sugar-control
-  label: Lowers fasting blood glucose and HbA1c in T2DM
+  label: Ginger lowers fasting glucose and HbA1c in type 2 diabetes trials
 - id: digestive-support
-  label: Improves gastric motility and IBS symptoms
+  label: Ginger improves gastric motility and can ease IBS symptoms
 benefitLevel: 5
 overallScore: 4
 credibility: moderate

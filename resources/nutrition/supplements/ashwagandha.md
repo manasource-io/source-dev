@@ -5,9 +5,9 @@ components:
 - withanolide
 - cortisol-modulation
 description: Adaptogenic herb used in Ayurvedic medicine that reduces cortisol, stress, and anxiety while supporting sleep quality
-benefits:
+claims:
 - id: cortisol-reduction
-  label: Significantly reduces circulating cortisol levels
+  label: Ashwagandha significantly lowers circulating cortisol in trials
 - id: stress-and-anxiety-relief
   label: Reduces perceived stress and anxiety scores in multiple RCTs
 - id: sleep-quality

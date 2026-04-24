@@ -2,15 +2,15 @@
 title: Avoid Refined Sugar
 inputType: score
 description: Reducing added and refined sugar intake lowers cardiovascular and all-cause mortality risk, protects metabolic and gut health, and removes one of the most pervasive drivers of chronic inflammation in the modern diet
-benefits:
+claims:
 - id: cardiovascular-health
   label: Higher total sugar and fructose intake linked to 9–10% increased CVD mortality
 - id: metabolic-health
   label: SSB consumption monotonically associated with T2D, hypertension, and CHD risk
 - id: gut-health
-  label: Excess sugar disrupts intestinal barrier integrity and drives gut microbiome dysbiosis
+  label: Excess sugar disrupts gut barrier integrity and microbial balance
 - id: inflammation
-  label: Reducing sugar lowers de novo lipogenesis, triglycerides, and systemic inflammatory markers
+  label: Reducing sugar lowers triglycerides, liver fat, and inflammation
 benefitLevel: 8
 overallScore: 7
 credibility: moderate

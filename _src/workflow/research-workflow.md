@@ -76,6 +76,8 @@ Typical updates include:
 
 - replacing weak references with better ones
 - improving frontmatter completeness
+- renaming legacy `benefits` frontmatter to `claims` when a touched file still uses it
+- tightening claim labels so each one stays within 50-80 characters
 - adding or correcting `components` for phase 1 food, supplement, and exercise resources
 - normalizing any `subCategory` values to singular form
 - clarifying benefits, caveats, or mechanism sections
@@ -102,6 +104,7 @@ Before concluding work, verify:
 - the resource still parses as valid markdown + frontmatter
 - phase 1 resources touched still satisfy the `components` contract
 - any `subCategory` values touched remain singular
+- ready-resource `claims` use stable IDs, matching body anchors, and 50-80 character labels
 - every new reference was actually checked
 - the sourcing notes match the resource changes
 - no raw lead artifact was mistaken for validated evidence
@@ -131,6 +134,7 @@ Rules, contracts, and operating docs belong here.
 - checked existing references before adding new ones
 - validated all new evidence directly
 - updated the publishable resource only after validation
+- ran the claim audit on touched resources
 - added or preserved `components` on any phase 1 resource touched
 - kept `subCategory` singular anywhere it is present
 - recorded provenance in `_src/sourcing/`

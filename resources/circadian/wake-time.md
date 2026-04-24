@@ -2,15 +2,15 @@
 title: Consistent Wake Time
 category: circadian
 description: Waking at the same time every day, including weekends, is the single most powerful behavioral anchor for circadian rhythm stability and a stronger predictor of longevity than sleep duration
-benefits:
+claims:
 - id: mortality-reduction
-  label: Sleep regularity predicts 20–48% lower all-cause mortality vs. irregular sleepers
+  label: Sleep regularity is linked to substantially lower all-cause mortality
 - id: circadian-anchoring
-  label: Fixed wake time stabilizes cortisol awakening response, melatonin onset, and sleep pressure
+  label: A fixed wake time stabilizes cortisol, melatonin, and sleep pressure
 - id: cognitive-protection
-  label: Regular sleep schedules associated with 26–53% lower dementia risk and better cognitive function
+  label: Regular sleep timing is linked to lower dementia risk and better cognition
 - id: cardiometabolic-health
-  label: Sleep irregularity linked to insulin resistance, hypertension, and cardiovascular events
+  label: Irregular sleep timing is linked to insulin resistance and hypertension
 benefitLevel: 7
 overallScore: 7
 credibility: strong

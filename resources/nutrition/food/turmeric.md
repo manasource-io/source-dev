@@ -6,7 +6,7 @@ components:
 - curcumin
 - anti-inflammatory
 description: Golden spice from the Curcuma longa root with potent anti-inflammatory and anti-cancer properties via curcumin, especially when paired with black pepper
-benefits:
+claims:
 - id: anti-inflammatory
   label: Curcumin inhibits NF-κB and pro-inflammatory cytokines at the molecular level
 - id: cancer-prevention

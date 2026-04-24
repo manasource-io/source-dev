@@ -5,7 +5,7 @@ components:
 - drug
 - mtor
 description: Prescription mTOR inhibitor with robust animal longevity data; used off-label for aging, human evidence is limited and emerging
-benefits:
+claims:
 - id: mtor-inhibition
   label: Inhibits mTORC1, promoting autophagy and mimicking caloric restriction
 - id: immune-function

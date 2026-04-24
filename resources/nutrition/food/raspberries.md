@@ -6,7 +6,7 @@ components:
 - ellagic-acid
 - fiber
 description: High-fiber berry rich in ellagic acid, a precursor to urolithins linked to mitophagy activation and anti-cancer effects
-benefits:
+claims:
 - id: mitophagy-activation
   label: Ellagic acid metabolizes into urolithins that activate cellular cleanup
 - id: cancer-prevention

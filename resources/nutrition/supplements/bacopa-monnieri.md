@@ -5,15 +5,15 @@ components:
 - bacoside
 - nootropic
 description: Ayurvedic herb containing bacosides that support memory recall, reduce stress reactivity, and protect neurons from oxidative damage
-benefits:
+claims:
 - id: memory-support
-  label: Improves memory free recall and learning
+  label: Bacopa improves free recall, learning, and memory consolidation
 - id: stress-reduction
-  label: Reduces stress reactivity and mental fatigue
+  label: Bacopa reduces stress reactivity and mental fatigue in trials
 - id: neuroprotection
   label: Antioxidant and anti-apoptotic effects in neural tissue
 - id: cognitive-speed
-  label: May improve speed of attention and processing
+  label: Bacopa may modestly improve attention speed and information processing
 benefitLevel: 5
 overallScore: 3
 credibility: emerging

@@ -5,13 +5,13 @@ components:
 - vitamin
 - fat-soluble
 description: Fat-soluble vitamin essential for bone health, immune regulation, and hormonal function; commonly deficient in modern populations
-benefits:
+claims:
 - id: mortality-reduction
-  label: Associated with reduced all-cause mortality risk
+  label: Vitamin D status is linked to lower all-cause mortality risk
 - id: bone-health
-  label: Maintains bone density and reduces fracture risk
+  label: Vitamin D helps maintain bone density and reduce fracture risk
 - id: immune-function
-  label: Regulates immune system response
+  label: Vitamin D helps regulate innate and adaptive immune responses
 - id: mood-support
   label: May reduce depression risk in deficient individuals
 - id: telomere-preservation

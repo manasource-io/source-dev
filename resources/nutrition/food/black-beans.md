@@ -7,15 +7,15 @@ components:
 - protein
 credibility: strong
 description: Fiber-dense legume with anthocyanin antioxidants, plant protein, and strong evidence for longevity and cardiometabolic health
-benefits:
+claims:
 - id: longevity-mortality
-  label: Reduced all-cause mortality
+  label: Higher legume intake is associated with lower all-cause mortality
 - id: cardiovascular-health
-  label: LDL cholesterol reduction
+  label: Black bean intake lowers LDL cholesterol in controlled feeding trials
 - id: blood-sugar-control
-  label: Blood sugar stabilization
+  label: Black beans help stabilize blood sugar and insulin response
 - id: gut-microbiome
-  label: Gut microbiome support
+  label: Black beans support gut microbiome diversity and regular bowel function
 benefitLevel: 8
 overallScore: 8
 lastResearched: '2026-04-09'

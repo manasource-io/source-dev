@@ -5,7 +5,7 @@ components:
 - endurance
 - weight-bearing
 description: High-intensity weight-bearing aerobic exercise with strong evidence for cardiovascular mortality reduction, achievable in daily environments
-benefits:
+claims:
 - id: cardiovascular-mortality
   label: 35% lower cardiovascular mortality risk; 20% lower CVD risk at 5+ flights/day
 - id: cardiorespiratory-fitness

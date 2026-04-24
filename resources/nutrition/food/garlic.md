@@ -6,11 +6,11 @@ components:
 - organosulfur
 - allicin
 description: Allium vegetable containing allicin and organosulfur compounds with evidence for blood pressure reduction, antimicrobial activity, and gut microbiome support
-benefits:
+claims:
 - id: cardiovascular-health
   label: Modestly reduces blood pressure and LDL cholesterol
 - id: antimicrobial
-  label: Exhibits antimicrobial and antifungal properties
+  label: Garlic shows antimicrobial and antifungal activity in studies
 - id: gut-health
   label: Acts as a prebiotic supporting beneficial gut bacteria
 - id: anti-inflammatory

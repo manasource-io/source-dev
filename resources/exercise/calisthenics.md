@@ -5,9 +5,9 @@ components:
 - strength
 - bodyweight
 description: Bodyweight resistance training using compound movements to build functional strength, muscular endurance, and coordination without equipment
-benefits:
+claims:
 - id: muscle-strength
-  label: Progressive calisthenics produces strength and hypertrophy comparable to free weights
+  label: Progressive calisthenics can match free weights for strength gains
 - id: functional-movement
   label: Compound bodyweight patterns develop coordination and joint stability
 - id: older-adult-health

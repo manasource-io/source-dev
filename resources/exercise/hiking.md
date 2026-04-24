@@ -5,7 +5,7 @@ components:
 - endurance
 - nature-exposure
 description: Sustained outdoor walking over natural terrain combining aerobic conditioning with nature exposure, balance challenge, and mental restoration
-benefits:
+claims:
 - id: cardiovascular-health
   label: Sustained aerobic exercise reduces blood pressure, CVD risk, and mortality
 - id: nature-mental-health

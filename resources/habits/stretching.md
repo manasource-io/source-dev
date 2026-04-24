@@ -2,7 +2,7 @@
 title: Stretch
 category: habit
 description: Daily flexibility practice that maintains joint range of motion, reduces chronic tightness, and supports movement quality throughout aging
-benefits:
+claims:
 - id: range-of-motion
   label: Maintains joint flexibility and counters tightness from prolonged sitting
 - id: movement-quality

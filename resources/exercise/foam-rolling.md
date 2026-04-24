@@ -5,7 +5,7 @@ components:
 - myofascial-release
 - range-of-motion
 description: Self-myofascial release technique using body weight on a roller to improve range of motion, reduce DOMS, and support tissue recovery
-benefits:
+claims:
 - id: range-of-motion
   label: Acute ROM improvements without reducing muscle strength or activation
 - id: doms-reduction

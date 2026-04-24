@@ -6,7 +6,7 @@ components:
 - sulforaphane
 - nrf2
 description: Family of vegetables including broccoli, kale, and Brussels sprouts that produce sulforaphane, a potent NRF2-activating compound
-benefits:
+claims:
 - id: sulforaphane-cancer-protection
   label: Sulforaphane activates cellular detox pathways and may reduce cancer risk
 - id: dna-damage-protection
