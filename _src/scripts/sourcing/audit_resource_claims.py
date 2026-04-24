@@ -13,6 +13,7 @@ HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
 TOP_LEVEL_KEY_RE = re.compile(r"^[A-Za-z][A-Za-z0-9]*:")
 MIN_LABEL_LENGTH = 30
 MAX_LABEL_LENGTH = 80
+BLOCK_SCALAR_TOKENS = {">", ">-", ">+", "|", "|-", "|+"}
 
 
 def iter_all_resources() -> list[Path]:
@@ -65,6 +66,7 @@ def parse_claims(lines: list[str]) -> tuple[list[dict[str, str]] | None, list[st
 
         claims: list[dict[str, str]] = []
         current: dict[str, str] | None = None
+        pending_multiline_key: str | None = None
 
         for child in lines[index + 1 :]:
             stripped = child.strip()
@@ -72,23 +74,31 @@ def parse_claims(lines: list[str]) -> tuple[list[dict[str, str]] | None, list[st
                 continue
             if TOP_LEVEL_KEY_RE.match(child):
                 break
-            if child.startswith("- "):
+            if child.startswith("  - "):
                 if current is not None:
                     claims.append(current)
                 current = {}
-                parsed = parse_key_value(child[2:].strip())
+                pending_multiline_key = None
+                parsed = parse_key_value(child[4:].strip())
                 if parsed:
                     key, value = parsed
-                    current[key] = value
+                    current[key] = "" if value in BLOCK_SCALAR_TOKENS else value
+                    pending_multiline_key = key if value in BLOCK_SCALAR_TOKENS else None
                 continue
-            if child.startswith("  "):
+            if child.startswith("      ") and pending_multiline_key:
+                current[pending_multiline_key] = normalize_label(
+                    f"{current[pending_multiline_key]} {stripped}".strip()
+                )
+                continue
+            if child.startswith("    "):
                 if current is None:
                     return None, ["claims entries must begin with a list item"]
                 parsed = parse_key_value(stripped)
                 if parsed is None:
                     return None, [f"invalid claims entry: {stripped}"]
                 key, value = parsed
-                current[key] = value
+                current[key] = "" if value in BLOCK_SCALAR_TOKENS else value
+                pending_multiline_key = key if value in BLOCK_SCALAR_TOKENS else None
                 continue
             return None, [f"invalid claims indentation: {child}"]
 
@@ -182,9 +192,10 @@ def validate_claims(path: Path) -> list[str]:
         return [str(exc)]
 
     errors: list[str] = []
-    readiness = parse_scalar(frontmatter, "readiness")
+    draft_value = parse_scalar(frontmatter, "draft")
     resource_title = parse_scalar(frontmatter, "title")
     title_phrases = build_title_phrases(resource_title or "")
+    is_draft = draft_value != "false"
 
     if has_legacy_benefits(frontmatter):
         errors.append("legacy benefits field present; use claims instead")
@@ -192,8 +203,8 @@ def validate_claims(path: Path) -> list[str]:
     claims, parse_errors = parse_claims(frontmatter)
     errors.extend(parse_errors)
 
-    if readiness == "ready" and claims is None:
-        errors.append("ready resources must declare claims")
+    if not is_draft and claims is None:
+        errors.append("published resources must declare claims")
 
     if claims is None:
         return errors
@@ -249,7 +260,7 @@ def main() -> int:
 
     if not failures:
         print(
-            f"All {len(resources)} resources use valid claims metadata and ready-resource claim labels stay within {MIN_LABEL_LENGTH}-{MAX_LABEL_LENGTH} characters."
+            f"All {len(resources)} resources use valid claims metadata and published-resource claim labels stay within {MIN_LABEL_LENGTH}-{MAX_LABEL_LENGTH} characters."
         )
         return 0
 

@@ -28,6 +28,8 @@ _src/sourcing/
         2026-04-09.md
 ```
 
+`resource-log.csv` tracks the most recent `updatedAt` value for each resource ID.
+
 ## Boundaries
 
 - `_src/sourcing/` is for validated editorial provenance

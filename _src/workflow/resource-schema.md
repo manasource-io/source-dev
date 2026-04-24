@@ -12,17 +12,17 @@ Each resource should be a markdown file with YAML frontmatter followed by a body
 
 Typical frontmatter fields include:
 
+- `draft`
 - `title`
 - `category`
 - `subCategory`
 - `components`
 - `description`
+- `score`
+- `updatedAt`
+- `createdAt`
+- `associations`
 - `claims`
-- `benefitLevel`
-- `overallScore`
-- `credibility`
-- `lastResearched`
-- `readiness`
 - `references`
 
 ## Frontmatter expectations
@@ -86,25 +86,63 @@ Rules:
 - each claim ID should have a matching body section anchor
 - `benefits` is a legacy field name and should not be used in new or updated files
 
-### `benefitLevel`
+### `draft`
 
-A rough estimate of the health impact of the resource itself.
+Optional boolean flag.
 
-### `overallScore`
+Rules:
 
-A synthesis score influenced by benefit magnitude and evidence strength.
+- place it at the top of the frontmatter, above `title`
+- default new documents to `true`
+- set `draft: false` only when the page is ready to publish as a public resource
 
-### `credibility`
+### `score`
 
-Should reflect the overall quality of the evidence supporting the resource.
+The single top-line editorial score for the resource.
 
-### `lastResearched`
+Use an integer score when the resource has enough evidence and editorial coverage to justify one.
+
+`score` replaces older multi-field rating patterns such as `benefitLevel`, `overallScore`, and `credibility`.
+
+### `updatedAt`
 
 Should be updated when the resource is materially reviewed or improved through sourcing work.
 
-### `readiness`
+### `createdAt`
 
-Tracks whether the page is ready as a publishable resource.
+Should reflect the document creation date.
+
+Use ISO date form (`YYYY-MM-DD`).
+
+### `associations`
+
+Associations are the standardized cross-resource effect tags that power shared UI rendering and comparison.
+
+Expected shape:
+
+```yaml
+associations:
+  - id: mortality
+    delta: -5
+    benefit: 5
+    trust: 3
+```
+
+Rules:
+
+- place `associations` above `claims`
+- use only standardized IDs from the shared registry in `data/src/associations.ts`
+- each entry must include `id`, `delta`, `benefit`, and `trust`
+- `delta` ranges from `-5` to `5`
+- `benefit` ranges from `0` to `5`
+- `trust` ranges from `1` to `5`
+- the old association key `level` has been renamed to `benefit`
+
+The shared association registry also assigns each ID a priority from `1` to `6`.
+
+- priorities `1` to `5` are the normal range
+- priority `6` is reserved for special associations that should be rendered above the others
+- `mortality` is the current highest-priority association
 
 ## References
 

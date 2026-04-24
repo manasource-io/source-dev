@@ -29,7 +29,7 @@ Select work from one or more of these queues:
 Prefer resources with either:
 
 - no sourcing history yet
-- the oldest last-reviewed dates
+- the oldest `updatedAt` dates in the freshness log
 - suspicious references
 - clear evidence gaps relative to their current claims
 
@@ -81,9 +81,13 @@ Typical updates include:
 - removing claim labels that restate the resource name
 - adding or correcting `components` for phase 1 food, supplement, and exercise resources
 - normalizing any `subCategory` values to singular form
+- adding or refining `associations` using the standardized ID registry
+- setting or revising `score` when the evidence warrants a top-line rating
+- confirming `draft` reflects whether the page is publishable
 - clarifying benefits, caveats, or mechanism sections
 - tightening unsupported language
-- updating `lastResearched`
+- updating `updatedAt`
+- preserving or backfilling `createdAt` when needed
 
 All public-facing claims should remain proportional to the evidence quality.
 
@@ -105,7 +109,8 @@ Before concluding work, verify:
 - the resource still parses as valid markdown + frontmatter
 - phase 1 resources touched still satisfy the `components` contract
 - any `subCategory` values touched remain singular
-- ready-resource `claims` use stable IDs, matching body anchors, labels that avoid the resource name, and 30-80 character labels
+- published resources (`draft: false`) use stable `claims` IDs, matching body anchors, labels that avoid the resource name, and 30-80 character labels
+- any touched `associations` use standardized IDs and valid `delta` / `benefit` / `trust` ranges
 - every new reference was actually checked
 - the sourcing notes match the resource changes
 - no raw lead artifact was mistaken for validated evidence

@@ -37,11 +37,11 @@ Each resource is a markdown file with frontmatter fields such as:
 - `components` (required for phase 1 food, supplement, and exercise resources)
 - `description`
 - `claims`
-- `benefitLevel`
-- `overallScore`
-- `credibility`
-- `lastResearched`
-- `readiness`
+- `score`
+- `updatedAt`
+- `createdAt`
+- `draft`
+- `associations`
 - `references`
 
 Run `python3 _src/scripts/sourcing/audit_resource_claims.py` after claim edits to
