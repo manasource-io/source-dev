@@ -13,7 +13,7 @@ claims:
 - id: functional-strength
   label: Builds lower and upper body strength, flexibility, and balance
 - id: mental-health
-  label: Reduces anxiety; rhythmic swimming supports stress reduction
+  label: Reduces anxiety; rhythmic movement also supports stress reduction
 benefitLevel: 6
 overallScore: 5
 credibility: moderate

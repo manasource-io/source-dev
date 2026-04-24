@@ -14,7 +14,7 @@ claims:
 - id: micronutrient-density
   label: Exceptional source of magnesium, folate, and manganese
 - id: blood-sugar-stability
-  label: Quinoa's low glycemic load supports steadier blood glucose control
+  label: Low glycemic load supports steadier blood glucose control
 benefitLevel: 6
 overallScore: 6
 credibility: strong

@@ -8,7 +8,7 @@ components:
 description: Allium vegetable rich in quercetin and organosulfur compounds with evidence for reducing colorectal and breast cancer risk and supporting cardiovascular health
 claims:
 - id: cancer-prevention
-  label: Onion sulfur compounds and quercetin support detox and apoptosis
+  label: Sulfur compounds and quercetin support detox and apoptosis
 - id: cardiovascular-health
   label: Quercetin and quercetin glycosides modestly reduce blood pressure and LDL
 - id: gut-prebiotic

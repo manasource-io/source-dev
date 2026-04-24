@@ -14,7 +14,7 @@ claims:
 - id: gut-microbiome
   label: Prebiotic polyphenols enrich beneficial gut bacteria and produce urolithin A
 - id: anti-inflammatory
-  label: Walnuts show unusually high antioxidant activity among common nuts
+  label: Show unusually high antioxidant activity among common nuts
 - id: cancer-prevention
   label: Omega-3s and polyphenols suppress tumor growth and reduce cancer biomarkers
 benefitLevel: 8

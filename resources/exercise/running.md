@@ -13,7 +13,7 @@ claims:
 - id: mental-health
   label: Reduces anxiety and depression; runners' high is real (endocannabinoid-mediated)
 - id: accessibility
-  label: Very low weekly running doses still deliver meaningful mortality benefit
+  label: Very low weekly doses still deliver meaningful mortality benefit
 benefitLevel: 8
 overallScore: 8
 credibility: strong

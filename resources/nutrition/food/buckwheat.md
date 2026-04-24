@@ -10,9 +10,9 @@ claims:
 - id: blood-sugar-control
   label: Lowers post-meal blood glucose and insulin response
 - id: cardiovascular-health
-  label: Buckwheat lowers total cholesterol and triglycerides in trials
+  label: Lowers total cholesterol and triglycerides in trials
 - id: antioxidant-protection
-  label: Buckwheat is rich in rutin, a flavonoid with antioxidant activity
+  label: Rich in rutin, a flavonoid with antioxidant activity
 - id: anti-inflammatory
   label: Reduces inflammatory markers including IL-6 and TNF
 benefitLevel: 6

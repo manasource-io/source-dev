@@ -8,7 +8,7 @@ components:
 description: Foods transformed by live microorganisms, kefir, kimchi, sauerkraut, miso, yogurt, that diversify the gut microbiome
 claims:
 - id: gut-microbiome
-  label: Fermented foods increase gut microbial diversity and abundance
+  label: Increase gut microbial diversity and abundance in trials
 - id: immune-health
   label: Reduces inflammatory proteins and supports immune tolerance
 - id: mental-wellbeing

@@ -11,11 +11,11 @@ claims:
 - id: longevity-mortality
   label: Higher legume intake is associated with lower all-cause mortality
 - id: cardiovascular-health
-  label: Black bean intake lowers LDL cholesterol in controlled feeding trials
+  label: Lowers LDL cholesterol in controlled feeding trials
 - id: blood-sugar-control
-  label: Black beans help stabilize blood sugar and insulin response
+  label: Help stabilize blood sugar and insulin response
 - id: gut-microbiome
-  label: Black beans support gut microbiome diversity and regular bowel function
+  label: Support gut microbiome diversity and regular bowel function
 benefitLevel: 8
 overallScore: 8
 lastResearched: '2026-04-09'

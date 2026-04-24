@@ -13,7 +13,7 @@ claims:
 - id: balance-and-coordination
   label: Varied terrain develops proprioception, ankle stability, and balance
 - id: social-wellbeing
-  label: Group hiking builds community, trust, and reduces health inequalities
+  label: Group outings build community, trust, and reduce health inequalities
 benefitLevel: 6
 overallScore: 5
 credibility: moderate

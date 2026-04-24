@@ -8,7 +8,7 @@ components:
 description: Fiber-rich beans, lentils, chickpeas, and peas that support longevity through improved cardiometabolic health, satiety, and dietary quality
 claims:
 - id: mortality-reduction
-  label: Higher legume intake is linked to lower all-cause and cardiovascular mortality
+  label: Higher intake is linked to lower all-cause and cardiovascular mortality
 - id: blood-sugar-stability
   label: Slow-digesting carbohydrates and fiber improve glycemic control
 - id: cholesterol-lowering

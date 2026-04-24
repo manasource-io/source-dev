@@ -14,7 +14,7 @@ claims:
 - id: blood-pressure
   label: Flavanols lower blood pressure, especially in hypertensive adults
 - id: insulin-sensitivity
-  label: Cacao improves insulin sensitivity and blood lipid markers in trials
+  label: Improves insulin sensitivity and blood lipid markers in trials
 - id: cognitive-health
   label: May reverse age-related memory decline via hippocampal flavanol activity
 benefitLevel: 8

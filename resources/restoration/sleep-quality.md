@@ -6,7 +6,7 @@ claims:
 - id: all-cause-mortality
   label: Optimal 7–8hrs reduces mortality; short and long sleep both elevate risk 14–34%
 - id: cardiovascular-health
-  label: Poor sleep quality associated with 44% higher coronary heart disease risk
+  label: Poor sleep is associated with 44% higher coronary heart disease risk
 - id: metabolic-health
   label: Inadequate sleep drives insulin resistance, obesity, and type 2 diabetes
 - id: cognitive-recovery

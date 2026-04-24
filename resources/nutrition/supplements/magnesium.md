@@ -15,7 +15,7 @@ claims:
 - id: bone-health
   label: Supports bone density and reduces osteoporosis risk
 - id: muscle-function
-  label: Magnesium reduces muscle cramps and supports exercise recovery
+  label: Reduces muscle cramps and supports exercise recovery
 benefitLevel: 8
 overallScore: 8
 credibility: strong

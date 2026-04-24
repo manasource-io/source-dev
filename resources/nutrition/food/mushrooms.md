@@ -8,13 +8,13 @@ components:
 description: Beta-glucan and ergothioneine-rich fungi with evidence for immune modulation, cancer treatment adjunct support, and unique mitochondria-targeted antioxidant protection
 claims:
 - id: immune-modulation
-  label: Mushroom beta-glucans activate innate immune cells and NK cells
+  label: Beta-glucans activate innate immune cells and NK cells
 - id: cancer-adjunct
   label: Lentinan and beta-glucans improve cancer treatment outcomes as adjunct therapy
 - id: antioxidant
-  label: Mushrooms provide ergothioneine, a rare mitochondria-focused antioxidant
+  label: Provide ergothioneine, a rare mitochondria-focused antioxidant
 - id: cognitive-support
-  label: Hericenones in lion's mane mushrooms stimulate nerve growth factor production
+  label: Hericenones in lion's mane can stimulate nerve growth factor production
 benefitLevel: 7
 overallScore: 6
 credibility: moderate

@@ -9,7 +9,7 @@ claims:
 - id: gut-health
   label: Reduces risk of antibiotic-associated diarrhea and IBS symptoms
 - id: immune-support
-  label: Probiotics enhance immune resilience and natural killer activity
+  label: Enhance immune resilience and natural killer activity
 - id: microbiome-diversity
   label: Increases beneficial bacteria abundance and microbial diversity
 - id: inflammation-reduction

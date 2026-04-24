@@ -11,7 +11,7 @@ claims:
 - id: sarcopenia-prevention
   label: Helps preserve lean mass and strength in aging adults
 - id: satiety
-  label: Whey protein supports appetite control and lean body composition
+  label: Supports appetite control and lean body composition
 benefitLevel: 8
 overallScore: 8
 credibility: strong

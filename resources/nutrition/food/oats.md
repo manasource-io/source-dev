@@ -12,7 +12,7 @@ claims:
 - id: blood-sugar-control
   label: Soluble fiber slows digestion and reduces post-meal glucose response
 - id: gut-health
-  label: Oat fiber supports fullness, bowel regularity, and gut bacteria
+  label: Soluble fiber supports fullness, bowel regularity, and gut bacteria
 - id: anti-inflammatory-compounds
   label: Avenanthramides add antioxidant and anti-inflammatory activity
 benefitLevel: 7

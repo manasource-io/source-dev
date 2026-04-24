@@ -13,7 +13,7 @@ claims:
 - id: anxiety-reduction
   label: Reduces anxiety and mitigates caffeine-induced overstimulation
 - id: sleep-support
-  label: L-theanine may improve sleep quality and reduce stress-related insomnia
+  label: May improve sleep quality and reduce stress-related insomnia
 benefitLevel: 5
 overallScore: 4
 credibility: moderate

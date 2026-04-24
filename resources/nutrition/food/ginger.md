@@ -10,11 +10,11 @@ claims:
 - id: nausea-relief
   label: Relieves nausea in pregnancy, post-surgery, and chemo
 - id: anti-inflammatory
-  label: Ginger lowers CRP, TNF-alpha, and osteoarthritis pain in trials
+  label: Lowers CRP, TNF-alpha, and osteoarthritis pain in trials
 - id: blood-sugar-control
-  label: Ginger lowers fasting glucose and HbA1c in type 2 diabetes trials
+  label: Lowers fasting glucose and HbA1c in type 2 diabetes trials
 - id: digestive-support
-  label: Ginger improves gastric motility and can ease IBS symptoms
+  label: Improves gastric motility and can ease IBS symptoms
 benefitLevel: 5
 overallScore: 4
 credibility: moderate

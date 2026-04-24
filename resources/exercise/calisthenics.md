@@ -7,13 +7,13 @@ components:
 description: Bodyweight resistance training using compound movements to build functional strength, muscular endurance, and coordination without equipment
 claims:
 - id: muscle-strength
-  label: Progressive calisthenics can match free weights for strength gains
+  label: Can match free weights for strength and hypertrophy gains
 - id: functional-movement
   label: Compound bodyweight patterns develop coordination and joint stability
 - id: older-adult-health
   label: Builds muscle mass, mobility, bone density, and reduces depression and fall risk
 - id: sedentary-break
-  label: Micro-dose calisthenics breaks throughout the day improve strength and balance
+  label: Micro-dose movement breaks can improve strength and balance
 benefitLevel: 7
 overallScore: 6
 credibility: moderate

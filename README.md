@@ -46,7 +46,8 @@ Each resource is a markdown file with frontmatter fields such as:
 
 Run `python3 _src/scripts/sourcing/audit_resource_claims.py` after claim edits to
 verify the repo is using `claims`, that ready resources still map claims to body
-anchors, and that every claim label stays within the 50-80 character contract.
+anchors, that claim labels avoid repeating the resource name, and that every
+claim label stays within the 30-80 character contract.
 
 ### Internal authoring infrastructure
 

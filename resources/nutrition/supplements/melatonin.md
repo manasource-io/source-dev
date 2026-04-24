@@ -7,7 +7,7 @@ components:
 description: Hormone that regulates the sleep-wake cycle, most effective for circadian disruption such as jet lag, shift work, and delayed sleep phase
 claims:
 - id: sleep-onset
-  label: Melatonin shortens time to fall asleep in randomized trials
+  label: Shortens time to fall asleep in randomized trials
 - id: circadian-rhythm
   label: Corrects jet lag, shift work, and delayed sleep phase
 - id: cognitive-aging

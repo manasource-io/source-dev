@@ -81,7 +81,8 @@ claims:
 Rules:
 
 - use stable kebab-case IDs
-- keep each `label` between 50 and 80 characters inclusive
+- keep each `label` between 30 and 80 characters inclusive
+- do not repeat the resource title inside the claim label
 - each claim ID should have a matching body section anchor
 - `benefits` is a legacy field name and should not be used in new or updated files
 

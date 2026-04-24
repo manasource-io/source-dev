@@ -77,7 +77,8 @@ Typical updates include:
 - replacing weak references with better ones
 - improving frontmatter completeness
 - renaming legacy `benefits` frontmatter to `claims` when a touched file still uses it
-- tightening claim labels so each one stays within 50-80 characters
+- tightening claim labels so each one stays within 30-80 characters
+- removing claim labels that restate the resource name
 - adding or correcting `components` for phase 1 food, supplement, and exercise resources
 - normalizing any `subCategory` values to singular form
 - clarifying benefits, caveats, or mechanism sections
@@ -104,7 +105,7 @@ Before concluding work, verify:
 - the resource still parses as valid markdown + frontmatter
 - phase 1 resources touched still satisfy the `components` contract
 - any `subCategory` values touched remain singular
-- ready-resource `claims` use stable IDs, matching body anchors, and 50-80 character labels
+- ready-resource `claims` use stable IDs, matching body anchors, labels that avoid the resource name, and 30-80 character labels
 - every new reference was actually checked
 - the sourcing notes match the resource changes
 - no raw lead artifact was mistaken for validated evidence

@@ -10,7 +10,7 @@ claims:
 - id: cardiovascular-health
   label: Modestly reduces blood pressure and LDL cholesterol
 - id: antimicrobial
-  label: Garlic shows antimicrobial and antifungal activity in studies
+  label: Shows antimicrobial and antifungal activity in studies
 - id: gut-health
   label: Acts as a prebiotic supporting beneficial gut bacteria
 - id: anti-inflammatory

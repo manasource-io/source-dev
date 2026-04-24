@@ -7,7 +7,7 @@ components:
 description: Mind-body exercise combining postures, breathing, and meditation with strong evidence for mental health, flexibility, and cardiovascular benefit
 claims:
 - id: mental-health
-  label: Yoga reduces depression, anxiety, and perceived stress in trials
+  label: Reduces depression, anxiety, and perceived stress in trials
 - id: flexibility-and-mobility
   label: Improves range of motion, balance, and functional movement
 - id: cardiovascular-markers

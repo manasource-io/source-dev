@@ -7,7 +7,7 @@ components:
 description: Conditionally essential amino acid taken before bed to improve sleep onset, sleep quality, and next-day alertness via core body temperature reduction
 claims:
 - id: sleep-quality
-  label: Glycine improves sleep onset and subjective sleep quality in trials
+  label: Improves sleep onset and subjective sleep quality in trials
 - id: collagen-synthesis
   label: Supports collagen production for joints, skin, and tendons
 - id: metabolic-health

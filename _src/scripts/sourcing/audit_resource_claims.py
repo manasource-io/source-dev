@@ -11,7 +11,7 @@ CLAIM_ID_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 EXPLICIT_ANCHOR_RE = re.compile(r"\{#([a-z0-9]+(?:-[a-z0-9]+)*)\}")
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
 TOP_LEVEL_KEY_RE = re.compile(r"^[A-Za-z][A-Za-z0-9]*:")
-MIN_LABEL_LENGTH = 50
+MIN_LABEL_LENGTH = 30
 MAX_LABEL_LENGTH = 80
 
 
@@ -125,6 +125,46 @@ def normalize_label(value: str) -> str:
     return " ".join(value.split())
 
 
+def normalize_phrase(value: str) -> str:
+    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9]+", " ", value.lower())).strip()
+
+
+def build_title_phrases(title: str) -> set[str]:
+    normalized_title = normalize_phrase(title)
+    if not normalized_title:
+        return set()
+
+    phrases = {normalized_title}
+    tokens = normalized_title.split()
+    last = tokens[-1]
+
+    singular_last = singularize_token(last)
+    if singular_last != last:
+        phrases.add(" ".join([*tokens[:-1], singular_last]))
+
+    plural_last = pluralize_token(last)
+    if plural_last != last:
+        phrases.add(" ".join([*tokens[:-1], plural_last]))
+
+    return {phrase for phrase in phrases if phrase}
+
+
+def singularize_token(token: str) -> str:
+    if token.endswith("ies") and len(token) > 3:
+        return token[:-3] + "y"
+    if token.endswith("s") and not token.endswith("ss") and len(token) > 1:
+        return token[:-1]
+    return token
+
+
+def pluralize_token(token: str) -> str:
+    if token.endswith("y") and len(token) > 1 and token[-2] not in "aeiou":
+        return token[:-1] + "ies"
+    if token.endswith("s"):
+        return token
+    return token + "s"
+
+
 def slugify(value: str) -> str:
     return re.sub(r"^-+|-+$", "", re.sub(r"[^a-z0-9]+", "-", value.lower()))
 
@@ -143,6 +183,8 @@ def validate_claims(path: Path) -> list[str]:
 
     errors: list[str] = []
     readiness = parse_scalar(frontmatter, "readiness")
+    resource_title = parse_scalar(frontmatter, "title")
+    title_phrases = build_title_phrases(resource_title or "")
 
     if has_legacy_benefits(frontmatter):
         errors.append("legacy benefits field present; use claims instead")
@@ -179,6 +221,12 @@ def validate_claims(path: Path) -> list[str]:
         if not label:
             errors.append(f"{claim_name} is missing a label")
             continue
+
+        normalized_label = normalize_phrase(label)
+        if any(f" {phrase} " in f" {normalized_label} " for phrase in title_phrases):
+            errors.append(
+                f"{claim_name} repeats the resource title; rewrite the claim without naming the resource"
+            )
 
         label_length = len(label)
         if label_length < MIN_LABEL_LENGTH or label_length > MAX_LABEL_LENGTH:

@@ -9,7 +9,7 @@ claims:
 - id: functional-strength
   label: Develops grip, upper body, and full kinetic chain strength through climbing
 - id: mental-health
-  label: Bouldering therapy comparable to CBT for depression; strong anxiety reduction
+  label: Comparable to CBT for depression with strong anxiety reduction
 - id: problem-solving
   label: Route-finding engages spatial reasoning, focus, and creative thinking
 - id: body-awareness
