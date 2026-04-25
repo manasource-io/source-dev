@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Resistance Bands
+code: ERS2
 category: strength
 components:
   - strength

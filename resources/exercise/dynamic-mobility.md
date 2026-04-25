@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Dynamic Mobility Drills
+code: EMM1
 category: mobility
 components:
   - movement-prep

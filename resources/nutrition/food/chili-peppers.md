@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Chili Peppers
+code: FSC1
 category: food
 subCategory: spice
 components:

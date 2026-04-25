@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Rapamycin
+code: SDD1
 category: supplement
 components:
   - drug

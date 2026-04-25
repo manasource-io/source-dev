@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Chia Seeds
+code: FNF1
 category: snack
 subCategory: seed-nut
 components:

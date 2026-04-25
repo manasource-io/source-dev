@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Raspberries
+code: FBE2
 category: food
 subCategory: fruit
 components:

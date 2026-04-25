@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Quercetin
+code: SCV1
 category: supplement
 components:
   - flavonoid

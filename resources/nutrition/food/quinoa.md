@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Quinoa
+code: FGP1
 category: food
 subCategory: grain
 components:

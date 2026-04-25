@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Lemon Juice
+code: FDC1
 category: drink
 subCategory: juice
 components:

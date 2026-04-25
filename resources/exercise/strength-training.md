@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Strength Training
+code: ERS4
 category: strength
 components:
   - strength

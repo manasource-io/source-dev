@@ -1,6 +1,7 @@
 ---
 draft: false
 title: L-Theanine
+code: SCR1
 category: supplement
 components:
   - relaxation

@@ -1,6 +1,7 @@
 ---
 draft: true
 title: Social Connection
+code: HDS1
 category: habit
 description: >-
   Deliberate time spent nurturing relationships with friends, family, or

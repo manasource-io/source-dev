@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Cruciferous Vegetables
+code: FVS1
 category: food
 subCategory: vegetable
 components:

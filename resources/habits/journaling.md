@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Write in journal
+code: HDJ1
 category: habit
 description: >-
   Regular expressive or gratitude writing practice that reduces anxiety and PTSD

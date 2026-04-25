@@ -1,6 +1,7 @@
 ---
 draft: true
 title: Black Pepper
+code: FSP1
 category: food
 subCategory: spice
 components:

@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Walnuts
+code: FNO2
 category: food
 subCategory: seed-nut
 components:

@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Apples
+code: FBP1
 category: snack
 subCategory: fruit
 components:

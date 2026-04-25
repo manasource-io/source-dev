@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Foam Rolling
+code: EMY1
 category: mobility
 components:
   - myofascial-release

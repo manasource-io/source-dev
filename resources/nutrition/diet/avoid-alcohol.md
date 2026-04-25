@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Alcohol
+code: DAL1
 category: diet
 description: >-
   Eliminating alcohol to reduce cancer risk, liver damage, sleep disruption, and

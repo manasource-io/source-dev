@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Vitamin D
+code: SNV1
 category: supplement
 components:
   - vitamin

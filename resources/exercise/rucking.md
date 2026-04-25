@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Rucking
+code: ECL1
 category: cardio
 components:
   - load-bearing

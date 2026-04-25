@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Black Beans
+code: FLF1
 category: food
 subCategory: legume
 components:

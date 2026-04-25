@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Lion's Mane Mushroom
+code: SCN1
 category: supplement
 components:
   - neurotrophic

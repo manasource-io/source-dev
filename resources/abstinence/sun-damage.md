@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Avoid Sun Damage
+code: ARU1
 category: abstinence
 description: >-
   Protecting skin from sunburns and excessive unprotected UV exposure to prevent

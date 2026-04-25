@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Magnesium
+code: SNE1
 category: supplement
 components:
   - electrolyte

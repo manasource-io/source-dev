@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Omega-3 Fatty Acids
+code: SLF1
 category: supplement
 components:
   - fatty-acid

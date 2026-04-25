@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Sprinting
+code: ECA1
 category: cardio
 components:
   - anaerobic

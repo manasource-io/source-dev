@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Stair Climbing
+code: ECE6
 category: cardio
 components:
   - endurance

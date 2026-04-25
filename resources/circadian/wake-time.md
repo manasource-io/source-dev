@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Consistent Wake Time
+code: CRW1
 category: circadian
 description: >-
   Waking at the same time every day, including weekends, is the single most

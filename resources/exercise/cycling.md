@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Cycling
+code: ECE2
 category: cardio
 components:
   - endurance

@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Collagen
+code: SPT1
 category: supplement
 components:
   - connective-tissue

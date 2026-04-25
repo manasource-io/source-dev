@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Sunlight Exposure
+code: HDU1
 category: habit
 description: >-
   Daily morning sunlight is the most powerful natural signal for synchronizing

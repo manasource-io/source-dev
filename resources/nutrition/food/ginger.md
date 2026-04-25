@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Ginger
+code: FVG1
 category: food
 subCategory: vegetable
 components:

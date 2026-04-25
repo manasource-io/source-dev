@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Rowing
+code: ECE4
 category: cardio
 components:
   - endurance

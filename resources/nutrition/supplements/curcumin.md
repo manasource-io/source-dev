@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Curcumin (Turmeric Extract)
+code: SCI1
 category: supplement
 components:
   - anti-inflammatory

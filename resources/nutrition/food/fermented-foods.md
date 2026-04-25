@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Fermented Foods
+code: FOK1
 category: food
 subCategory: other
 components:

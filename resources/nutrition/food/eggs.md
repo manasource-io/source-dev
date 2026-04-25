@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Eggs
+code: FOH1
 category: food
 subCategory: other
 components:

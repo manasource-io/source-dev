@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Avocado
+code: FBM1
 category: food
 subCategory: fruit
 components:

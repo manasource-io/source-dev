@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Rhodiola Rosea
+code: SBS1
 category: supplement
 components:
   - salidroside

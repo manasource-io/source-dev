@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Flaxseeds
+code: FNO1
 category: snack
 subCategory: seed-nut
 components:

@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Sweet Potatoes
+code: FVC2
 category: food
 subCategory: vegetable
 components:

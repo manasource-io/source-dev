@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Creatine Monohydrate
+code: SCC1
 category: supplement
 components:
   - phosphocreatine

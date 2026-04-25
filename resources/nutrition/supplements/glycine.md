@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Glycine
+code: SCL1
 category: supplement
 components:
   - sleep-regulation

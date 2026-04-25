@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Blueberries
+code: FBA1
 category: food
 subCategory: fruit
 components:

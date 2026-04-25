@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Nuts
+code: FNU1
 category: food
 subCategory: seed-nut
 components:

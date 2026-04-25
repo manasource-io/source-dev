@@ -1,6 +1,7 @@
 ---
 draft: true
 title: Red Berries (deprecated)
+code: FBA2
 category: food
 subCategory: fruit
 components:

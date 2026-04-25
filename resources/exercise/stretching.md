@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Stretching
+code: EMF2
 category: mobility
 components:
   - flexibility

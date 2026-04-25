@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Garlic
+code: FVS2
 category: food
 subCategory: vegetable
 components:

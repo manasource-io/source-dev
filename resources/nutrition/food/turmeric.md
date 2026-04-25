@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Turmeric
+code: FSU1
 category: food
 subCategory: spice
 components:

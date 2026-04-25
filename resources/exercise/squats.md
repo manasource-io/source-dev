@@ -1,6 +1,7 @@
 ---
 draft: true
 title: Squats
+code: ERS3
 category: strength
 components:
   - strength

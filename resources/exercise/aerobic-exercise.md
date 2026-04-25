@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Aerobic Exercise
+code: ECE1
 category: cardio
 components:
   - endurance

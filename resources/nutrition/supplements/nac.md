@@ -1,6 +1,7 @@
 ---
 draft: false
 title: NAC (N-Acetyl-Cysteine)
+code: SCH1
 category: supplement
 components:
   - glutathione

@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Green Tea
+code: FOT1
 category: drink
 subCategory: other
 components:

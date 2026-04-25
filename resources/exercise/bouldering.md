@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Bouldering
+code: ERG1
 category: strength
 components:
   - grip-strength

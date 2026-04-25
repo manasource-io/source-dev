@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Mindfulness Meditation
+code: WEM1
 category: wellbeing
 description: >-
   A structured mental training practice with robust evidence for reducing

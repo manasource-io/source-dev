@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Legumes
+code: FLF2
 category: food
 subCategory: legume
 components:

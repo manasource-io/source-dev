@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Psyllium Husk
+code: SFF1
 category: supplement
 components:
   - soluble-fiber

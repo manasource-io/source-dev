@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Probiotics
+code: SGP1
 category: supplement
 components:
   - probiotic

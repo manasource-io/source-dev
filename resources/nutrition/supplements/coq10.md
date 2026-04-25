@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Coenzyme Q10 (CoQ10)
+code: SCQ1
 category: supplement
 components:
   - mitochondrial
