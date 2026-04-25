@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Fatty Fish
+code: FAO1
 category: food
 subCategory: protein
 components:

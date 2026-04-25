@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Walking
+code: ECE8
 category: cardio
 components:
   - endurance

@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Mushrooms
+code: FVB1
 category: food
 subCategory: vegetable
 components:

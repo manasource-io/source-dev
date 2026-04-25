@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Jump Rope
+code: ECB2
 category: cardio
 components:
   - coordination

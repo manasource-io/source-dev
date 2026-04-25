@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Taurine
+code: SCO1
 category: supplement
 components:
   - osmolyte

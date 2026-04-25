@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Melatonin
+code: SCC2
 category: supplement
 components:
   - circadian

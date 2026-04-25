@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Pumpkin
+code: FVC1
 category: food
 subCategory: vegetable
 components:

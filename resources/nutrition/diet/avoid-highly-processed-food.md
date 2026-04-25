@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Avoid Highly Processed Food
+code: DAP1
 category: diet
 description: >-
   Ultra-processed foods (UPFs) are independently linked to 15% higher all-cause

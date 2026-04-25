@@ -1,6 +1,7 @@
 ---
 draft: true
 title: Crunches
+code: ERE1
 category: strength
 components:
   - core-endurance

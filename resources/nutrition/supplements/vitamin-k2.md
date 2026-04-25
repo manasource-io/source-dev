@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Vitamin K2
+code: SNV2
 category: supplement
 components:
   - vitamin

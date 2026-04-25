@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Whey Protein
+code: SPP1
 category: supplement
 components:
   - muscle-protein

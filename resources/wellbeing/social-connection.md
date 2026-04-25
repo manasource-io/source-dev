@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Social Connection
+code: WES1
 category: wellbeing
 description: >-
   The quality and quantity of relationships with other people, one of the most

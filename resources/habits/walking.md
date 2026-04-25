@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Go for a walk
+code: HDW1
 category: habit
 description: >-
   Daily walking habit with dose-response mortality benefits starting at 3000

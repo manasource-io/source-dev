@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Stretch
+code: HDT1
 category: habit
 description: >-
   Daily flexibility practice that maintains joint range of motion, reduces

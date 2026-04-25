@@ -1,6 +1,7 @@
 ---
 draft: true
 title: Lunges
+code: ERN1
 category: strength
 components:
   - unilateral-strength

@@ -1,6 +1,7 @@
 ---
 draft: true
 title: Push-ups
+code: ERJ1
 category: strength
 components:
   - pressing-strength

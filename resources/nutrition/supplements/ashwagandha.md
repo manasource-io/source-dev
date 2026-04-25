@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Ashwagandha
+code: SBW1
 category: supplement
 components:
   - withanolide

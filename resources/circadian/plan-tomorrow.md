@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Plan Tomorrow
+code: CRP1
 category: circadian
 description: >-
   Writing a concrete to-do list for the next day before bed reduces pre-sleep

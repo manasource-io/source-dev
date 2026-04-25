@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Swimming
+code: ECE7
 category: cardio
 components:
   - endurance

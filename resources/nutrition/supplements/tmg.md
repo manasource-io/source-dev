@@ -1,6 +1,7 @@
 ---
 draft: false
 title: TMG (Trimethylglycine)
+code: SCM1
 category: supplement
 components:
   - methylation

@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Sauna Usage
+code: ETH1
 category: misc
 components:
   - heat

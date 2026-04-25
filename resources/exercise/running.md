@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Running
+code: ECE5
 category: cardio
 components:
   - endurance

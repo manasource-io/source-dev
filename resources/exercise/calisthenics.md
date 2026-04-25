@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Calisthenics
+code: ERS1
 category: strength
 components:
   - strength

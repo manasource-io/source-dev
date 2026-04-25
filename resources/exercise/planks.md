@@ -1,6 +1,7 @@
 ---
 draft: true
 title: Planks
+code: ERC1
 category: strength
 components:
   - core-stability

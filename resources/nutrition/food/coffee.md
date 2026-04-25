@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Coffee
+code: FOC1
 category: drink
 subCategory: other
 components:

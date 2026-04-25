@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Scrolling Abstinence
+code: ARS1
 category: abstinence
 description: >-
   Freedom from compulsive doomscrolling and social media feeds, reducing

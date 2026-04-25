@@ -1,6 +1,7 @@
 ---
 draft: false
 title: High-Intensity Interval Training (HIIT)
+code: ECV1
 category: cardio
 components:
   - vo2max

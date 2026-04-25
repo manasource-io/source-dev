@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Hiking
+code: ECE3
 category: cardio
 components:
   - endurance

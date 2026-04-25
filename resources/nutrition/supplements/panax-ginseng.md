@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Panax Ginseng
+code: SBG1
 category: supplement
 components:
   - ginsenoside

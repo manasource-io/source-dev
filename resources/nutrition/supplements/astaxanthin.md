@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Astaxanthin
+code: SCA1
 category: supplement
 components:
   - antioxidant

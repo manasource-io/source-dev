@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Fasting
+code: DTF1
 category: diet
 description: >-
   Time-restricted eating and periodic fasting improve insulin sensitivity,

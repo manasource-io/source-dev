@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Dancing
+code: ECB1
 category: cardio
 components:
   - coordination

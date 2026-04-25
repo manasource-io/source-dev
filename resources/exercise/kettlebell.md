@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Kettlebell Training
+code: ERP2
 category: strength
 components:
   - power

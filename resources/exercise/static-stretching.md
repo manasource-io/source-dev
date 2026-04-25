@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Static Stretching
+code: EMF1
 category: mobility
 components:
   - flexibility

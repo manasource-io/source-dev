@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Infrared Light Therapy
+code: EVR1
 category: misc
 components:
   - recovery

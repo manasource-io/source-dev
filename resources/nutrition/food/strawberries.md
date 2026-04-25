@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Strawberries
+code: FBV1
 category: food
 subCategory: fruit
 components:

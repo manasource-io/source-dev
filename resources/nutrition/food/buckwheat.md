@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Buckwheat
+code: FGR1
 category: food
 subCategory: grain
 components:

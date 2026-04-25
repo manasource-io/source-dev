@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Cranberries
+code: FBP2
 category: food
 subCategory: fruit
 components:

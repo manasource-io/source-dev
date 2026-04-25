@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Beets
+code: FVN1
 category: food
 subCategory: vegetable
 components:

@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Bacopa Monnieri
+code: SBB1
 category: supplement
 components:
   - bacoside

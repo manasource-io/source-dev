@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Pomegranate
+code: FBE1
 category: snack
 subCategory: fruit
 components:

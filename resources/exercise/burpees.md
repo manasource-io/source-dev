@@ -1,6 +1,7 @@
 ---
 draft: true
 title: Burpees
+code: ERP1
 category: strength
 components:
   - power

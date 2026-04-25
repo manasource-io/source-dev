@@ -1,6 +1,7 @@
 ---
 draft: true
 title: Pull-ups
+code: ERU1
 category: strength
 components:
   - pulling-strength

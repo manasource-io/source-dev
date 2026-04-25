@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Oats
+code: FGF1
 category: food
 subCategory: grain
 components:

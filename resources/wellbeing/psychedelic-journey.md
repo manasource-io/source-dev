@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Psychedelic Journey Session
+code: WEP1
 category: wellbeing
 description: >-
   Intentional psilocybin session with deliberate set, setting, and integration

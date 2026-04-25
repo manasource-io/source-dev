@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Contact with Nature
+code: WEN1
 category: wellbeing
 description: >-
   Regular exposure to natural environments measurably lowers cortisol, blood

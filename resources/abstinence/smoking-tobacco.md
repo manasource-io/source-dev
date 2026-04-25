@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Smoking Tobacco
+code: ART1
 category: abstinence
 description: >-
   Tobacco smoking is the single largest modifiable cause of premature death

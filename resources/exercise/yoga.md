@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Yoga
+code: EMF3
 category: mobility
 components:
   - flexibility
